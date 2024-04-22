@@ -1061,3 +1061,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.22-17.47.51:034][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2024.04.22-17.47.51:566][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2024.04.22-17.48.27:797][107]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.233 and deleted 0 files with total size 0 MiB. Scanned 10062 files in 9903 folders with total size 769 MiB.
+[2024.04.22-17.58.15:850][260]LogShaderCompilers: Display: ================================================
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: Total job queries 59, among them cache hits 15 (25.42%)
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 39 distinct outputs (88.64%)
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.22-17.58.15:851][260]LogShaderCompilers: Display: ================================================
+[2024.04.22-17.58.17:949][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_CloneStrike.PC_CloneStrike
+[2024.04.22-17.58.17:950][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-17.58.20:649][459]LogSlate: Window 'PC_CloneStrike' being destroyed
+[2024.04.22-17.58.20:659][459]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-17.58.20:659][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-17.58.20:689][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_CloneStrike.PC_CloneStrike
+[2024.04.22-17.58.20:689][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-17.58.21:267][459]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.22-17.58.21:269][459]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.22-17.58.30:630][670]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.22-17.58.30:630][670]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.22-17.58.30:630][670]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.22-17.58.38:222][116]BlueprintLog: New page: Compile PC_CloneStrike
+[2024.04.22-17.58.38:269][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.22-17.58.38:276][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-17.58.38:316][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PC_CloneStrike" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/PC_CloneStrike.uasset" SILENT=true
+[2024.04.22-17.58.38:323][116]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.007007 seconds
+[2024.04.22-17.58.38:324][116]LogSerialization: UsePackageTrailer: 'true'
+[2024.04.22-17.58.38:325][116]LogSavePackage: Moving output files for package: /Game/Blueprints/PC_CloneStrike
+[2024.04.22-17.58.38:326][116]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/PC_CloneStrike4896F3B0456713AE2F6EC5B5D484898D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/PC_CloneStrike.uasset'
+[2024.04.22-17.58.38:332][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms
+[2024.04.22-17.58.38:337][116]AssetCheck: New page: Asset Save: PC_CloneStrike
+[2024.04.22-17.58.38:337][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PC_CloneStrike.PC_CloneStrike
+[2024.04.22-17.58.42:970][390]LogSlate: Window 'PC_CloneStrike' being destroyed
+[2024.04.22-17.58.42:977][390]LogSlate: Window 'PC_CloneStrike' being destroyed
+[2024.04.22-17.58.42:986][390]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-17.58.42:986][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-17.58.49:598][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.22-17.59.05:827][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_CloneStrike.PC_CloneStrike
+[2024.04.22-17.59.05:828][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-18.06.08:773][500]LogViewport: Scene viewport resized to 1245x648, mode Windowed.
+[2024.04.22-18.07.00:903][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.22-18.07.00:903][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/MAP_Main' took 0.035
+[2024.04.22-18.07.00:904][190]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PC_CloneStrike] ([2] browsable assets)...
+[2024.04.22-18.07.00:904][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PC_CloneStrike]
+[2024.04.22-18.07.00:906][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PC_CloneStrike_Auto1
+[2024.04.22-18.07.00:906][190]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/PC_CloneStrike_Auto12F03C0964F033870330890980EBFA66E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/Autosaves/Game/Blueprints/PC_CloneStrike_Auto1.uasset'
+[2024.04.22-18.07.00:907][190]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.04.22-18.07.45:855][326]BlueprintLog: New page: Compile PC_CloneStrike
+[2024.04.22-18.07.45:902][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.22-18.07.45:909][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-18.07.45:939][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PC_CloneStrike" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/PC_CloneStrike.uasset" SILENT=true
+[2024.04.22-18.07.45:942][326]LogSavePackage: Moving output files for package: /Game/Blueprints/PC_CloneStrike
+[2024.04.22-18.07.45:942][326]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/PC_CloneStrikeF3785B0348D49ECB9A0AC798988628C1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/PC_CloneStrike.uasset'
+[2024.04.22-18.07.45:948][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 95 ms)
+[2024.04.22-18.07.45:954][326]AssetCheck: New page: Asset Save: PC_CloneStrike
+[2024.04.22-18.07.45:954][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PC_CloneStrike.PC_CloneStrike
+[2024.04.22-18.07.48:395][410]LogSlate: Window 'PC_CloneStrike' being destroyed
+[2024.04.22-18.07.48:405][410]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-18.07.48:405][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-18.07.50:393][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.04.22-18.07.50:393][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-18.08.19:669][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-18.08.19:701][967]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.04.22-18.08.19:702][967]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/BP_PlayerBaseFC1D8FA84EE2D15BD04638B2D5E19EE4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.04.22-18.08.19:707][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 133 ms)
+[2024.04.22-18.08.19:712][967]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.04.22-18.08.19:712][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.04.22-18.08.20:554][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.22-18.08.20:582][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.04.22-18.08.20:583][ 18]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Saved/BP_PlayerBase4E19B4FB4F3EF945682DCAAB961C30DD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CloneStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.04.22-18.08.20:589][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 167 ms)
+[2024.04.22-18.08.20:594][ 18]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.04.22-18.08.20:594][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.04.22-18.08.47:037][408]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/INT_PlayerController.INT_PlayerController
+[2024.04.22-18.08.47:037][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.22-18.08.48:930][489]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.22-18.08.48:930][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.22-18.08.50:574][586]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.04.22-18.08.50:632][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
