@@ -3433,3 +3433,233 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.26-20.06.52:611][145]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.496ms to complete.
 [2024.04.26-20.06.54:819][276]LogSlate: Window 'Message Log' being destroyed
 [2024.04.26-20.06.54:825][276]LogSlate: Window 'Message Log' being destroyed
+[2024.04.26-20.10.34:229][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-20.10.34:289][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.26-20.10.34:313][312]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.04.26-20.10.34:313][312]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainD5085F714CAF548DE8615DA4D304B5D4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.04.26-20.10.34:320][312]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/MAP_Main_BuiltData
+[2024.04.26-20.10.34:320][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-20.10.34:320][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MAP_Main_BuiltData" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main_BuiltData.uasset" SILENT=true
+[2024.04.26-20.10.34:338][312]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main_BuiltData
+[2024.04.26-20.10.34:338][312]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_BuiltDataE60C463646E100B575FE15A865E6FB82.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main_BuiltData.uasset'
+[2024.04.26-20.10.34:339][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 18 ms (total: 8.42 sec)
+[2024.04.26-20.10.34:339][312]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/MAP_Main_BuiltData
+[2024.04.26-20.10.34:339][312]LogFileHelpers: Saving map 'MAP_Main' took 0.084
+[2024.04.26-20.10.34:346][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 8.54 sec)
+[2024.04.26-20.10.34:347][312]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.26-20.10.34:347][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.04.26-20.10.34:347][312]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData
+[2024.04.26-20.10.44:109][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.26-20.10.44:165][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.26-20.10.44:186][891]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.04.26-20.10.44:186][891]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainD48AB6614E09EAC825BB54A603346331.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.04.26-20.10.44:192][891]LogFileHelpers: All files are already saved.
+[2024.04.26-20.10.44:192][891]LogFileHelpers: Saving map 'MAP_Main' took 0.055
+[2024.04.26-20.10.44:198][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.63 sec)
+[2024.04.26-20.10.44:200][891]AssetCheck: New page: Asset Save: MAP_Main
+[2024.04.26-20.10.44:200][891]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.04.26-20.12.31:179][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.26-20.12.31:179][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.26-20.12.31:180][499]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.StaticMeshActor_69
+[2024.04.26-20.12.31:378][499]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.StaticMeshActor_69
+[2024.04.26-20.12.38:025][880]Cmd: DELETE
+[2024.04.26-20.12.38:025][880]Cmd: ACTOR DELETE
+[2024.04.26-20.12.38:027][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.26-20.12.38:034][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.26-20.12.38:037][880]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.04.26-20.20.44:285][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.26-20.20.44:312][ 33]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Main_Auto7
+[2024.04.26-20.20.44:312][ 33]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_Auto7B9BB22E74366897ADFDEF4B1015FF3AB.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto7.umap'
+[2024.04.26-20.20.44:313][ 33]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto7.umap is in the /Temp path, will not scan.
+[2024.04.26-20.20.44:313][ 33]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Main_Auto7 is in the /Temp path, will not scan.
+[2024.04.26-20.20.44:313][ 33]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Main_Auto7 is in the /Temp path, will not scan.
+[2024.04.26-20.20.44:313][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.034
+[2024.04.26-20.20.44:313][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.04.26-20.23.52:497][440]LogViewport: Scene viewport resized to 1533x633, mode Windowed.
+[2024.04.26-20.23.52:527][441]LogViewport: Scene viewport resized to 1533x626, mode Windowed.
+[2024.04.26-20.23.52:562][442]LogViewport: Scene viewport resized to 1533x620, mode Windowed.
+[2024.04.26-20.23.52:621][444]LogViewport: Scene viewport resized to 1533x618, mode Windowed.
+[2024.04.26-20.23.52:655][445]LogViewport: Scene viewport resized to 1533x612, mode Windowed.
+[2024.04.26-20.23.52:690][446]LogViewport: Scene viewport resized to 1533x608, mode Windowed.
+[2024.04.26-20.23.52:734][447]LogViewport: Scene viewport resized to 1533x604, mode Windowed.
+[2024.04.26-20.23.52:770][448]LogViewport: Scene viewport resized to 1533x598, mode Windowed.
+[2024.04.26-20.23.52:824][450]LogViewport: Scene viewport resized to 1533x594, mode Windowed.
+[2024.04.26-20.23.52:856][451]LogViewport: Scene viewport resized to 1533x590, mode Windowed.
+[2024.04.26-20.23.52:892][452]LogViewport: Scene viewport resized to 1533x587, mode Windowed.
+[2024.04.26-20.23.52:928][453]LogViewport: Scene viewport resized to 1533x583, mode Windowed.
+[2024.04.26-20.23.53:080][461]LogViewport: Scene viewport resized to 1533x582, mode Windowed.
+[2024.04.26-20.23.53:109][462]LogViewport: Scene viewport resized to 1533x581, mode Windowed.
+[2024.04.26-20.23.53:142][463]LogViewport: Scene viewport resized to 1533x580, mode Windowed.
+[2024.04.26-20.23.53:174][464]LogViewport: Scene viewport resized to 1533x576, mode Windowed.
+[2024.04.26-20.23.53:208][465]LogViewport: Scene viewport resized to 1533x574, mode Windowed.
+[2024.04.26-20.23.53:276][468]LogViewport: Scene viewport resized to 1533x573, mode Windowed.
+[2024.04.26-20.23.53:320][470]LogViewport: Scene viewport resized to 1533x570, mode Windowed.
+[2024.04.26-20.23.53:365][472]LogViewport: Scene viewport resized to 1533x569, mode Windowed.
+[2024.04.26-20.29.53:243][747]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SuperGrid/StarterPack/Source/New/SuperGrid_Plane.SuperGrid_Plane
+[2024.04.26-20.29.53:398][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.26-20.29.53:398][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.26-20.29.54:316][747]LogViewport: Scene viewport resized to 559x378, mode Windowed.
+[2024.04.26-20.29.59:725][765]LogViewport: Scene viewport resized to 1261x902, mode Windowed.
+[2024.04.26-20.31.23:812][297]LogSlate: Window 'SuperGrid_Plane' being destroyed
+[2024.04.26-20.31.24:027][297]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-20.31.24:027][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-20.32.25:685][391]MapCheck: New page: Map Check
+[2024.04.26-20.32.25:705][391]Cmd: MAP REBUILD ALLVISIBLE
+[2024.04.26-20.32.25:707][391]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.04.26-20.32.25:806][391]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-20.32.25:807][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-20.32.25:807][391]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.26-20.32.25:807][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: ================================================
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Total job queries 427, among them cache hits 177 (41.45%)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Tracking 248 distinct input hashes that result in 192 distinct outputs (77.42%)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: RAM used: 6.61 MiB of 819.20 MiB budget. Usage: 0.81%
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Shaders Compiled: 236
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Jobs assigned 236, completed 236 (100%)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Average time worker was idle: 114.86 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Time job spent in pending queue: average 2.11 s, longest 9.68 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Job execution time: average 1.31 s, max 7.95 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Job life time (pending + execution): average 3.42 s, max 10.61
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Shader code size: average 45.553 KiB, min 28.953 KiB, max 73.34 KiB
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.92 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Jobs were issued in 236 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Average processing rate: 3.69 jobs/sec
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Total thread time: 232.369 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Total thread preprocess time: 16.856 s
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Percentage time preprocessing: 7.25%
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Effective parallelization: 3.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 4.62 sec, max 4.62 sec, min 4.62 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 3.28 sec, max 3.28 sec, min 3.28 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   12 times, average 1.42 sec, max 2.00 sec, min 0.52 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.79% of total time (compiled   25 times, average 1.10 sec, max 4.54 sec, min 0.34 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.03% of total time (compiled   23 times, average 0.91 sec, max 4.41 sec, min 0.28 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.34% of total time (compiled   12 times, average 1.42 sec, max 2.00 sec, min 0.52 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.77% of total time (compiled   14 times, average 0.79 sec, max 3.95 sec, min 0.39 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 4.18% of total time (compiled    8 times, average 1.21 sec, max 1.37 sec, min 1.03 sec)
+[2024.04.26-20.32.25:813][391]LogShaderCompilers: Display: ================================================
+[2024.04.26-20.32.25:819][391]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.04.26-20.32.26:158][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.26-20.32.26:172][391]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2024.04.26-20.32.26:174][391]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2024.04.26-20.32.26:180][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.26-20.32.26:195][391]LightingResults: New page: Lighting Build - Apr 27, 2024, 2:32:26 AM
+[2024.04.26-20.32.26:222][391]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.04.26-20.32.26:224][391]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.04.26-20.32.26:228][391]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.04.26-20.32.26:229][391]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.04.26-20.32.26:229][391]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20612
+[2024.04.26-20.32.30:895][391]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.04.26-20.32.30:895][391]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.04.26-20.32.30:895][391]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.04.26-20.32.30:895][391]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.04.26-20.32.30:895][391]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.04.26-20.32.31:210][391]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.04.26-20.32.31:210][391]MapCheck: New page: MAP_Main - Apr 27, 2024, 2:32:31 AM
+[2024.04.26-20.32.31:210][391]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.581ms to complete.
+[2024.04.26-20.32.31:210][391]LogEditorBuildUtils: Build time 0:05
+[2024.04.26-20.32.31:278][391]LogAutomationController: Ignoring very large delta of 5.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.26-20.32.31:288][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.26-20.32.33:310][416]LightingResults: Warning: SuperGrid_RingFull Object has wrapping UVs.
+[2024.04.26-20.32.34:292][440]Job is a success!
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:      Bricks at depth
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:          1: 3.7% covering 14.1% of volume
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:          2: 95.9% covering 5.7% of volume
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:      Bricks in each level
+[2024.04.26-20.33.30:663][450]LogVolumetricLightmapImport:          MAP_Main 			 245 bricks 	 100.0% (Persistent Level)
+[2024.04.26-20.33.30:747][450]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:SkyOcclusion0_1 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 79.645815 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.30:756][450]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.30:774][450]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.30:897][450]Lightmass on DESKTOP-Q3OAHUL: 58.6 sec total, 118 ms importing, 6 ms setup, 244 ms photons, 58.2 sec processing, 0 us extra exporting [44/44 mappings]. Threads: 10:41 min total, 6.56 sec processing.
+[2024.04.26-20.33.30:898][450]LogStaticLightingSystem: MAP_Main_BuiltData storing lightmap data for 44 meshes in 1 LightmapResourceClusters (44.0 Meshes per cluster).
+[2024.04.26-20.33.30:915][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.26-20.33.30:924][450]LogStaticLightingSystem: Illumination: 8.43 sec (106 ms encoding lightmaps, 72 ms encoding shadowmaps)
+[2024.04.26-20.33.30:924][450]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.04.26-20.33.30:924][450]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2024.04.26-20.33.31:828][450]DumpUnbuiltLightIteractions
+[2024.04.26-20.33.31:828][450]Lights with unbuilt interactions: 0
+[2024.04.26-20.33.31:828][450]
+[2024.04.26-20.33.31:828][450]Primitives with unbuilt interactions: 0
+[2024.04.26-20.33.32:031][451]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.04.26-20.33.32:031][451]MapCheck: New page: MAP_Main - Apr 27, 2024, 2:33:32 AM
+[2024.04.26-20.33.32:031][451]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.538ms to complete.
+[2024.04.26-20.33.34:080][572]LogSlate: Window 'Message Log' being destroyed
+[2024.04.26-20.33.34:084][572]LogSlate: Window 'Message Log' being destroyed
+[2024.04.26-20.33.36:394][709]MapCheck: New page: Map Check
+[2024.04.26-20.33.36:412][709]Cmd: MAP REBUILD ALLVISIBLE
+[2024.04.26-20.33.36:413][709]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.04.26-20.33.36:500][709]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.26-20.33.36:500][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.26-20.33.36:500][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.26-20.33.36:500][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.26-20.33.36:521][709]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.04.26-20.33.36:536][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.26-20.33.36:550][709]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2024.04.26-20.33.36:552][709]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2024.04.26-20.33.36:556][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.26-20.33.36:559][709]LightingResults: New page: Lighting Build - Apr 27, 2024, 2:33:36 AM
+[2024.04.26-20.33.36:564][709]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.04.26-20.33.36:567][709]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.04.26-20.33.36:567][709]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.04.26-20.33.36:567][709]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.04.26-20.33.36:567][709]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20612
+[2024.04.26-20.33.41:106][709]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.04.26-20.33.41:106][709]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.04.26-20.33.41:106][709]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.04.26-20.33.41:106][709]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.04.26-20.33.41:106][709]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.04.26-20.33.41:742][709]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.04.26-20.33.41:742][709]MapCheck: New page: MAP_Main - Apr 27, 2024, 2:33:41 AM
+[2024.04.26-20.33.41:742][709]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.549ms to complete.
+[2024.04.26-20.33.41:742][709]LogEditorBuildUtils: Build time 0:05
+[2024.04.26-20.33.41:815][710]LogAutomationController: Ignoring very large delta of 5.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.26-20.33.41:822][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.26-20.33.43:629][769]LightingResults: Warning: SuperGrid_RingFull Object has wrapping UVs.
+[2024.04.26-20.33.44:630][806]Job is a success!
+[2024.04.26-20.33.45:270][820]Cmd: STAT FPS
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.025s
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:      Bricks at depth
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:          1: 3.7% covering 14.1% of volume
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:          2: 95.9% covering 5.7% of volume
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:      Bricks in each level
+[2024.04.26-20.33.52:737][252]LogVolumetricLightmapImport:          MAP_Main 			 245 bricks 	 100.0% (Persistent Level)
+[2024.04.26-20.33.52:833][252]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:SkyOcclusion1_1 (TFO_AutoDXT, 1024x512 x1x1x1) (Required Memory Estimate: 79.645815 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.52:844][252]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.979156 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.52:867][252]LogTexture: Display: Building textures: /Game/Maps/MAP_Main_BuiltData.MAP_Main_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 115.979155 MB), EncodeSpeed: Fast
+[2024.04.26-20.33.52:965][252]Lightmass on DESKTOP-Q3OAHUL: 10.3 sec total, 102 ms importing, 4 ms setup, 327 ms photons, 9.90 sec processing, 0 us extra exporting [44/44 mappings]. Threads: 1:48 min total, 5.98 sec processing.
+[2024.04.26-20.33.52:980][252]LogStaticLightingSystem: MAP_Main_BuiltData storing lightmap data for 44 meshes in 1 LightmapResourceClusters (44.0 Meshes per cluster).
+[2024.04.26-20.33.53:005][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.26-20.33.53:014][252]LogStaticLightingSystem: Illumination: 8.70 sec (128 ms encoding lightmaps, 66 ms encoding shadowmaps)
+[2024.04.26-20.33.53:014][252]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.04.26-20.33.53:014][252]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2024.04.26-20.33.53:114][252]DumpUnbuiltLightIteractions
+[2024.04.26-20.33.53:114][252]Lights with unbuilt interactions: 0
+[2024.04.26-20.33.53:114][252]
+[2024.04.26-20.33.53:114][252]Primitives with unbuilt interactions: 0
+[2024.04.26-20.33.53:280][253]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.04.26-20.33.53:280][253]MapCheck: New page: MAP_Main - Apr 27, 2024, 2:33:53 AM
+[2024.04.26-20.33.53:281][253]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.561ms to complete.
+[2024.04.26-20.33.57:502][404]LogSlate: Window 'Message Log' being destroyed
+[2024.04.26-20.33.57:507][404]LogSlate: Window 'Message Log' being destroyed
+[2024.04.26-20.34.29:882][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.26-20.34.29:907][274]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Main_Auto8
+[2024.04.26-20.34.29:907][274]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_Auto860AA682C418501A198F6DA92A2AF2703.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto8.umap'
+[2024.04.26-20.34.29:908][274]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto8.umap is in the /Temp path, will not scan.
+[2024.04.26-20.34.29:908][274]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Main_Auto8 is in the /Temp path, will not scan.
+[2024.04.26-20.34.29:908][274]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Main_Auto8 is in the /Temp path, will not scan.
+[2024.04.26-20.34.29:908][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.031
+[2024.04.26-20.34.29:908][274]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
