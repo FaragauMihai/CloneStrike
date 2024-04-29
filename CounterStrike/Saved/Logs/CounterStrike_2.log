@@ -9455,3 +9455,628 @@ Script Stack (0 frames) :
 [2024.04.29-17.04.15:220][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2024.04.29-17.04.15:236][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
 [2024.04.29-17.04.15:335][808]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.29-17.09.09:164][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.29-17.09.09:164][737]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.018
+[2024.04.29-17.19.09:775][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.29-17.19.09:776][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.015
+[2024.04.29-17.29.10:221][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.29-17.29.10:222][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.029
+[2024.04.29-17.39.10:582][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.29-17.39.10:582][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.014
+[2024.04.29-17.49.11:050][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.29-17.49.11:051][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.024
+[2024.04.29-17.52.52:460][606]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.167 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14154 files in 16495 folders with total size 585 MiB.
+[2024.04.29-17.59.11:472][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.29-17.59.11:473][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.04.29-18.09.11:908][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.29-18.09.11:908][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.04.29-18.19.12:352][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.29-18.19.12:353][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.018
+[2024.04.29-18.29.12:810][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.29-18.29.12:811][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.018
+[2024.04.29-18.39.13:225][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.29-18.39.13:226][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.04.29-18.49.13:972][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.29-18.49.13:973][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.016
+[2024.04.29-18.52.52:434][404]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14154 files in 16495 folders with total size 585 MiB.
+[2024.04.29-18.59.14:503][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.29-18.59.14:504][549]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.04.29-19.09.14:960][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.29-19.09.14:960][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.025
+[2024.04.29-19.19.15:338][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.29-19.19.15:338][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.015
+[2024.04.29-19.28.40:688][ 50]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.29-19.28.40:695][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.29-19.28.40:695][ 50]PIE: New page: PIE session: MAP_Main (Apr 30, 2024, 1:28:40 AM)
+[2024.04.29-19.28.40:696][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.04.29-19.28.40:704][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008279s)
+[2024.04.29-19.28.40:704][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.008343s)
+[2024.04.29-19.28.40:720][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.29-19.28.40:721][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.28.40:721][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-19.28.40:722][ 50]LogAIModule: Creating AISystem for world MAP_Main
+[2024.04.29-19.28.40:722][ 50]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2024.04.29-19.28.40:722][ 50]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.29-19.28.40:723][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.29-19.28.40:723][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.29-19.28.40:723][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.29-19.28.40:724][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.29-19.28.40:724][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.29-19.28.40:726][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.29-19.28.40:835][ 50]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.04.29-19.28.40:836][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.29-19.28.40:836][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.29-19.28.40:836][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.29-19.28.40:838][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.04.29-19.28.40:838][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.04.29-19.28.40:840][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.04.29-19.28.40:840][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.04.29-19.28.40:840][ 50]LogInit: FAudioDevice initialized with ID 10.
+[2024.04.29-19.28.40:840][ 50]LogAudio: Display: Audio Device (ID: 10) registered with world 'MAP_Main'.
+[2024.04.29-19.28.40:840][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.29-19.28.40:860][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-19.28.40:861][ 50]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.04.29-19.28.40:865][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.04.29-22.28.40
+[2024.04.29-19.28.40:865][ 50]LogWorld: Bringing up level for play took: 0.004117
+[2024.04.29-19.28.40:867][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.04.29-19.28.40:875][ 50]PIE: Server logged in
+[2024.04.29-19.28.40:877][ 50]PIE: Play in editor total start time 0.182 seconds.
+[2024.04.29-19.28.40:901][ 50]LogViewport: Scene viewport resized to 1286x750, mode Windowed.
+[2024.04.29-19.28.47:049][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.29-19.28.47:049][256]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.04.29-19.28.47:049][256]LogSlate: Window 'CounterStrike Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.29-19.28.47:054][256]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-19.28.47:055][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-19.28.47:057][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.29-19.28.47:063][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-19.28.47:076][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.04.29-19.28.47:077][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.29-19.28.47:078][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.04.29-19.28.47:090][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.29-19.28.47:206][257]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.29-19.29.29:570][345]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Anim_Crouch_B_Rifle.Anim_Crouch_B_Rifle
+[2024.04.29-19.29.29:580][345]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_B_Rifle.Anim_Crouch_B_Rifle
+[2024.04.29-19.29.29:665][345]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_B_Rifle.Anim_Crouch_B_Rifle, at AnimationSequence/bc9898d1dc94ca4c1ac286d483fa378351c01f32
+[2024.04.29-19.29.29:774][345]LogTexture: Display: Building textures: /Game/References/References02/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.04.29-19.29.29:782][345]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.04.29-19.29.29:827][345]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/References/References02/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2024.04.29-19.29.29:945][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.29.29:945][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-19.29.30:254][345]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.04.29-19.29.30:400][345]LogSkeletalMesh: Building Skeletal Mesh SM_1911_Pistol_01...
+[2024.04.29-19.29.30:406][345]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/References/References02/Character/Mesh/SM_1911_Pistol_01.SM_1911_Pistol_01
+[2024.04.29-19.29.30:454][345]LogSkeletalMesh: Building Skeletal Mesh SM_M4_Rifle_01...
+[2024.04.29-19.29.30:469][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-19.29.30:482][345]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/References/References02/Character/Mesh/SM_M4_Rifle_01.SM_M4_Rifle_01
+[2024.04.29-19.29.31:313][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.29.31:313][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-19.29.31:577][345]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.04.29-19.29.31:607][345]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.037191s (0.037191s overbudget)
+[2024.04.29-19.29.31:650][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.29.31:835][345]LogSlate: Took 0.017017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.29-19.29.31:929][345]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.04.29-19.29.31:937][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.29.31:937][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-19.29.32:107][345]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.04.29-19.29.32:506][345]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-19.29.32:731][346]LogAutomationController: Ignoring very large delta of 3.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: ================================================
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Total job queries 154, among them cache hits 15 (9.74%)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Tracking 123 distinct input hashes that result in 99 distinct outputs (80.49%)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: RAM used: 2.90 MiB of 819.20 MiB budget. Usage: 0.35%
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Shaders Compiled: 88
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Jobs assigned 96, completed 88 (91.67%)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Average time worker was idle: 849.97 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Time job spent in pending queue: average 3.48 s, longest 9.37 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.55 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Job life time (pending + execution): average 4.75 s, max 10.60
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Shader code size: average 35.972 KiB, min 4.328 KiB, max 58.414 KiB
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.62 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Average processing rate: 6.46 jobs/sec
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Total thread time: 74.818 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Total thread preprocess time: 4.819 s
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Percentage time preprocessing: 6.44%
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Effective parallelization: 5.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:   TBasePassPSFCachedPointIndirectLightingPolicyForceVelocity (compiled    1 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   15 times, average 1.57 sec, max 1.97 sec, min 0.66 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 1.55 sec, max 1.88 sec, min 0.90 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 1.41 sec, max 2.44 sec, min 0.58 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    9 times, average 1.28 sec, max 1.53 sec, min 0.85 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 31.54% of total time (compiled   15 times, average 1.57 sec, max 1.97 sec, min 0.66 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 15.40% of total time (compiled    9 times, average 1.28 sec, max 1.53 sec, min 0.85 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 9.45% of total time (compiled    5 times, average 1.41 sec, max 2.44 sec, min 0.58 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.20% of total time (compiled    3 times, average 1.55 sec, max 1.88 sec, min 0.90 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.86% of total time (compiled    7 times, average 0.52 sec, max 0.55 sec, min 0.49 sec)
+[2024.04.29-19.29.34:406][430]LogShaderCompilers: Display: ================================================
+[2024.04.29-19.29.36:073][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.29.36:200][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-19.30.16:869][518]LogSlate: Window 'Anim_Crouch_B_Rifle' being destroyed
+[2024.04.29-19.30.16:878][518]LogSlate: Window 'Anim_Crouch_B_Rifle' being destroyed
+[2024.04.29-19.30.16:922][518]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-19.30.16:922][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-19.30.16:932][518]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-19.30.16:932][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-19.30.17:027][518]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-19.30.17:027][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-19.30.43:071][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.29-19.30.43:073][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.021
+[2024.04.29-19.35.52:189][700]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.29-19.35.52:193][700]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.29-19.35.52:211][701]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.29-19.35.53:907][803]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2024.04.29-19.35.53:907][803]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.29-19.36.26:880][148]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.29-19.36.41:979][ 13]LogContentBrowser: Deferred new asset file creation: NewIKRig
+[2024.04.29-19.36.41:989][ 13]LogContentBrowser: Creating deferred item: NewIKRig
+[2024.04.29-19.36.42:058][ 15]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRig).
+[2024.04.29-19.37.16:881][564]LogContentBrowser: Attempting asset rename: NewIKRig -> IK_Mannequin
+[2024.04.29-19.37.16:883][564]LogContentBrowser: End creating deferred item NewIKRig
+[2024.04.29-19.37.18:754][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-19.37.18:820][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2024.04.29-19.37.18:820][657]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_MannequinA152F24D46748C6413D75A9A08F04E66.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2024.04.29-19.37.18:828][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 8.55 sec)
+[2024.04.29-19.37.18:829][657]AssetCheck: New page: Asset Save: IK_Mannequin
+[2024.04.29-19.37.18:829][657]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-19.40.43:666][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.29-19.40.43:669][466]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.026
+[2024.04.29-19.50.44:164][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.29-19.50.44:165][267]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.017
+[2024.04.29-19.52.52:435][653]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14195 files in 16537 folders with total size 588 MiB.
+[2024.04.29-20.00.44:564][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.29-20.00.44:565][ 68]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.019
+[2024.04.29-20.00.52:577][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.00.52:644][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.29-20.00.52:665][245]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.04.29-20.00.52:665][245]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainF3A3F797446813914289BCAC95A333BA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.04.29-20.00.52:671][245]LogFileHelpers: All files are already saved.
+[2024.04.29-20.00.52:671][245]LogFileHelpers: Saving map 'MAP_Main' took 0.067
+[2024.04.29-20.00.52:678][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.65 sec)
+[2024.04.29-20.00.52:681][245]AssetCheck: New page: Asset Save: MAP_Main
+[2024.04.29-20.00.52:681][245]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.04.29-20.04.41:081][695]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-20.04.41:487][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.04.41:487][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-20.04.42:010][695]LogViewport: Scene viewport resized to 1268x637, mode Windowed.
+[2024.04.29-20.05.14:539][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.05.14:581][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.05.30:545][107]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.04.29-20.05.30:562][107]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.04.29-20.05.30:564][107]LogTexture: Display: Building textures: /Game/References/References01/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.04.29-20.05.30:590][107]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/References/References01/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2024.04.29-20.05.30:668][107]LogTexture: Display: Building textures: /Game/References/References01/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.04.29-20.05.30:690][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.05.30:708][107]LogTexture: Display: Waiting for textures to be ready 0/6 (/Game/References/References01/UE4_Mannequin/Textures/UE4_Mannequin__normals) ...
+[2024.04.29-20.05.30:781][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.05.30:867][107]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: ================================================
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Total job queries 182, among them cache hits 29 (15.93%)
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 107 distinct outputs (76.43%)
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: RAM used: 3.30 MiB of 819.20 MiB budget. Usage: 0.40%
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Shaders Compiled: 105
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Jobs assigned 113, completed 105 (92.92%)
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Average time worker was idle: 876.61 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Time job spent in pending queue: average 3.15 s, longest 9.37 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.99 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Job life time (pending + execution): average 4.44 s, max 10.60
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Shader code size: average 35.933 KiB, min 4.328 KiB, max 58.414 KiB
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.05 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Jobs were issued in 113 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Average processing rate: 6.98 jobs/sec
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Total thread time: 83.576 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Total thread preprocess time: 7.603 s
+[2024.04.29-20.05.31:330][114]LogShaderCompilers: Display: Percentage time preprocessing: 9.10%
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display: Effective parallelization: 5.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:   TBasePassPSFCachedPointIndirectLightingPolicyForceVelocity (compiled    1 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   15 times, average 1.57 sec, max 1.97 sec, min 0.66 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 1.55 sec, max 1.88 sec, min 0.90 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 1.41 sec, max 2.44 sec, min 0.58 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    9 times, average 1.28 sec, max 1.53 sec, min 0.85 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 28.24% of total time (compiled   15 times, average 1.57 sec, max 1.97 sec, min 0.66 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 13.78% of total time (compiled    9 times, average 1.28 sec, max 1.53 sec, min 0.85 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 8.46% of total time (compiled    5 times, average 1.41 sec, max 2.44 sec, min 0.58 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.68% of total time (compiled    9 times, average 0.53 sec, max 0.72 sec, min 0.39 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.55% of total time (compiled    3 times, average 1.55 sec, max 1.88 sec, min 0.90 sec)
+[2024.04.29-20.05.31:331][114]LogShaderCompilers: Display: ================================================
+[2024.04.29-20.05.32:789][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.06.07:732][791]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_BL_Pistol.Anim_Crouch_BL_Pistol
+[2024.04.29-20.06.07:782][792]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_BL_Pistol.Anim_Crouch_BL_Pistol, at AnimationSequence/bf1fee2da8df70bf830b6e2731c5c78342b57ae9
+[2024.04.29-20.06.11:783][996]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_Fire_Pistol.Anim_Crouch_Fire_Pistol
+[2024.04.29-20.06.11:813][997]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_Fire_Pistol.Anim_Crouch_Fire_Pistol, at AnimationSequence/c7dfecd3b442b5ebec3bc41767e3f87f815d88c6
+[2024.04.29-20.06.13:464][ 84]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_R_Pistol.Anim_Crouch_R_Pistol
+[2024.04.29-20.06.13:500][ 86]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_R_Pistol.Anim_Crouch_R_Pistol, at AnimationSequence/f7b06baf3355c5c6b864a1f982cadd7a73488028
+[2024.04.29-20.07.16:637][ 79]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.07.16:736][ 80]LogAutomationController: Ignoring very large delta of 4.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.08.17:022][283]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.08.17:150][284]LogAutomationController: Ignoring very large delta of 56.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.08.36:098][608]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.08.36:148][609]LogAutomationController: Ignoring very large delta of 10.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.08.41:971][649]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.08.42:021][650]LogAutomationController: Ignoring very large delta of 5.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.08.49:405][691]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.08.49:457][692]LogAutomationController: Ignoring very large delta of 6.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.09.02:300][755]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.09.02:355][756]LogAutomationController: Ignoring very large delta of 11.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.09.16:644][807]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.09.16:699][808]LogAutomationController: Ignoring very large delta of 5.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.09.25:183][845]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-20.09.25:240][846]LogAutomationController: Ignoring very large delta of 3.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-20.09.25:670][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.09.25:740][864]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2024.04.29-20.09.25:740][864]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_MannequinC0C6468C4F46BE392B0CF5ADE51B8285.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2024.04.29-20.09.25:747][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 8.73 sec)
+[2024.04.29-20.09.25:751][864]AssetCheck: New page: Asset Save: IK_Mannequin
+[2024.04.29-20.09.25:751][864]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-20.11.16:425][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.29-20.11.16:427][226]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.019
+[2024.04.29-20.12.32:158][640]LogViewport: Scene viewport resized to 1266x637, mode Windowed.
+[2024.04.29-20.12.32:229][642]LogViewport: Scene viewport resized to 1263x637, mode Windowed.
+[2024.04.29-20.12.32:270][644]LogViewport: Scene viewport resized to 1262x637, mode Windowed.
+[2024.04.29-20.12.32:295][645]LogViewport: Scene viewport resized to 1260x637, mode Windowed.
+[2024.04.29-20.12.32:338][647]LogViewport: Scene viewport resized to 1258x637, mode Windowed.
+[2024.04.29-20.12.32:411][651]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-20.12.32:558][658]LogViewport: Scene viewport resized to 1254x637, mode Windowed.
+[2024.04.29-20.12.32:590][659]LogViewport: Scene viewport resized to 1255x637, mode Windowed.
+[2024.04.29-20.12.32:668][661]LogViewport: Scene viewport resized to 1253x637, mode Windowed.
+[2024.04.29-20.12.32:709][663]LogViewport: Scene viewport resized to 1251x637, mode Windowed.
+[2024.04.29-20.12.32:749][665]LogViewport: Scene viewport resized to 1248x637, mode Windowed.
+[2024.04.29-20.12.32:773][666]LogViewport: Scene viewport resized to 1245x637, mode Windowed.
+[2024.04.29-20.12.32:801][667]LogViewport: Scene viewport resized to 1243x637, mode Windowed.
+[2024.04.29-20.12.33:642][717]LogViewport: Scene viewport resized to 1246x637, mode Windowed.
+[2024.04.29-20.12.33:732][719]LogViewport: Scene viewport resized to 1249x637, mode Windowed.
+[2024.04.29-20.12.33:759][720]LogViewport: Scene viewport resized to 1250x637, mode Windowed.
+[2024.04.29-20.12.33:788][721]LogViewport: Scene viewport resized to 1252x637, mode Windowed.
+[2024.04.29-20.12.34:431][759]LogViewport: Scene viewport resized to 1253x637, mode Windowed.
+[2024.04.29-20.12.34:533][761]LogViewport: Scene viewport resized to 1249x637, mode Windowed.
+[2024.04.29-20.12.34:659][768]LogViewport: Scene viewport resized to 1247x637, mode Windowed.
+[2024.04.29-20.12.37:094][911]LogViewport: Scene viewport resized to 1249x637, mode Windowed.
+[2024.04.29-20.12.46:207][400]LogViewport: Scene viewport resized to 1251x637, mode Windowed.
+[2024.04.29-20.12.46:298][403]LogViewport: Scene viewport resized to 1253x637, mode Windowed.
+[2024.04.29-20.12.46:422][408]LogViewport: Scene viewport resized to 1256x637, mode Windowed.
+[2024.04.29-20.12.46:541][413]LogViewport: Scene viewport resized to 1258x637, mode Windowed.
+[2024.04.29-20.12.46:608][415]LogViewport: Scene viewport resized to 1259x637, mode Windowed.
+[2024.04.29-20.12.46:767][424]LogViewport: Scene viewport resized to 1261x637, mode Windowed.
+[2024.04.29-20.12.46:916][431]LogViewport: Scene viewport resized to 1262x637, mode Windowed.
+[2024.04.29-20.12.51:292][653]LogViewport: Scene viewport resized to 1260x637, mode Windowed.
+[2024.04.29-20.12.51:316][654]LogViewport: Scene viewport resized to 1258x637, mode Windowed.
+[2024.04.29-20.12.51:418][655]LogViewport: Scene viewport resized to 1256x637, mode Windowed.
+[2024.04.29-20.12.51:453][656]LogViewport: Scene viewport resized to 1254x637, mode Windowed.
+[2024.04.29-20.12.51:545][661]LogViewport: Scene viewport resized to 1253x637, mode Windowed.
+[2024.04.29-20.12.58:248][ 26]LogViewport: Scene viewport resized to 1254x637, mode Windowed.
+[2024.04.29-20.12.58:599][ 45]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-20.21.33:918][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.21.33:979][520]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2024.04.29-20.21.33:979][520]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_Mannequin5FB0C51849BA160F6CDDEC87FC9F83EA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2024.04.29-20.21.33:985][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 8.80 sec)
+[2024.04.29-20.21.33:986][520]AssetCheck: New page: Asset Save: IK_Mannequin
+[2024.04.29-20.21.33:986][520]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-20.21.58:932][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.29-20.21.58:933][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.04.29-20.27.13:577][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.27.13:615][716]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2024.04.29-20.27.13:615][716]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_Mannequin0F364A1F4B2AE5950D16E1A874A026E2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2024.04.29-20.27.13:622][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 8.84 sec)
+[2024.04.29-20.27.13:623][716]AssetCheck: New page: Asset Save: IK_Mannequin
+[2024.04.29-20.27.13:623][716]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-20.27.15:794][759]LogSlate: Window 'IK_Mannequin' being destroyed
+[2024.04.29-20.27.15:802][759]LogSlate: Window 'IK_Mannequin' being destroyed
+[2024.04.29-20.27.15:821][759]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-20.27.15:821][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-20.27.38:241][540]LogContentBrowser: Deferred new asset file creation: IK_Mannequin1
+[2024.04.29-20.27.38:251][540]LogContentBrowser: Creating deferred item: IK_Mannequin1
+[2024.04.29-20.27.38:261][541]LogContentBrowser: Renaming the item being created (Deferred Item: IK_Mannequin1).
+[2024.04.29-20.27.43:397][807]LogContentBrowser: Attempting asset rename: IK_Mannequin1 -> IK_Layer
+[2024.04.29-20.27.43:526][807]LogContentBrowser: End creating deferred item IK_Mannequin1
+[2024.04.29-20.27.47:701][961]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Layer.IK_Layer
+[2024.04.29-20.27.47:701][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.27.47:701][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-20.27.47:712][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.27.47:712][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.27.48:111][961]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-20.28.33:776][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.28.33:784][606]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.30.37:554][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.30.37:640][312]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Layer
+[2024.04.29-20.30.37:640][312]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_Layer8525DAF24DD7B8EF004822BFF92CC7F2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Layer.uasset'
+[2024.04.29-20.30.37:646][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 8.94 sec)
+[2024.04.29-20.30.37:647][312]AssetCheck: New page: Asset Save: IK_Layer
+[2024.04.29-20.30.37:647][312]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Layer.IK_Layer
+[2024.04.29-20.30.38:455][353]LogSlate: Window 'IK_Layer' being destroyed
+[2024.04.29-20.30.38:476][353]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-20.30.38:477][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-20.32.05:362][504]LogContentBrowser: Deferred new asset file creation: NewIKRetargeter
+[2024.04.29-20.32.05:369][504]LogContentBrowser: Creating deferred item: NewIKRetargeter
+[2024.04.29-20.32.05:381][505]LogContentBrowser: Renaming the item being created (Deferred Item: NewIKRetargeter).
+[2024.04.29-20.32.08:498][594]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1690)].
+[2024.04.29-20.32.08:499][594]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> NewIKRetargeter
+[2024.04.29-20.32.08:499][594]LogContentBrowser: End creating deferred item NewIKRetargeter
+[2024.04.29-20.32.08:538][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.29-20.32.08:541][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.031
+[2024.04.29-20.32.16:255][ 55]LogContentBrowser: Attempting asset rename: NewIKRetargeter -> IKR_Player
+[2024.04.29-20.32.16:320][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.32.16:354][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-20.32.16:354][ 55]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player6C75538843A4CEB288E4CCA658B64A3E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-20.32.16:365][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 8.98 sec)
+[2024.04.29-20.32.16:389][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.29-20.32.16:403][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.29-20.32.16:418][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.29-20.32.16:419][ 55]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-20.32.16:419][ 55]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.33.36:370][267]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.33.36:749][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.33.36:749][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-20.33.37:197][267]LogViewport: Scene viewport resized to 1268x765, mode Windowed.
+[2024.04.29-20.33.42:213][453]LogSlate: Window 'IKR_Player' being destroyed
+[2024.04.29-20.33.42:233][453]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-20.33.42:233][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-20.33.42:978][495]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.33.42:979][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.33.42:979][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-20.33.43:379][495]LogViewport: Scene viewport resized to 1268x765, mode Windowed.
+[2024.04.29-20.34.33:170][518]LogSlate: Window 'Create New Retarget Pose' being destroyed
+[2024.04.29-20.35.13:915][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.35.13:979][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-20.35.58:265][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.35.58:351][902]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-20.35.58:352][902]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player0897F84240F45F18A57FCF894E03DEC4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-20.35.58:357][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 9.07 sec)
+[2024.04.29-20.35.58:358][902]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-20.35.58:358][902]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.38.30:419][335]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.38.31:917][404]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_F_Pistol.Anim_Crouch_F_Pistol
+[2024.04.29-20.38.31:951][404]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_F_Pistol.Anim_Crouch_F_Pistol, at AnimationSequence/2e74f0cf8bec4b48b49ab07653041456759aef05
+[2024.04.29-20.39.23:034][218]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Walk_B_Pistol.Anim_Walk_B_Pistol
+[2024.04.29-20.39.23:086][219]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Walk_B_Pistol.Anim_Walk_B_Pistol, at AnimationSequence/a15ce305e03a7d82fca4635c711cb3525491e658
+[2024.04.29-20.39.25:952][355]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/AimOffsets/AO_Stand_D_Pistol.AO_Stand_D_Pistol
+[2024.04.29-20.39.25:958][355]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/AimOffsets/AO_Stand_D_Pistol.AO_Stand_D_Pistol, at AnimationSequence/6a4e8c841b7abaab2b1ac8cb01b784e42dd83e13
+[2024.04.29-20.40.54:364][625]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Jump_Start_Pistol.Anim_Jump_Start_Pistol
+[2024.04.29-20.40.54:382][625]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Jump_Start_Pistol.Anim_Jump_Start_Pistol, at AnimationSequence/b88b0a70e5d3b65b3ecdef40c8b27acbe803157f
+[2024.04.29-20.40.55:596][684]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Fire_Pistol.Anim_Fire_Pistol
+[2024.04.29-20.40.55:629][685]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Fire_Pistol.Anim_Fire_Pistol, at AnimationSequence/3c5f82263a3ce97c7ea35eb5669eea86511f38ee
+[2024.04.29-20.40.57:594][783]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Crouch_BR_Pistol.Anim_Crouch_BR_Pistol
+[2024.04.29-20.40.57:633][784]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Crouch_BR_Pistol.Anim_Crouch_BR_Pistol, at AnimationSequence/17ec5112f3c5f9f278278bc5faf439e27f0f3b70
+[2024.04.29-20.41.02:410][  8]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_B_Pistol.Anim_Run_B_Pistol
+[2024.04.29-20.41.02:434][  9]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_B_Pistol.Anim_Run_B_Pistol, at AnimationSequence/319b503d96f119796800e4494b72bc9ee9d1c8a6
+[2024.04.29-20.41.05:703][164]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_BR_Pistol.Anim_Run_BR_Pistol
+[2024.04.29-20.41.05:732][165]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_BR_Pistol.Anim_Run_BR_Pistol, at AnimationSequence/c0bfdb5d6999faa90de296501858e8e7e295a30e
+[2024.04.29-20.41.07:504][247]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_BL_Pistol.Anim_Run_BL_Pistol
+[2024.04.29-20.41.07:531][248]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_BL_Pistol.Anim_Run_BL_Pistol, at AnimationSequence/fc25402dd78696150e2808934d20b7d2e751070e
+[2024.04.29-20.41.09:597][341]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_F_Pistol.Anim_Run_F_Pistol
+[2024.04.29-20.41.09:624][341]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_F_Pistol.Anim_Run_F_Pistol, at AnimationSequence/89206e4ca45db1c746b98ff254418505a2c4646a
+[2024.04.29-20.41.12:269][464]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_FR_Pistol.Anim_Run_FR_Pistol
+[2024.04.29-20.41.12:294][464]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_FR_Pistol.Anim_Run_FR_Pistol, at AnimationSequence/60d05400efaf5b5c26292bf066e9609a484f8f9c
+[2024.04.29-20.42.14:788][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.29-20.42.14:790][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.023
+[2024.04.29-20.45.53:267][849]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.45.54:473][904]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.47.06:214][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.47.06:313][834]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-20.47.06:314][834]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_PlayerA047DC8D40D5E16ABA7D84A14CB8B7A1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-20.47.06:321][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.18 sec)
+[2024.04.29-20.47.06:322][834]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-20.47.06:322][834]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.52.15:191][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.29-20.52.15:192][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.023
+[2024.04.29-20.52.53:338][554]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.045 and deleted 6 files with total size 0 MiB and 5 empty folders. Scanned 14246 files in 16593 folders with total size 591 MiB.
+[2024.04.29-20.56.59:310][371]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.57.16:952][213]Cmd: MODE GRID=1
+[2024.04.29-20.57.17:826][253]Cmd: MODE GRID=0
+[2024.04.29-20.57.51:724][846]Cmd: TRANSACTION UNDO
+[2024.04.29-20.57.51:724][846]LogEditorTransaction: Undo Edit X
+[2024.04.29-20.57.52:002][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.57.52:097][846]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.57.53:578][907]Cmd: TRANSACTION UNDO
+[2024.04.29-20.57.53:578][907]LogEditorTransaction: Undo Edit X
+[2024.04.29-20.57.53:839][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.57.53:916][907]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.57.55:293][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.57.55:359][969]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-20.57.55:359][969]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player123EBE734D22864938CD6DB29EC8224C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-20.57.55:367][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 9.25 sec)
+[2024.04.29-20.57.55:368][969]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-20.57.55:368][969]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-20.58.29:006][ 33]Cmd: TRANSACTION UNDO
+[2024.04.29-20.58.29:006][ 33]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.04.29-20.58.29:271][ 33]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.58.29:354][ 33]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.58.50:575][503]Cmd: TRANSACTION UNDO
+[2024.04.29-20.58.50:575][503]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.04.29-20.58.50:855][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-20.58.50:936][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-20.58.52:193][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-20.58.52:265][556]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-20.58.52:265][556]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_PlayerA106FC8A4DBBC29F59D097AA1D7BCD10.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-20.58.52:273][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 9.33 sec)
+[2024.04.29-20.58.52:274][556]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-20.58.52:274][556]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.00.41:270][401]Cmd: TRANSACTION UNDO
+[2024.04.29-21.00.41:270][401]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.04.29-21.00.41:525][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.00.41:639][401]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-21.00.42:340][437]Cmd: TRANSACTION UNDO
+[2024.04.29-21.00.42:340][437]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.04.29-21.00.42:575][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.00.42:818][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-21.01.07:418][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.01.07:481][543]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.01.07:481][543]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_PlayerF99DA66D42CB8FDFD1D956974462E7CB.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.01.07:489][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 9.40 sec)
+[2024.04.29-21.01.07:490][543]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.01.07:490][543]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.01.18:254][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.01.18:310][ 28]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.01.18:546][ 28]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player762AE3824ACD2A602E893A97EE5E0D90.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.01.18:561][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 9.71 sec)
+[2024.04.29-21.01.18:563][ 28]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.01.18:563][ 28]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.01.50:220][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.04.29-21.01.50:227][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.01.50:290][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.29-21.01.50:297][828]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_CounterStrike
+[2024.04.29-21.01.50:297][828]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/GM_CounterStrikeB9A012774111D1A5D75B50A466FE1F0D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/GM_CounterStrike.uasset'
+[2024.04.29-21.01.50:306][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.79 sec)
+[2024.04.29-21.01.50:307][828]AssetCheck: New page: Asset Save: GM_CounterStrike
+[2024.04.29-21.01.50:307][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GM_CounterStrike.GM_CounterStrike
+[2024.04.29-21.02.53:038][ 98]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Anim_Run_FL_Pistol.Anim_Run_FL_Pistol
+[2024.04.29-21.02.53:070][ 99]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Anim_Run_FL_Pistol.Anim_Run_FL_Pistol, at AnimationSequence/6afba7079d4824274928dc0c6e9234d017357b6d
+[2024.04.29-21.03.11:181][481]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-21.03.13:583][594]Cmd: TRANSACTION UNDO
+[2024.04.29-21.03.13:583][594]LogEditorTransaction: Undo Reset Retarget Pose
+[2024.04.29-21.03.13:820][594]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.03.13:935][594]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-21.03.17:889][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.03.17:949][779]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.03.17:949][779]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_PlayerC430550C4C422AA8388F038B16CEC727.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.03.17:956][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 9.86 sec)
+[2024.04.29-21.03.17:957][779]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.03.17:957][779]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.03.40:627][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.03.40:677][858]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.03.40:678][858]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player5262C318415ED8527233EB907611B28A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.03.40:685][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 9.92 sec)
+[2024.04.29-21.03.40:685][858]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.03.40:686][858]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.04.27:811][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.04.27:858][344]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.04.27:859][344]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player4A4404104F2AB077BBD40AAD8C94A994.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.04.27:865][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 9.97 sec)
+[2024.04.29-21.04.27:866][344]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.04.27:866][344]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.07.53:316][135]Cmd: TRANSACTION UNDO
+[2024.04.29-21.07.53:316][135]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2024.04.29-21.07.53:548][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.07.53:650][135]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.29-21.10.31:047][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.29-21.10.31:049][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.026
+[2024.04.29-21.12.53:639][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.29-21.12.53:646][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.12.53:756][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.29-21.12.53:770][242]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.12.53:770][242]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player5FFCC10B401E429CF0CF918349F8E196.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.12.53:777][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 10.1 sec)
+[2024.04.29-21.12.53:777][242]AssetCheck: New page: Asset Save: IKR_Player
+[2024.04.29-21.12.53:778][242]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.12.55:343][320]LogSlate: Window 'IKR_Player' being destroyed
+[2024.04.29-21.12.55:370][320]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-21.12.55:371][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-21.12.58:848][513]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-21.12.58:849][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-21.12.58:849][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-21.12.58:864][513]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.12.58:865][513]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.12.59:277][513]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-21.13.04:170][767]LogSlate: Window 'IK_Mannequin' being destroyed
+[2024.04.29-21.13.04:176][767]LogSlate: Window 'IK_Mannequin' being destroyed
+[2024.04.29-21.13.04:191][767]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-21.13.04:191][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-21.13.12:964][281]LogContentBrowser: Attempting asset rename: IK_Layer -> IK_Player
+[2024.04.29-21.13.13:006][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.13.13:037][281]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IKR_Player
+[2024.04.29-21.13.13:037][281]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IKR_Player0D52A0E54BADE13050AABC8C90C32EA8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IKR_Player.uasset'
+[2024.04.29-21.13.13:042][281]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Player
+[2024.04.29-21.13.13:043][281]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_Player56FF48284BD2E508C0C9A1908223A45C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Player.uasset'
+[2024.04.29-21.13.13:050][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 10.1 sec)
+[2024.04.29-21.13.13:084][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.29-21.13.13:148][281]LogUObjectHash: Compacting FUObjectHashTables data took  45.41ms
+[2024.04.29-21.13.13:215][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.29-21.13.13:217][281]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.29-21.13.13:217][281]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.04.29-21.13.13:217][281]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2024.04.29-21.13.27:586][126]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-21.13.27:587][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-21.13.27:587][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-21.13.27:605][126]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.13.27:606][126]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.13.28:075][126]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-21.16.39:291][637]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.16.39:394][638]LogAutomationController: Ignoring very large delta of 7.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.16.49:222][876]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.16.49:326][877]LogAutomationController: Ignoring very large delta of 4.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.16.53:455][989]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.16.54:598][989]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.16.54:743][990]LogAutomationController: Ignoring very large delta of 3.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.17.13:465][241]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.17.13:672][242]LogAutomationController: Ignoring very large delta of 13.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.17.18:519][354]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.17.19:688][354]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.17.19:834][355]LogAutomationController: Ignoring very large delta of 3.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.19.15:381][ 33]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.19.15:575][ 34]LogAutomationController: Ignoring very large delta of 11.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.20.04:713][570]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.20.04:906][571]LogAutomationController: Ignoring very large delta of 38.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.20.09:973][626]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.20.10:513][627]LogAutomationController: Ignoring very large delta of 4.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.20.22:477][ 20]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.20.23:012][ 21]LogAutomationController: Ignoring very large delta of 4.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.20.42:833][725]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.20.43:378][726]LogAutomationController: Ignoring very large delta of 5.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.20.56:941][115]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.20.57:494][116]LogAutomationController: Ignoring very large delta of 5.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.21.06:286][449]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.21.06:835][450]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.21.22:181][ 86]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.21.22:736][ 87]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.21.28:278][263]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.21.28:834][264]LogAutomationController: Ignoring very large delta of 2.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.21.38:270][514]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.21.38:838][515]LogAutomationController: Ignoring very large delta of 4.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.21.51:051][920]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.21.51:619][920]LogAutomationController: Ignoring very large delta of 3.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.22.02:109][294]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.22.02:680][295]LogAutomationController: Ignoring very large delta of 2.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.22.32:805][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.29-21.22.32:806][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.025
+[2024.04.29-21.23.58:338][623]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2024.04.29-21.23.58:589][624]LogAutomationController: Ignoring very large delta of 12.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.29-21.24.08:435][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.29-21.24.08:470][686]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/IK_Mannequin
+[2024.04.29-21.24.08:470][686]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IK_MannequinC5F6C1C44D31AC9477E8A58BC307ED45.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/IK_Mannequin.uasset'
+[2024.04.29-21.24.08:476][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 10.1 sec)
+[2024.04.29-21.24.08:478][686]AssetCheck: New page: Asset Save: IK_Mannequin
+[2024.04.29-21.24.08:478][686]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.04.29-21.24.11:255][724]LogSlate: Window 'IK_Mannequin' being destroyed
+[2024.04.29-21.24.11:280][724]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-21.24.11:280][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-21.24.14:106][790]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2024.04.29-21.24.14:106][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.29-21.24.14:107][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.29-21.24.14:128][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.24.14:128][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.29-21.24.14:537][790]LogViewport: Scene viewport resized to 1257x637, mode Windowed.
+[2024.04.29-21.24.31:816][878]LogSlate: Window 'IK_Player' being destroyed
+[2024.04.29-21.24.31:838][878]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.04.29-21.24.31:838][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 0 (Found bundle for host: 0x8eb991605a0 [serially])
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 7 (Closing connection)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B876DCE0E-4FEE-18AE-5CFD-B7AB0FAA4B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: 000008EBF0BA9100: libcurl info message cache 13 (Closing connection)
+[2024.04.29-21.24.41:839][181]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B876DCE0E-4FEE-18AE-5CFD-B7AB0FAA4B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.04.29-21.25.20:729][545]LogHttp: Warning: 000008EC0ED6B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.04.29-21.25.20:730][545]LogHttp: Warning: 000008EC0ED6B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.04.29-21.25.20:730][545]LogHttp: Warning: 000008EC0ED6B400: libcurl info message cache 1 (Closing connection)
+[2024.04.29-21.25.20:730][545]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B876DCE0E-4FEE-18AE-5CFD-B7AB0FAA4B20%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
