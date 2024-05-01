@@ -14455,3 +14455,30 @@ Script Stack (0 frames) :
 [2024.04.30-21.44.11:704][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.30-21.44.11:880][993]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
 [2024.04.30-21.44.11:938][993]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.30-21.46.44:064][599]LogSlate: Window 'BS_Run_UA' being destroyed
+[2024.04.30-21.46.44:068][599]LogSlate: Window 'BS_Run_UA' being destroyed
+[2024.04.30-21.46.44:088][599]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-21.46.44:088][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-21.46.44:110][599]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-21.46.44:110][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-21.46.44:271][599]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-21.46.44:271][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-21.46.44:308][599]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-21.46.44:308][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-21.46.44:347][599]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2024.04.30-21.46.44:347][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.30-21.47.37:768][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.30-21.47.37:771][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.027
+[2024.04.30-21.57.38:216][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.30-21.57.38:218][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.018
+[2024.04.30-22.07.38:694][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.04.30-22.07.38:696][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.028
+[2024.04.30-22.17.39:122][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.30-22.17.39:123][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.029
+[2024.04.30-22.27.39:560][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.30-22.27.39:562][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.027
+[2024.04.30-22.37.40:262][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.30-22.37.40:263][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.021
+[2024.04.30-22.43.57:757][493]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.172 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14434 files in 16871 folders with total size 596 MiB.
+[2024.04.30-22.47.40:700][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.30-22.47.40:701][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.021
