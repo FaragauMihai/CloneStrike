@@ -3243,3 +3243,839 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.16-19.07.03:365][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.05.16-19.07.03:409][787]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
 [2024.05.16-19.07.03:410][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.09.02:125][106]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:125][106]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_81
+[2024.05.16-19.09.02:125][106]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:125][106]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_81
+[2024.05.16-19.09.02:188][107]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:188][107]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_82
+[2024.05.16-19.09.02:188][107]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:188][107]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_82
+[2024.05.16-19.09.02:223][108]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:223][108]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_83
+[2024.05.16-19.09.02:223][108]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:223][108]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_83
+[2024.05.16-19.09.02:245][109]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:245][109]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_84
+[2024.05.16-19.09.02:245][109]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:245][109]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_84
+[2024.05.16-19.09.02:266][110]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:266][110]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_85
+[2024.05.16-19.09.02:266][110]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:266][110]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_85
+[2024.05.16-19.09.02:285][111]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:285][111]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_86
+[2024.05.16-19.09.02:285][111]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:285][111]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_86
+[2024.05.16-19.09.02:302][112]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:303][112]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_87
+[2024.05.16-19.09.02:303][112]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:303][112]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_87
+[2024.05.16-19.09.02:320][113]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:320][113]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_88
+[2024.05.16-19.09.02:320][113]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:320][113]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_88
+[2024.05.16-19.09.02:337][114]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:337][114]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_89
+[2024.05.16-19.09.02:337][114]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:337][114]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_89
+[2024.05.16-19.09.02:354][115]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:354][115]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_90
+[2024.05.16-19.09.02:354][115]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:354][115]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_90
+[2024.05.16-19.09.02:371][116]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:371][116]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_91
+[2024.05.16-19.09.02:371][116]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:371][116]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_91
+[2024.05.16-19.09.02:389][117]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:389][117]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_92
+[2024.05.16-19.09.02:389][117]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.02:389][117]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_92
+[2024.05.16-19.09.11:503][653]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Animations/BS_Run_UA.BS_Run_UA
+[2024.05.16-19.09.11:506][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.09.11:506][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.09.11:524][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.09.11:840][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.09.11:840][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.09.12:635][653]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.16-19.09.12:683][653]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.16-19.09.32:964][722]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.09.37:336][935]LogSlate: Window 'BS_Run_UA' being destroyed
+[2024.05.16-19.09.37:340][935]LogSlate: Window 'BS_Run_UA' being destroyed
+[2024.05.16-19.09.37:373][935]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.09.37:374][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.09.37:417][935]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.09.37:417][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.09.41:863][187]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Animations/BS_Crouch_UA.BS_Crouch_UA
+[2024.05.16-19.09.41:866][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.09.41:866][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.09.41:883][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.09.42:212][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.09.42:212][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.09.42:353][187]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.16-19.09.42:382][187]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.16-19.09.48:976][506]LogSlate: Window 'BS_Crouch_UA' being destroyed
+[2024.05.16-19.09.48:980][506]LogSlate: Window 'BS_Crouch_UA' being destroyed
+[2024.05.16-19.09.49:013][506]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.09.49:013][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.09.49:057][506]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.09.49:057][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.09.53:700][782]Cmd: TRANSACTION UNDO
+[2024.05.16-19.09.53:700][782]LogEditorTransaction: Undo Edit Preview Mesh
+[2024.05.16-19.09.55:683][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.09.55:768][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.16-19.09.55:791][875]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.16-19.09.55:791][875]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main0D539C3C406624745401EC94A2D4E276.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.16-19.09.55:801][875]LogFileHelpers: All files are already saved.
+[2024.05.16-19.09.55:801][875]LogFileHelpers: Saving map 'MAP_Main' took 0.082
+[2024.05.16-19.09.55:810][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.83 sec)
+[2024.05.16-19.09.55:811][875]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.16-19.09.55:811][875]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.16-19.09.57:813][995]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.57:813][995]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_93
+[2024.05.16-19.09.57:813][995]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.09.57:813][995]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_93
+[2024.05.16-19.10.21:319][454]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.21:319][454]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_94
+[2024.05.16-19.10.21:319][454]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.21:320][454]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_94
+[2024.05.16-19.10.21:390][455]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.21:390][455]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_95
+[2024.05.16-19.10.21:390][455]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.21:390][455]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_95
+[2024.05.16-19.10.26:411][754]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.26:411][754]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_96
+[2024.05.16-19.10.26:411][754]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.10.26:411][754]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_96
+[2024.05.16-19.10.29:061][780]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_UA.AO_Stand_UA
+[2024.05.16-19.10.29:063][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.10.29:063][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.10.29:076][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.10.29:419][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.10.29:419][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.10.29:541][780]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.16-19.10.29:575][780]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.16-19.11.03:212][215]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.16-19.11.41:632][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.11.41:985][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.11.41:985][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.11.43:345][220]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.11.43:372][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.11.43:372][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.11.43:391][220]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.11.43:391][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.11.44:418][262]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.11.44:444][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.11.44:444][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.11.44:462][262]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.11.44:462][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.11.51:556][401]LogSlate: Window 'AO_Stand_C_UA' being destroyed
+[2024.05.16-19.11.51:584][401]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.11.51:584][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.11.51:593][401]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.11.51:594][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.11.51:633][401]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.11.51:633][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.11.52:176][429]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:176][429]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_97
+[2024.05.16-19.11.52:176][429]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:176][429]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_97
+[2024.05.16-19.11.52:207][430]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:207][430]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_98
+[2024.05.16-19.11.52:207][430]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:207][430]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_98
+[2024.05.16-19.11.52:224][431]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:224][431]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_99
+[2024.05.16-19.11.52:224][431]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:224][431]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_99
+[2024.05.16-19.11.52:241][432]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:241][432]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_100
+[2024.05.16-19.11.52:241][432]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:241][432]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_100
+[2024.05.16-19.11.52:257][433]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:258][433]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_101
+[2024.05.16-19.11.52:258][433]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:258][433]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_101
+[2024.05.16-19.11.52:275][434]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:275][434]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_102
+[2024.05.16-19.11.52:275][434]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:275][434]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_102
+[2024.05.16-19.11.52:292][435]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:292][435]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_103
+[2024.05.16-19.11.52:292][435]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:292][435]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_103
+[2024.05.16-19.11.52:309][436]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:309][436]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_104
+[2024.05.16-19.11.52:309][436]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:309][436]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_104
+[2024.05.16-19.11.52:326][437]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:326][437]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_105
+[2024.05.16-19.11.52:326][437]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.11.52:326][437]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_105
+[2024.05.16-19.11.52:700][457]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_UA.AO_Stand_UA
+[2024.05.16-19.11.52:701][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.11.52:701][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.11.52:715][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.11.53:042][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.11.53:042][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.11.53:160][457]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.16-19.11.53:193][457]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.16-19.11.57:735][698]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.16-19.14.02:745][492]Cmd: TRANSACTION UNDO
+[2024.05.16-19.14.02:745][492]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.16-19.14.02:946][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.15.23:915][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.15.23:978][883]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_UA
+[2024.05.16-19.15.23:978][883]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_UAEA1BBF204C450A4387DD9E92D7711186.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_UA.uasset'
+[2024.05.16-19.15.23:987][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.91 sec)
+[2024.05.16-19.15.24:313][883]AssetCheck: New page: Asset Save: AO_Stand_UA
+[2024.05.16-19.15.24:314][883]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_UA.AO_Stand_UA
+[2024.05.16-19.15.30:676][  0]LogSlate: Window 'AO_Stand_UA' being destroyed
+[2024.05.16-19.15.30:681][  0]LogSlate: Window 'AO_Stand_UA' being destroyed
+[2024.05.16-19.15.30:706][  0]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.15.30:706][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.15.30:744][  0]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.15.30:744][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.15.31:021][ 14]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.15.31:021][ 14]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_106
+[2024.05.16-19.15.31:021][ 14]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.15.31:021][ 14]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_106
+[2024.05.16-19.16.00:818][121]LogContentBrowser: Deferred new asset file creation: AO_Stand_UA1
+[2024.05.16-19.16.00:824][121]LogContentBrowser: Creating deferred item: AO_Stand_UA1
+[2024.05.16-19.16.00:843][122]LogContentBrowser: Renaming the item being created (Deferred Item: AO_Stand_UA1).
+[2024.05.16-19.16.13:052][854]LogContentBrowser: Attempting asset rename: AO_Stand_UA1 -> AO_Crouch_UA
+[2024.05.16-19.16.13:094][854]LogContentBrowser: End creating deferred item AO_Stand_UA1
+[2024.05.16-19.16.21:505][995]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_UA.AO_Crouch_UA
+[2024.05.16-19.16.21:507][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.16.21:507][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.16.21:516][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.16-19.16.21:858][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.16.21:858][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.16.21:982][995]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.16-19.16.22:028][995]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.16-19.16.36:285][399]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.16-19.18.52:183][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.18.52:231][996]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Crouch_UA
+[2024.05.16-19.18.52:231][996]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Crouch_UAF6D0211F4C4380D7E3DBC0B885631897.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Crouch_UA.uasset'
+[2024.05.16-19.18.52:243][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 2.97 sec)
+[2024.05.16-19.18.52:244][996]AssetCheck: New page: Asset Save: AO_Crouch_UA
+[2024.05.16-19.18.52:244][996]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_UA.AO_Crouch_UA
+[2024.05.16-19.19.10:000][638]LogSlate: Window 'AO_Crouch_UA' being destroyed
+[2024.05.16-19.19.10:005][638]LogSlate: Window 'AO_Crouch_UA' being destroyed
+[2024.05.16-19.19.10:033][638]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.19.10:033][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.19.10:078][638]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.19.10:078][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.23.24:751][ 58]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.23.24:751][ 58]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_107
+[2024.05.16-19.23.24:751][ 58]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.23.24:751][ 58]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_107
+[2024.05.16-19.23.29:233][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.23.29:250][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.23.29:250][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.23.30:693][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.23.30:719][124]LogSlate: Took 0.011032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.16-19.23.30:876][125]LogShaderCompilers: Display: ================================================
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: Total job queries 19, among them cache hits 0 (0.00%)
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: Tracking 19 distinct input hashes that result in 15 distinct outputs (78.95%)
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: RAM used: 477.79 KiB of 819.20 MiB budget. Usage: 0.06%
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.16-19.23.30:877][125]LogShaderCompilers: Display: ================================================
+[2024.05.16-19.23.30:907][127]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.23.31:183][132]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.23.31:183][132]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_108
+[2024.05.16-19.23.31:183][132]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.23.31:183][132]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_108
+[2024.05.16-19.24.35:078][584]LogUObjectHash: Compacting FUObjectHashTables data took  22.31ms
+[2024.05.16-19.24.35:082][584]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.387
+[2024.05.16-19.24.35:084][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
+[2024.05.16-19.24.35:084][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.24.35:160][584]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase_C]
+[2024.05.16-19.24.35:170][584]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase]
+[2024.05.16-19.24.35:170][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
+[2024.05.16-19.24.35:292][584]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto5
+[2024.05.16-19.24.35:292][584]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto56E2478F5451336955F785099FA69C466.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto5.uasset'
+[2024.05.16-19.24.35:293][584]LogFileHelpers: Auto-saving content packages took 0.210
+[2024.05.16-19.25.20:757][791]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.25.21:324][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.05.16-19.25.21:365][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.25.21:491][791]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.25.21:491][791]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase3755D7F44FFC900937F33080EBFCCD60.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.25.21:498][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.10 sec)
+[2024.05.16-19.25.21:518][791]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.25.21:519][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.26.55:040][284]LogSlate: Took 0.017732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.16-19.27.07:818][855]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.27.07:989][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.16-19.27.08:024][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.27.08:137][855]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.27.08:138][855]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase94196F0D431DD45144742AA43F633D33.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.27.08:146][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.22 sec)
+[2024.05.16-19.27.08:147][855]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.27.08:147][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.28.14:421][658]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.28.14:499][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.16-19.28.14:524][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.28.14:623][658]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.28.14:623][658]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseAE66D48A43FC2E92BAC0FE80BB959D41.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.28.14:629][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 3.33 sec)
+[2024.05.16-19.28.14:640][658]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.28.14:640][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.30.13:812][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.30.13:928][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.30.13:928][ 91]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase09FCADF14A7BC87D88B5E59690847E3C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.30.13:934][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 3.45 sec)
+[2024.05.16-19.30.13:936][ 91]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.30.13:936][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.30.15:152][164]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.30.15:230][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.16-19.30.16:010][207]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.16-19.30.16:082][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-19.30.16:130][207]PIE: New page: PIE session: MAP_Main (May 17, 2024, 1:30:16 AM)
+[2024.05.16-19.30.16:276][207]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.05.16-19.30.16:279][207]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.05.16-19.30.16:305][207]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.16-19.30.16:368][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063569s)
+[2024.05.16-19.30.16:369][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.063777s)
+[2024.05.16-19.30.16:397][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.05.16-19.30.16:435][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.30.16:454][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.30.16:454][207]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.16-19.30.16:474][207]LogPlayLevel: PIE: World Init took: (0.043963s)
+[2024.05.16-19.30.16:475][207]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.30.16:475][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.30.16:475][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.30.16:482][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.30.16:482][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.30.16:483][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.30.16:484][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.30.16:579][207]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.16-19.30.16:579][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.30.16:580][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.30.16:580][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.30.16:592][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.05.16-19.30.16:592][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.05.16-19.30.16:594][207]LogInit: FAudioDevice initialized with ID 2.
+[2024.05.16-19.30.16:594][207]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Main'.
+[2024.05.16-19.30.16:594][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.05.16-19.30.16:594][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.05.16-19.30.16:594][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.16-19.30.16:683][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.30.16:716][207]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.16-19.30.16:720][207]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.16-22.30.16
+[2024.05.16-19.30.16:723][207]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.05.16-19.30.16:742][207]LogWorld: Bringing up level for play took: 0.025295
+[2024.05.16-19.30.17:106][207]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.16-19.30.17:117][207]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.16-19.30.17:129][207]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.16-19.30.17:129][207]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.16-19.30.17:142][207]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.30.17:148][207]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2024.05.16-19.30.17:244][207]PIE: Server logged in
+[2024.05.16-19.30.17:247][207]PIE: Play in editor total start time 1.215 seconds.
+[2024.05.16-19.30.17:247][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.30.17:247][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.30.17:253][207]LogPlayLevel: PIE: World Init took: (0.006300s)
+[2024.05.16-19.30.17:253][207]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.16-19.30.17:253][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.30.17:253][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.30.17:254][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.30.17:254][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.30.17:254][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.30.17:254][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.30.17:254][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.30.17:254][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.30.17:254][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.30.17:254][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.30.17:254][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.30.17:257][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.30.17:355][207]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.16-19.30.17:356][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.30.17:356][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.30.17:356][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.30.17:358][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.16-19.30.17:358][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.16-19.30.17:360][207]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.16-19.30.17:360][207]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2024.05.16-19.30.17:360][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.16-19.30.17:360][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.16-19.30.17:360][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.16-19.30.17:390][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.30.17:401][207]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.16-19.30.17:403][207]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.16-19.30.17:403][207]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.16-19.30.17:404][207]LogNet: IpConnection_0 setting maximum channels to: 32767
+[2024.05.16-19.30.17:407][207]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.30.17:410][207]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2024.05.16-19.30.17:426][207]LogNet: Game client on port 17777, rate 100000
+[2024.05.16-19.30.17:442][207]LogNetVersion: CounterStrike 1.0.0.0, NetCL: 27405482, EngineNetworkVersion: 32, GameNetworkVersion: 0 (Checksum: 57310754)
+[2024.05.16-19.30.17:444][207]PIE: Client logged in
+[2024.05.16-19.30.17:447][207]PIE: Play in editor total start time 1.416 seconds.
+[2024.05.16-19.30.17:665][207]LogViewport: Scene viewport resized to 939x639, mode Windowed.
+[2024.05.16-19.30.17:837][207]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: ================================================
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: Total job queries 21, among them cache hits 0 (0.00%)
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 16 distinct outputs (76.19%)
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: RAM used: 534.53 KiB of 819.20 MiB budget. Usage: 0.06%
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.16-19.30.18:346][208]LogShaderCompilers: Display: ================================================
+[2024.05.16-19.30.18:821][210]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62411
+[2024.05.16-19.30.18:830][210]LogHandshake: SendConnectChallenge. Timestamp: 2.563073, Cookie: 150162230193162130029019114223161211029165018182254076079020
+[2024.05.16-19.30.18:832][210]LogHandshake: Cached server SessionID: 0
+[2024.05.16-19.30.18:832][210]LogHandshake: SendChallengeResponse. Timestamp: 2.563073, Cookie: 150162230193162130029019114223161211029165018182254076079020
+[2024.05.16-19.30.18:843][210]LogSlate: Took 0.012695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.16-19.30.18:863][211]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62411
+[2024.05.16-19.30.18:863][211]LogHandshake: SendChallengeAck. InCookie: 150162230193162130029019114223161211029165018182254076079020
+[2024.05.16-19.30.18:863][211]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62411
+[2024.05.16-19.30.18:863][211]LogNet: IpConnection_1 setting maximum channels to: 32767
+[2024.05.16-19.30.18:863][211]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.30.18:863][211]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/16/24 22:30:18, [UNetConnection] RemoteAddr: 127.0.0.1:62411, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.30.18:864][211]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62411, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.30.18:866][211]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.30.18:935][212]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.16-19.30.18:950][212]LogNet: Remote platform little endian=1
+[2024.05.16-19.30.18:950][212]LogNet: This platform little endian=1
+[2024.05.16-19.30.18:956][212]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.05.16-19.30.18:997][213]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.30.18:997][213]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_109
+[2024.05.16-19.30.18:997][213]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.16-19.30.18:997][213]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_109
+[2024.05.16-19.30.19:006][213]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB userId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB platform: NULL
+[2024.05.16-19.30.19:007][213]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.16-19.30.19:016][213]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.16-19.30.19:016][213]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2024.05.16-19.30.19:022][213]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.30.19:023][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.30.19:059][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.30.19:081][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.16-19.30.19:111][213]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Main'.
+[2024.05.16-19.30.19:111][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.30.19:111][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.30.19:112][213]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2024.05.16-19.30.19:114][213]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.16-22.30.19
+[2024.05.16-19.30.19:114][213]LogWorld: Bringing up level for play took: 0.002109
+[2024.05.16-19.30.19:131][213]LogLoad: Took 0.115106 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.16-19.30.19:689][214]LogNet: Client netspeed is 100000
+[2024.05.16-19.30.19:689][214]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB?SplitscreenCount=1
+[2024.05.16-19.30.19:756][214]LogNet: Join succeeded: DESKTOP-Q3OAHUL-C0DF
+[2024.05.16-19.30.20:966][256]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.20:983][257]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:006][258]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:030][259]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:056][260]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:084][261]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:116][262]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:142][263]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:242][266]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:761][287]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:786][288]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:810][289]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:835][290]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:862][291]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:909][292]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.21:945][293]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.22:010][295]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.22:036][296]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.22:059][297]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.22:086][298]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.24:011][366]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.24:033][367]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.24:056][368]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.24:078][369]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.24:104][370]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.24:128][371]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:169][372]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:187][373]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:205][374]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:222][375]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:243][376]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:263][377]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:289][378]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:320][379]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:351][380]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:374][381]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:394][382]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:417][383]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:443][384]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:467][385]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:491][386]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:516][387]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:806][399]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:830][400]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:854][401]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:878][402]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:905][403]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:928][404]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:954][405]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.25:977][406]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:002][407]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:028][408]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:054][409]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:079][410]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:104][411]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:129][412]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:154][413]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:544][430]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:566][431]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:588][432]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:611][433]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:634][434]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:661][435]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:686][436]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:712][437]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:737][438]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:762][439]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:787][440]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:811][441]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:835][442]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:861][443]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:885][444]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:915][445]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:944][446]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:966][447]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.26:986][448]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.27:010][449]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.30.28:115][483]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:139][484]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:163][485]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:189][486]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:224][487]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:254][488]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:292][489]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:318][490]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:345][491]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:375][492]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:414][493]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:444][494]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:554][497]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:577][498]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:600][499]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:627][500]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:656][501]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:687][502]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:713][503]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:744][504]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:767][505]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.28:799][506]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.30.30:723][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.30.30:723][564]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.16-19.30.30:736][564]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.16-19.30.30:755][564]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.30.30:763][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.30.30:778][564]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2024.05.16-19.30.30:778][564]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2024.05.16-19.30.30:778][564]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB, Channels: 11, Time: 2024.05.16-19.30.30
+[2024.05.16-19.30.30:778][564]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB
+[2024.05.16-19.30.30:789][564]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2024.05.16-19.30.30:791][564]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.16-19.30.30:805][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.30.30:805][564]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.16-19.30.30:812][564]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.30.30:839][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.30.30:841][564]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2024.05.16-19.30.30:841][564]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2024.05.16-19.30.30:841][564]LogNet: UNetConnection::SendCloseReason:
+[2024.05.16-19.30.30:841][564]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.16-19.30.30:841][564]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62411, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB
+[2024.05.16-19.30.30:841][564]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62411, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB, Channels: 11, Time: 2024.05.16-19.30.30
+[2024.05.16-19.30.30:841][564]LogNet: UNetConnection::SendCloseReason:
+[2024.05.16-19.30.30:841][564]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.16-19.30.30:841][564]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62411, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-C0DF581B4B1A589052D7C6A1EF5FECFB
+[2024.05.16-19.30.30:860][564]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2024.05.16-19.30.30:862][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-19.30.30:881][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.30.30:917][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.30.30:951][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.05.16-19.30.31:004][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.16-19.30.31:006][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.05.16-19.30.31:017][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.16-19.30.31:027][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.16-19.30.31:029][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.16-19.30.31:126][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2024.05.16-19.30.31:201][565]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.05.16-19.30.31:201][565]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.05.16-19.31.05:936][698]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.16-19.31.05:942][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.16-19.31.05:942][698]PIE: New page: PIE session: MAP_Main (May 17, 2024, 1:31:05 AM)
+[2024.05.16-19.31.05:942][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.16-19.31.05:949][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006460s)
+[2024.05.16-19.31.05:949][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.006497s)
+[2024.05.16-19.31.06:293][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2024.05.16-19.31.06:296][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.31.06:297][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.31.06:298][698]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.16-19.31.06:299][698]LogPlayLevel: PIE: World Init took: (0.002973s)
+[2024.05.16-19.31.06:299][698]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.16-19.31.06:299][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.31.06:300][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.31.06:300][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.31.06:301][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.31.06:301][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.31.06:301][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.31.06:306][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.31.06:405][698]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.16-19.31.06:405][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.31.06:405][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.31.06:405][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.31.06:406][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.16-19.31.06:406][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.16-19.31.06:408][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.16-19.31.06:408][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.16-19.31.06:408][698]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.16-19.31.06:408][698]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_Main'.
+[2024.05.16-19.31.06:408][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.16-19.31.06:440][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.31.06:440][698]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.16-19.31.06:445][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.16-22.31.06
+[2024.05.16-19.31.06:447][698]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.05.16-19.31.06:447][698]LogWorld: Bringing up level for play took: 0.006711
+[2024.05.16-19.31.06:449][698]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.16-19.31.06:449][698]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.16-19.31.06:449][698]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.16-19.31.06:449][698]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.16-19.31.06:449][698]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.31.06:449][698]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2024.05.16-19.31.06:453][698]PIE: Server logged in
+[2024.05.16-19.31.06:455][698]PIE: Play in editor total start time 0.513 seconds.
+[2024.05.16-19.31.06:455][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.31.06:455][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.31.06:456][698]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.05.16-19.31.06:456][698]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.16-19.31.06:456][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.16-19.31.06:456][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.16-19.31.06:457][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.16-19.31.06:457][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.16-19.31.06:457][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.16-19.31.06:459][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.16-19.31.06:550][698]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.16-19.31.06:550][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.16-19.31.06:550][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.16-19.31.06:550][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.16-19.31.06:551][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.16-19.31.06:551][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.16-19.31.06:553][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.16-19.31.06:553][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.16-19.31.06:553][698]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.16-19.31.06:553][698]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled'.
+[2024.05.16-19.31.06:553][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.16-19.31.06:597][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.31.06:597][698]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.16-19.31.06:597][698]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.16-19.31.06:597][698]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.16-19.31.06:597][698]LogNet: IpConnection_2 setting maximum channels to: 32767
+[2024.05.16-19.31.06:597][698]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.31.06:598][698]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2024.05.16-19.31.06:598][698]LogNet: Game client on port 17777, rate 100000
+[2024.05.16-19.31.06:602][698]PIE: Client logged in
+[2024.05.16-19.31.06:605][698]PIE: Play in editor total start time 0.663 seconds.
+[2024.05.16-19.31.06:621][698]LogViewport: Scene viewport resized to 939x639, mode Windowed.
+[2024.05.16-19.31.06:762][698]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.16-19.31.07:624][744]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54752
+[2024.05.16-19.31.07:624][744]LogHandshake: SendConnectChallenge. Timestamp: 1.705662, Cookie: 113103197176204255193145223046190127008049102091244005109083
+[2024.05.16-19.31.07:625][744]LogHandshake: Cached server SessionID: 0
+[2024.05.16-19.31.07:625][744]LogHandshake: SendChallengeResponse. Timestamp: 1.705662, Cookie: 113103197176204255193145223046190127008049102091244005109083
+[2024.05.16-19.31.07:641][745]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54752
+[2024.05.16-19.31.07:641][745]LogHandshake: SendChallengeAck. InCookie: 113103197176204255193145223046190127008049102091244005109083
+[2024.05.16-19.31.07:641][745]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54752
+[2024.05.16-19.31.07:641][745]LogNet: IpConnection_3 setting maximum channels to: 32767
+[2024.05.16-19.31.07:641][745]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.16-19.31.07:642][745]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/16/24 22:31:07, [UNetConnection] RemoteAddr: 127.0.0.1:54752, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.31.07:642][745]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54752, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.31.07:642][745]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.16-19.31.07:658][746]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.16-19.31.07:658][746]LogNet: Remote platform little endian=1
+[2024.05.16-19.31.07:658][746]LogNet: This platform little endian=1
+[2024.05.16-19.31.07:661][746]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.05.16-19.31.07:674][747]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3 userId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3 platform: NULL
+[2024.05.16-19.31.07:675][747]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.16-19.31.07:676][747]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.16-19.31.07:676][747]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2024.05.16-19.31.07:676][747]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.31.07:676][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.31.07:690][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.16-19.31.07:692][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.16-19.31.07:700][747]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAP_Main'.
+[2024.05.16-19.31.07:700][747]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.16-19.31.07:700][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.16-19.31.07:700][747]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2024.05.16-19.31.07:703][747]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.16-22.31.07
+[2024.05.16-19.31.07:703][747]LogWorld: Bringing up level for play took: 0.002517
+[2024.05.16-19.31.07:703][747]LogLoad: Took 0.027410 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.16-19.31.07:726][748]LogNet: Client netspeed is 100000
+[2024.05.16-19.31.07:726][748]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3?SplitscreenCount=1
+[2024.05.16-19.31.07:729][748]LogNet: Join succeeded: DESKTOP-Q3OAHUL-B68B
+[2024.05.16-19.31.09:643][819]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:663][820]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:682][821]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:702][822]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:720][823]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:743][824]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:762][825]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:781][826]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:803][827]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:822][828]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:844][829]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:863][830]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:882][831]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:901][832]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:920][833]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.09:939][834]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:043][839]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:061][840]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:080][841]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:102][842]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:125][843]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:144][844]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:204][847]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:223][848]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:243][849]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:266][850]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:285][851]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:378][855]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:397][856]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:416][857]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:436][858]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:454][859]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:474][860]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.10:616][867]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Client 0: Hello
+[2024.05.16-19.31.13:144][979]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:166][980]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:188][981]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:207][982]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:227][983]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:247][984]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:266][985]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:291][986]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:309][987]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:329][988]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:428][993]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:447][994]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:471][995]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:491][996]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:513][997]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:534][998]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:632][  3]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:652][  4]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:672][  5]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:692][  6]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:712][  7]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:733][  8]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:816][ 12]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:835][ 13]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:855][ 14]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:915][ 17]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:935][ 18]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:958][ 19]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.13:978][ 20]LogBlueprintUserMessages: [BP_CounterTerrorist_C_0] Server: Hello
+[2024.05.16-19.31.14:173][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.31.14:173][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.16-19.31.14:174][ 28]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.16-19.31.14:177][ 28]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.31.14:178][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.31.14:178][ 28]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2024.05.16-19.31.14:178][ 28]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2024.05.16-19.31.14:178][ 28]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3, Channels: 11, Time: 2024.05.16-19.31.14
+[2024.05.16-19.31.14:178][ 28]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3
+[2024.05.16-19.31.14:178][ 28]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2024.05.16-19.31.14:180][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.16-19.31.14:181][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.16-19.31.14:181][ 28]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.16-19.31.14:184][ 28]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.31.14:185][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.31.14:185][ 28]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2024.05.16-19.31.14:185][ 28]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2024.05.16-19.31.14:185][ 28]LogNet: UNetConnection::SendCloseReason:
+[2024.05.16-19.31.14:185][ 28]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.16-19.31.14:185][ 28]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54752, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3
+[2024.05.16-19.31.14:185][ 28]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54752, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3, Channels: 11, Time: 2024.05.16-19.31.14
+[2024.05.16-19.31.14:185][ 28]LogNet: UNetConnection::SendCloseReason:
+[2024.05.16-19.31.14:185][ 28]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.16-19.31.14:185][ 28]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54752, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-B68B9D1F427C4C6F2690F48FC16CAAD3
+[2024.05.16-19.31.14:186][ 28]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2024.05.16-19.31.14:187][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.16-19.31.14:193][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.16-19.31.14:208][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.16-19.31.14:208][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.16-19.31.14:211][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.16-19.31.14:243][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.16-19.31.14:243][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.16-19.31.14:249][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.16-19.31.14:272][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.05.16-19.31.14:307][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.05.16-19.31.14:307][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.05.16-19.32.33:787][510]LogEditorTransaction: Undo Move Node
+[2024.05.16-19.33.56:821][ 18]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.33.56:901][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.16-19.33.56:937][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.33.57:057][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.33.57:057][ 18]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase9636B5A241959BFB20569191966B8077.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.33.57:064][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.58 sec)
+[2024.05.16-19.33.57:065][ 18]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.33.57:066][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.34.21:571][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.34.21:677][417]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.34.21:678][417]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseBC54F2194FB18364F0E723B0AD12E5B0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.34.21:685][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 3.69 sec)
+[2024.05.16-19.34.21:688][417]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.34.21:688][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.34.22:386][458]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.34.22:467][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.16-19.34.38:481][733]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.34.38:559][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.16-19.34.40:806][853]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.34.40:897][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.05.16-19.35.46:334][640]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.166 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11082 files in 13476 folders with total size 454 MiB.
+[2024.05.16-19.36.16:211][207]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.36.16:293][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.16-19.36.16:319][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.36.16:422][207]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.36.16:422][207]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase0150A2F24030C9104238B999F5FF4C4A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.36.16:429][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.80 sec)
+[2024.05.16-19.36.16:431][207]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.36.16:431][207]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.37.56:390][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.05.16-19.37.56:394][312]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.356
+[2024.05.16-19.37.56:395][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
+[2024.05.16-19.37.56:447][312]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase]
+[2024.05.16-19.37.56:448][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
+[2024.05.16-19.37.56:477][312]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto6
+[2024.05.16-19.37.56:477][312]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto60E2BDEDA437433B2BF742B87874A9E31.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto6.uasset'
+[2024.05.16-19.37.56:478][312]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.05.16-19.38.19:730][826]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.38.19:815][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.16-19.38.19:843][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.16-19.38.19:983][826]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.16-19.38.19:983][826]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase04CD3D924DE5D523357BAFAA423E4555.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.16-19.38.19:991][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.95 sec)
+[2024.05.16-19.38.20:039][826]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.16-19.38.20:039][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.16-19.38.40:704][565]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.16-19.38.40:784][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.16-19.38.41:361][590]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2024.05.16-19.38.41:455][590]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2024.05.16-19.38.41:455][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
