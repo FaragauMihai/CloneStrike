@@ -6971,3 +6971,455 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.19-10.37.46:745][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 6.61 sec)
 [2024.05.19-10.37.46:747][229]AssetCheck: New page: Asset Save: BP_PlayerBase
 [2024.05.19-10.37.46:747][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.19-10.41.31:372][ 56]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.092 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10487 files in 12857 folders with total size 430 MiB.
+[2024.05.19-10.45.49:540][911]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.19-10.45.49:638][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.19-10.45.52:800][ 75]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2024.05.19-10.45.52:899][ 75]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.45.52:899][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.47.25:162][ 61]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.19-10.47.25:162][ 61]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.19-10.47.29:812][214]LogMetaData: Removing '/Game/Blueprints/Enums/E_MovementStates.E_MovementStates' ref from Metadata '/Game/Blueprints/Player/Enums/E_MovementStates.PackageMetaData'
+[2024.05.19-10.47.30:282][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.47.30:342][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-10.47.30:564][214]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AnimBP_Player
+[2024.05.19-10.47.30:564][214]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AnimBP_PlayerA72C01334A3B73559B372D952A01A666.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AnimBP_Player.uasset'
+[2024.05.19-10.47.30:618][214]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.19-10.47.30:619][214]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase9B95534B49F2549FCDAEBBBA7646A270.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.19-10.47.30:630][214]LogSavePackage: Moving output files for package: /Game/Blueprints/Enums/E_MovementStates
+[2024.05.19-10.47.30:630][214]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/E_MovementStatesC3A1230348470B9C0C98439D90017107.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Enums/E_MovementStates.uasset'
+[2024.05.19-10.47.30:665][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 382 ms (total: 7.00 sec)
+[2024.05.19-10.47.30:827][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.05.19-10.47.30:848][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.19-10.47.30:860][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.19-10.47.30:909][214]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.19-10.47.30:909][214]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
+[2024.05.19-10.47.30:909][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.19-10.47.30:909][214]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Blueprints/Enums/E_MovementStates.E_MovementStates
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: ================================================
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: Total job queries 12, among them cache hits 2 (16.67%)
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 7 distinct outputs (70.00%)
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: RAM used: 233.75 KiB of 819.20 MiB budget. Usage: 0.03%
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.19-10.47.30:914][214]LogShaderCompilers: Display: ================================================
+[2024.05.19-10.47.35:387][479]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.19-10.47.35:393][479]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.19-10.47.35:396][479]LogPlayLevel: [PlayLevel] Compiling AnimBP_Player before play...
+[2024.05.19-10.47.35:396][479]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerBase as a dependent...
+[2024.05.19-10.47.35:396][479]LogPlayLevel: [PlayLevel]   Compiling BP_CounterTerrorist as a dependent...
+[2024.05.19-10.47.35:542][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.05.19-10.47.35:543][479]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (3 blueprints)
+[2024.05.19-10.47.35:543][479]PIE: New page: PIE session: MAP_Main (May 19, 2024, 4:47:35 PM)
+[2024.05.19-10.47.35:543][479]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.19-10.47.35:550][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006220s)
+[2024.05.19-10.47.35:550][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.006250s)
+[2024.05.19-10.47.35:563][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.05.19-10.47.35:564][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-10.47.35:564][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-10.47.35:564][479]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.19-10.47.35:565][479]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2024.05.19-10.47.35:565][479]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.19-10.47.35:565][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.19-10.47.35:565][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.19-10.47.35:566][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.19-10.47.35:566][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.19-10.47.35:566][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.19-10.47.35:567][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.19-10.47.35:661][479]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.19-10.47.35:661][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.19-10.47.35:661][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.19-10.47.35:661][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.19-10.47.35:662][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.05.19-10.47.35:662][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.05.19-10.47.35:665][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.05.19-10.47.35:665][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.05.19-10.47.35:665][479]LogInit: FAudioDevice initialized with ID 52.
+[2024.05.19-10.47.35:665][479]LogAudio: Display: Audio Device (ID: 52) registered with world 'MAP_Main'.
+[2024.05.19-10.47.35:665][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.05.19-10.47.35:696][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-10.47.35:696][479]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.19-10.47.35:701][479]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.19-13.47.35
+[2024.05.19-10.47.35:703][479]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.05.19-10.47.35:703][479]LogWorld: Bringing up level for play took: 0.006563
+[2024.05.19-10.47.35:706][479]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.19-10.47.35:706][479]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.19-10.47.35:706][479]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.19-10.47.35:706][479]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.19-10.47.35:706][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-10.47.35:706][479]LogNet: GameNetDriver IpNetDriver_50 IpNetDriver listening on port 17777
+[2024.05.19-10.47.35:709][479]PIE: Server logged in
+[2024.05.19-10.47.35:711][479]PIE: Play in editor total start time 0.318 seconds.
+[2024.05.19-10.47.35:711][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-10.47.35:711][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-10.47.35:712][479]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.05.19-10.47.35:712][479]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.19-10.47.35:712][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.19-10.47.35:712][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.19-10.47.35:713][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.19-10.47.35:713][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.19-10.47.35:713][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.19-10.47.35:715][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.19-10.47.35:812][479]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.19-10.47.35:813][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.19-10.47.35:813][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.19-10.47.35:813][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.19-10.47.35:814][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.05.19-10.47.35:814][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.05.19-10.47.35:815][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.05.19-10.47.35:815][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.05.19-10.47.35:815][479]LogInit: FAudioDevice initialized with ID 53.
+[2024.05.19-10.47.35:815][479]LogAudio: Display: Audio Device (ID: 53) registered with world 'Untitled'.
+[2024.05.19-10.47.35:815][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.05.19-10.47.35:843][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-10.47.35:843][479]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.19-10.47.35:843][479]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.19-10.47.35:843][479]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.19-10.47.35:843][479]LogNet: IpConnection_50 setting maximum channels to: 32767
+[2024.05.19-10.47.35:843][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-10.47.35:844][479]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2024.05.19-10.47.35:844][479]LogNet: Game client on port 17777, rate 100000
+[2024.05.19-10.47.35:847][479]PIE: Client logged in
+[2024.05.19-10.47.35:849][479]PIE: Play in editor total start time 0.456 seconds.
+[2024.05.19-10.47.35:866][479]LogViewport: Scene viewport resized to 1159x791, mode Windowed.
+[2024.05.19-10.47.35:959][479]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.19-10.47.36:871][529]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60642
+[2024.05.19-10.47.36:871][529]LogHandshake: SendConnectChallenge. Timestamp: 1.500323, Cookie: 241142118193003144247059110231202138109084077117091103169253
+[2024.05.19-10.47.36:873][529]LogHandshake: Cached server SessionID: 0
+[2024.05.19-10.47.36:873][529]LogHandshake: SendChallengeResponse. Timestamp: 1.500323, Cookie: 241142118193003144247059110231202138109084077117091103169253
+[2024.05.19-10.47.36:887][530]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60642
+[2024.05.19-10.47.36:887][530]LogHandshake: SendChallengeAck. InCookie: 241142118193003144247059110231202138109084077117091103169253
+[2024.05.19-10.47.36:887][530]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60642
+[2024.05.19-10.47.36:887][530]LogNet: IpConnection_51 setting maximum channels to: 32767
+[2024.05.19-10.47.36:887][530]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-10.47.36:888][530]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/19/24 13:47:36, [UNetConnection] RemoteAddr: 127.0.0.1:60642, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_50, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-10.47.36:888][530]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60642, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_50, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-10.47.36:889][530]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_50, Driver: PendingNetDriver IpNetDriver_51, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-10.47.36:903][531]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.19-10.47.36:904][531]LogNet: Remote platform little endian=1
+[2024.05.19-10.47.36:904][531]LogNet: This platform little endian=1
+[2024.05.19-10.47.36:907][531]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.05.19-10.47.36:920][532]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD userId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD platform: NULL
+[2024.05.19-10.47.36:921][532]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.19-10.47.36:921][532]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.19-10.47.36:921][532]LogWorld: BeginTearingDown for /Temp/Untitled_26
+[2024.05.19-10.47.36:921][532]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.47.36:921][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.47.36:935][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.19-10.47.36:937][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.19-10.47.36:944][532]LogAudio: Display: Audio Device (ID: 53) registered with world 'MAP_Main'.
+[2024.05.19-10.47.36:944][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-10.47.36:944][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-10.47.36:945][532]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2024.05.19-10.47.36:947][532]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.19-13.47.36
+[2024.05.19-10.47.36:947][532]LogWorld: Bringing up level for play took: 0.001900
+[2024.05.19-10.47.36:947][532]LogLoad: Took 0.025691 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.19-10.47.36:963][533]LogNet: Client netspeed is 100000
+[2024.05.19-10.47.36:963][533]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD?SplitscreenCount=1
+[2024.05.19-10.47.36:966][533]LogNet: Join succeeded: DESKTOP-Q3OAHUL-414F
+[2024.05.19-10.47.42:561][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-10.47.42:561][774]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.19-10.47.42:562][774]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.19-10.47.42:575][774]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.47.42:576][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.47.42:577][774]LogNet: World NetDriver shutdown IpNetDriver_51 [GameNetDriver]
+[2024.05.19-10.47.42:577][774]LogNet: DestroyNamedNetDriver IpNetDriver_51 [GameNetDriver]
+[2024.05.19-10.47.42:577][774]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_51, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD, Channels: 11, Time: 2024.05.19-10.47.42
+[2024.05.19-10.47.42:577][774]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_51, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD
+[2024.05.19-10.47.42:577][774]LogExit: GameNetDriver IpNetDriver_51 shut down
+[2024.05.19-10.47.42:579][774]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.19-10.47.42:579][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-10.47.42:579][774]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.19-10.47.42:584][774]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.47.42:585][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.47.42:585][774]LogNet: World NetDriver shutdown IpNetDriver_50 [GameNetDriver]
+[2024.05.19-10.47.42:585][774]LogNet: DestroyNamedNetDriver IpNetDriver_50 [GameNetDriver]
+[2024.05.19-10.47.42:585][774]LogNet: UNetConnection::SendCloseReason:
+[2024.05.19-10.47.42:585][774]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.19-10.47.42:586][774]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:60642, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_50, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD
+[2024.05.19-10.47.42:586][774]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60642, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_50, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD, Channels: 11, Time: 2024.05.19-10.47.42
+[2024.05.19-10.47.42:586][774]LogNet: UNetConnection::SendCloseReason:
+[2024.05.19-10.47.42:586][774]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.19-10.47.42:586][774]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60642, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_50, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-414FBB9C4D7B56356FC3839847FCCCBD
+[2024.05.19-10.47.42:586][774]LogExit: GameNetDriver IpNetDriver_50 shut down
+[2024.05.19-10.47.42:588][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.19-10.47.42:593][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.47.42:609][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.05.19-10.47.42:609][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.05.19-10.47.42:611][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.05.19-10.47.42:619][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.05.19-10.47.42:619][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.05.19-10.47.42:621][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.05.19-10.47.42:633][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.19-10.47.42:661][775]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.05.19-10.47.42:661][775]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.05.19-10.47.48:017][968]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.19-10.47.48:022][968]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.19-10.47.48:033][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.19-10.47.58:373][580]LogContentBrowser: Attempting asset rename: NewFolder -> SpawnPoints
+[2024.05.19-10.47.58:376][580]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.19-10.48.04:165][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.48.04:322][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.19-10.48.04:366][828]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.19-10.48.04:366][828]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main89C8F148465D6F39344D598B779F19A3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.19-10.48.04:397][828]LogFileHelpers: All files are already saved.
+[2024.05.19-10.48.04:398][828]LogFileHelpers: Saving map 'MAP_Main' took 0.192
+[2024.05.19-10.48.04:405][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 7.24 sec)
+[2024.05.19-10.48.04:410][828]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.19-10.48.04:410][828]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.19-10.50.06:744][877]Cmd: DELETE
+[2024.05.19-10.50.06:761][877]Cmd: ACTOR DELETE
+[2024.05.19-10.50.07:069][877]LogEditorActor: Deleted Actor: PlayerStart
+[2024.05.19-10.50.07:099][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.05.19-10.50.07:100][877]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.05.19-10.50.59:400][672]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.19-10.50.59:755][672]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.19-10.50.59:759][672]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.19-10.50.59:791][674]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.19-10.51.08:425][189]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SpawinPointBase
+[2024.05.19-10.51.08:530][189]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.19-10.51.10:172][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.51.10:265][286]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_SpawinPointBase
+[2024.05.19-10.51.10:266][286]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_SpawinPointBase409C3736459615D3B991FFA57525EAEB.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_SpawinPointBase.uasset'
+[2024.05.19-10.51.10:276][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 7.34 sec)
+[2024.05.19-10.51.10:277][286]AssetCheck: New page: Asset Save: BP_SpawinPointBase
+[2024.05.19-10.51.10:277][286]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_SpawinPointBase.BP_SpawinPointBase
+[2024.05.19-10.51.24:907][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SpawnPoints/BP_SpawinPointBase.BP_SpawinPointBase
+[2024.05.19-10.51.24:907][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-10.51.24:907][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-10.51.25:565][365]LogViewport: Scene viewport resized to 1226x646, mode Windowed.
+[2024.05.19-10.52.32:884][652]LogSlate: Window 'BP_SpawinPointBase' being destroyed
+[2024.05.19-10.52.32:894][652]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.52.32:894][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.52.46:594][976]LogContentBrowser: Deferred new asset file creation: BP_SpawinPointBase_Child
+[2024.05.19-10.52.46:613][976]LogContentBrowser: Creating deferred item: BP_SpawinPointBase_Child
+[2024.05.19-10.52.46:622][977]LogContentBrowser: Renaming the item being created (Deferred Item: BP_SpawinPointBase_Child).
+[2024.05.19-10.53.03:371][885]LogContentBrowser: Attempting asset rename: BP_SpawinPointBase_Child -> BP_CounterTerrorist
+[2024.05.19-10.53.03:376][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.53.03:400][885]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/SpawnPoints/BP_CounterTerrorist does not exist, will not scan.
+[2024.05.19-10.53.03:404][885]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_CounterTerrorist
+[2024.05.19-10.53.03:405][885]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_CounterTerroristF52C085A47982297D45EF292A000B348.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_CounterTerrorist.uasset'
+[2024.05.19-10.53.03:417][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 7.38 sec)
+[2024.05.19-10.53.03:418][885]LogContentBrowser: End creating deferred item BP_SpawinPointBase_Child
+[2024.05.19-10.53.03:418][885]AssetCheck: New page: Asset Save: BP_CounterTerrorist
+[2024.05.19-10.53.03:418][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerrorist.BP_CounterTerrorist
+[2024.05.19-10.53.06:399][ 61]LogContentBrowser: Deferred new asset file creation: BP_SpawinPointBase_Child
+[2024.05.19-10.53.06:419][ 61]LogContentBrowser: Creating deferred item: BP_SpawinPointBase_Child
+[2024.05.19-10.53.06:428][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: BP_SpawinPointBase_Child).
+[2024.05.19-10.53.15:635][500]LogContentBrowser: Attempting asset rename: BP_SpawinPointBase_Child -> BP_
+[2024.05.19-10.53.15:643][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.53.15:672][500]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/SpawnPoints/BP_ does not exist, will not scan.
+[2024.05.19-10.53.15:676][500]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_
+[2024.05.19-10.53.15:676][500]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_BB26B04348F6CC38E7F4E595196A82F6.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_.uasset'
+[2024.05.19-10.53.15:687][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 7.42 sec)
+[2024.05.19-10.53.15:688][500]LogContentBrowser: End creating deferred item BP_SpawinPointBase_Child
+[2024.05.19-10.53.15:689][500]AssetCheck: New page: Asset Save: BP_
+[2024.05.19-10.53.15:689][500]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_.BP_
+[2024.05.19-10.53.24:801][816]LogContentBrowser: Attempting asset rename: BP_ -> BP_
+[2024.05.19-10.53.28:048][924]Cmd: TRANSACTION UNDO
+[2024.05.19-10.53.28:049][924]LogEditorTransaction: Undo Delete Elements
+[2024.05.19-10.53.33:273][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.19-10.53.35:120][164]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.19-10.53.35:368][164]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-10.53.35:368][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-10.53.35:393][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.19-10.53.35:407][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.19-10.53.35:420][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.19-10.53.39:611][381]Cmd: DELETE
+[2024.05.19-10.53.39:611][381]Cmd: ACTOR DELETE
+[2024.05.19-10.53.39:613][381]LogEditorActor: Deleted Actor: PlayerStart
+[2024.05.19-10.53.39:629][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.19-10.53.39:631][381]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.05.19-10.53.44:348][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.19-10.53.45:738][660]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.19-10.53.45:773][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.19-10.53.45:788][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.19-10.53.45:803][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.19-10.54.34:033][823]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.19-10.54.34:041][823]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.19-10.54.34:046][823]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.19-10.54.34:071][825]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.19-10.54.41:223][214]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SpawnPointBase
+[2024.05.19-10.54.41:229][214]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.19-10.54.45:011][439]LogContentBrowser: Deferred new asset file creation: BP_SpawnPointBase_Child
+[2024.05.19-10.54.45:024][439]LogContentBrowser: Creating deferred item: BP_SpawnPointBase_Child
+[2024.05.19-10.54.45:032][440]LogContentBrowser: Renaming the item being created (Deferred Item: BP_SpawnPointBase_Child).
+[2024.05.19-10.55.17:456][383]LogContentBrowser: Attempting asset rename: BP_SpawnPointBase_Child -> BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.17:462][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.55.17:494][383]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint does not exist, will not scan.
+[2024.05.19-10.55.17:498][383]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.17:499][383]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_CounterTerroristSpawnPoint1C5AF9EC4E5BA3D6DAC32699F2B23CBC.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.uasset'
+[2024.05.19-10.55.17:512][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 7.47 sec)
+[2024.05.19-10.55.17:513][383]LogContentBrowser: End creating deferred item BP_SpawnPointBase_Child
+[2024.05.19-10.55.17:513][383]AssetCheck: New page: Asset Save: BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.17:513][383]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.19:005][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.55.19:040][472]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.19:040][472]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_CounterTerroristSpawnPoint2BAC3EEF4DFF3511ABB2DB97E93B579E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.uasset'
+[2024.05.19-10.55.19:048][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 7.52 sec)
+[2024.05.19-10.55.19:049][472]AssetCheck: New page: Asset Save: BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.19:049][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint
+[2024.05.19-10.55.25:122][693]LogContentBrowser: Deferred new asset file creation: BP_SpawnPointBase_Child
+[2024.05.19-10.55.25:136][693]LogContentBrowser: Creating deferred item: BP_SpawnPointBase_Child
+[2024.05.19-10.55.25:145][694]LogContentBrowser: Renaming the item being created (Deferred Item: BP_SpawnPointBase_Child).
+[2024.05.19-10.55.31:993][104]LogContentBrowser: Attempting asset rename: BP_SpawnPointBase_Child -> BP_TerroristSpawnPoint
+[2024.05.19-10.55.31:999][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.55.32:027][104]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint does not exist, will not scan.
+[2024.05.19-10.55.32:031][104]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint
+[2024.05.19-10.55.32:031][104]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_TerroristSpawnPoint827D093442CDE41C4BB6269FE026C0EA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.uasset'
+[2024.05.19-10.55.32:043][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 7.56 sec)
+[2024.05.19-10.55.32:043][104]LogContentBrowser: End creating deferred item BP_SpawnPointBase_Child
+[2024.05.19-10.55.32:044][104]AssetCheck: New page: Asset Save: BP_TerroristSpawnPoint
+[2024.05.19-10.55.32:044][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint
+[2024.05.19-10.55.33:368][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-10.55.33:399][156]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint
+[2024.05.19-10.55.33:399][156]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_TerroristSpawnPoint71D40127463C3C487BFD21884D3243EE.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.uasset'
+[2024.05.19-10.55.33:403][156]LogSavePackage: Moving output files for package: /Game/Blueprints/SpawnPoints/BP_SpawnPointBase
+[2024.05.19-10.55.33:403][156]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_SpawnPointBaseE5895D2B4BDFCE815725499280D14F9E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_SpawnPointBase.uasset'
+[2024.05.19-10.55.33:414][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 7.61 sec)
+[2024.05.19-10.55.33:415][156]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.19-10.55.33:415][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint
+[2024.05.19-10.55.33:415][156]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/SpawnPoints/BP_SpawnPointBase.BP_SpawnPointBase
+[2024.05.19-10.58.04:882][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.19-10.58.04:904][632]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Main_Auto4
+[2024.05.19-10.58.04:904][632]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_Auto4AE401B8D451449852564119F374B9EED.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto4.umap'
+[2024.05.19-10.58.04:905][632]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto4.umap is in the /Temp path, will not scan.
+[2024.05.19-10.58.04:905][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.042
+[2024.05.19-10.58.04:905][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2024.05.19-10.58.52:158][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-10.58.52:165][742]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-10.58.52:167][742]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_0
+[2024.05.19-10.58.52:167][742]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.58.52:177][742]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_0
+[2024.05.19-10.58.52:177][742]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.58.52:178][742]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.58.52:187][742]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.19-10.58.54:150][859]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-10.58.54:150][859]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-10.58.54:240][859]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_1
+[2024.05.19-10.58.54:240][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.58.54:241][859]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_1
+[2024.05.19-10.58.54:241][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.58.54:280][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.46:188][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint_C
+[2024.05.19-10.59.46:188][766]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint_C
+[2024.05.19-10.59.46:188][766]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint as actor: BP_TerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_TerroristSpawnPoint_C_0
+[2024.05.19-10.59.46:189][766]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.46:189][766]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint as actor: BP_TerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_TerroristSpawnPoint_C_0
+[2024.05.19-10.59.46:189][766]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.46:189][766]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.47:010][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint_C
+[2024.05.19-10.59.47:010][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint_C
+[2024.05.19-10.59.47:012][814]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint as actor: BP_TerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_TerroristSpawnPoint_C_1
+[2024.05.19-10.59.47:012][814]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.47:012][814]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_TerroristSpawnPoint.BP_TerroristSpawnPoint as actor: BP_TerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_TerroristSpawnPoint_C_1
+[2024.05.19-10.59.47:012][814]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-10.59.47:030][814]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.00.00:012][578]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.00.02:748][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-11.00.02:919][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.19-11.00.02:942][736]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.19-11.00.02:942][736]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main99A4681546C121D197E2819BC75C0874.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.19-11.00.02:948][736]LogFileHelpers: All files are already saved.
+[2024.05.19-11.00.02:948][736]LogFileHelpers: Saving map 'MAP_Main' took 0.072
+[2024.05.19-11.00.02:955][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 7.81 sec)
+[2024.05.19-11.00.02:957][736]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.19-11.00.02:957][736]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.19-11.03.30:085][219]Cmd: SELECT NONE
+[2024.05.19-11.04.00:060][979]Cmd: SELECT NONE
+[2024.05.19-11.04.27:120][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.27:120][ 67]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.27:121][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_2
+[2024.05.19-11.04.27:121][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.27:121][ 67]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_2
+[2024.05.19-11.04.27:121][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.27:121][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.28:522][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.28:522][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.28:524][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_3
+[2024.05.19-11.04.28:525][151]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.28:525][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_3
+[2024.05.19-11.04.28:525][151]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.28:544][151]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.32:983][403]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.32:983][403]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.32:984][403]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_4
+[2024.05.19-11.04.32:984][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.32:984][403]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_4
+[2024.05.19-11.04.32:984][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.32:984][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.33:913][458]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.33:913][458]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.33:915][458]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_5
+[2024.05.19-11.04.33:915][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.33:915][458]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_5
+[2024.05.19-11.04.33:915][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.33:934][458]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.40:129][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.40:129][821]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.40:130][821]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_6
+[2024.05.19-11.04.40:130][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.40:130][821]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_6
+[2024.05.19-11.04.40:130][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.40:131][821]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.51:951][528]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.51:951][528]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint_C
+[2024.05.19-11.04.51:953][528]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_7
+[2024.05.19-11.04.51:953][528]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.51:953][528]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/SpawnPoints/BP_CounterTerroristSpawnPoint.BP_CounterTerroristSpawnPoint as actor: BP_CounterTerroristSpawnPoint_C /Game/Maps/MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerroristSpawnPoint_C_7
+[2024.05.19-11.04.51:953][528]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.04.51:973][528]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.11:216][501]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.12:246][561]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.14:069][669]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.16:182][794]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.20:430][ 28]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.20:837][ 51]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.23:064][183]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.23:769][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-11.05.23:839][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.19-11.05.23:868][224]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.19-11.05.23:869][224]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainB0D1DBD14D5F0DC6F7246292539F25A3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.19-11.05.23:876][224]LogFileHelpers: All files are already saved.
+[2024.05.19-11.05.23:876][224]LogFileHelpers: Saving map 'MAP_Main' took 0.086
+[2024.05.19-11.05.23:883][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 7.93 sec)
+[2024.05.19-11.05.23:885][224]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.19-11.05.23:885][224]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.19-11.05.28:499][493]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.29:499][552]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.32:603][735]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.34:842][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.19-11.05.35:179][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-11.05.35:247][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.19-11.05.35:277][885]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.19-11.05.35:277][885]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainA0543B624A7BA849A0F2ABB0AB2529A2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.19-11.05.35:285][885]LogFileHelpers: All files are already saved.
+[2024.05.19-11.05.35:285][885]LogFileHelpers: Saving map 'MAP_Main' took 0.078
+[2024.05.19-11.05.35:293][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 8.04 sec)
+[2024.05.19-11.05.35:294][885]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.19-11.05.35:294][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.19-11.06.24:983][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-11.06.25:057][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.19-11.06.25:081][ 91]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.19-11.06.25:081][ 91]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main55F2CB394BF1BCB5226E239F1A842491.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.19-11.06.25:087][ 91]LogFileHelpers: All files are already saved.
+[2024.05.19-11.06.25:087][ 91]LogFileHelpers: Saving map 'MAP_Main' took 0.075
+[2024.05.19-11.06.25:094][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 8.15 sec)
+[2024.05.19-11.06.25:095][ 91]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.19-11.06.25:095][ 91]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.19-11.06.26:846][193]Cmd: ACTOR SELECT ALL DESCENDANTS
