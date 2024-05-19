@@ -13000,3 +13000,457 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.19-16.53.23:614][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2024.05.19-16.53.23:689][565]LogPlayLevel: Display: Destroying online subsystem :Context_110
 [2024.05.19-16.53.23:689][565]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2024.05.19-17.41.32:445][267]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10829 files in 13191 folders with total size 430 MiB.
+[2024.05.19-18.11.46:668][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_02.wav]
+[2024.05.19-18.11.46:670][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_02.wav)
+[2024.05.19-18.11.46:691][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_02...
+[2024.05.19-18.11.46:716][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:727][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_02...
+[2024.05.19-18.11.46:736][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:737][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:740][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_02...
+[2024.05.19-18.11.46:743][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:744][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_02...
+[2024.05.19-18.11.46:750][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:751][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_02...
+[2024.05.19-18.11.46:756][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:804][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_03.wav]
+[2024.05.19-18.11.46:805][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_03.wav)
+[2024.05.19-18.11.46:805][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_03...
+[2024.05.19-18.11.46:807][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:807][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_03...
+[2024.05.19-18.11.46:809][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:821][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:821][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_03...
+[2024.05.19-18.11.46:822][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:823][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_03...
+[2024.05.19-18.11.46:825][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:826][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_03...
+[2024.05.19-18.11.46:828][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:839][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_04.wav]
+[2024.05.19-18.11.46:840][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_04.wav)
+[2024.05.19-18.11.46:841][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_04...
+[2024.05.19-18.11.46:844][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:844][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_04...
+[2024.05.19-18.11.46:847][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:854][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:854][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_04...
+[2024.05.19-18.11.46:856][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:857][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_04...
+[2024.05.19-18.11.46:860][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:861][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_04...
+[2024.05.19-18.11.46:865][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:874][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_05.wav]
+[2024.05.19-18.11.46:892][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_05.wav)
+[2024.05.19-18.11.46:893][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_05...
+[2024.05.19-18.11.46:898][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:899][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_05...
+[2024.05.19-18.11.46:904][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:905][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:905][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_05...
+[2024.05.19-18.11.46:910][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:912][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_05...
+[2024.05.19-18.11.46:916][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:917][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_05...
+[2024.05.19-18.11.46:920][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:928][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_06.wav]
+[2024.05.19-18.11.46:929][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_06.wav)
+[2024.05.19-18.11.46:930][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_06...
+[2024.05.19-18.11.46:932][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:932][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_06...
+[2024.05.19-18.11.46:934][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:935][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:935][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_06...
+[2024.05.19-18.11.46:952][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:953][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_06...
+[2024.05.19-18.11.46:955][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:956][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_06...
+[2024.05.19-18.11.46:959][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:971][576]LogAudioEditor: Performing atomic reimport of [D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_01.wav]
+[2024.05.19-18.11.46:972][576]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Practicing/Programming/Courses/Multiplayer Shooter (FPS) - Course Materials/Course Materials/Audio/SFX_Footstep_01.wav)
+[2024.05.19-18.11.46:972][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_01...
+[2024.05.19-18.11.46:975][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:976][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_01...
+[2024.05.19-18.11.46:978][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:979][576]LogAudioEditor: -- imported successfully
+[2024.05.19-18.11.46:980][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_01...
+[2024.05.19-18.11.46:983][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:984][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_01...
+[2024.05.19-18.11.46:987][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.46:988][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Footstep_01...
+[2024.05.19-18.11.46:991][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:015][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_M4A1_Gunshot.wav)
+[2024.05.19-18.11.47:019][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_M4A1_Gunshot...
+[2024.05.19-18.11.47:036][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_M4A1_Gunshot.SFX_M4A1_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:037][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_M4A1_Gunshot...
+[2024.05.19-18.11.47:050][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_M4A1_Gunshot.SFX_M4A1_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:050][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_M4A1_OutOfAmmo.wav)
+[2024.05.19-18.11.47:051][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_M4A1_OutOfAmmo...
+[2024.05.19-18.11.47:055][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_M4A1_OutOfAmmo.SFX_M4A1_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:056][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_M4A1_OutOfAmmo...
+[2024.05.19-18.11.47:058][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_Pistol_Gunshot.wav)
+[2024.05.19-18.11.47:060][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Pistol_Gunshot...
+[2024.05.19-18.11.47:072][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Pistol_Gunshot.SFX_Pistol_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:073][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_M4A1_OutOfAmmo.SFX_M4A1_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:073][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Pistol_Gunshot...
+[2024.05.19-18.11.47:076][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_Pistol_OutOfAmmo.wav)
+[2024.05.19-18.11.47:077][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Pistol_OutOfAmmo...
+[2024.05.19-18.11.47:080][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Pistol_OutOfAmmo.SFX_Pistol_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:081][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_Pistol_OutOfAmmo...
+[2024.05.19-18.11.47:082][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_PistolClip.wav)
+[2024.05.19-18.11.47:083][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_PistolClip...
+[2024.05.19-18.11.47:086][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_PistolClip.SFX_PistolClip: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:087][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Pistol_Gunshot.SFX_Pistol_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:087][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_PistolClip...
+[2024.05.19-18.11.47:088][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_Pistol_OutOfAmmo.SFX_Pistol_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:089][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_PistolReload.wav)
+[2024.05.19-18.11.47:090][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_PistolReload...
+[2024.05.19-18.11.47:096][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_PistolClip.SFX_PistolClip: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:097][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_PistolReload.SFX_PistolReload: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:097][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_PistolReload...
+[2024.05.19-18.11.47:098][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_RifleClipIn.wav)
+[2024.05.19-18.11.47:099][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleClipIn...
+[2024.05.19-18.11.47:102][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleClipIn.SFX_RifleClipIn: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:103][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleClipIn...
+[2024.05.19-18.11.47:106][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_PistolReload.SFX_PistolReload: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:107][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleClipIn.SFX_RifleClipIn: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:125][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_RifleClipOut.wav)
+[2024.05.19-18.11.47:126][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleClipOut...
+[2024.05.19-18.11.47:128][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleClipOut.SFX_RifleClipOut: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:129][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleClipOut...
+[2024.05.19-18.11.47:131][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_RifleReload.wav)
+[2024.05.19-18.11.47:132][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleReload...
+[2024.05.19-18.11.47:137][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleClipOut.SFX_RifleClipOut: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:137][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleReload.SFX_RifleReload: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:137][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_RifleReload...
+[2024.05.19-18.11.47:144][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_RifleReload.SFX_RifleReload: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:150][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_AK47_Gunshot.wav)
+[2024.05.19-18.11.47:153][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_AK47_Gunshot...
+[2024.05.19-18.11.47:167][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_AK47_Gunshot.SFX_AK47_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:172][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_AK47_Gunshot...
+[2024.05.19-18.11.47:174][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_AK47_OutOfAmmo.wav)
+[2024.05.19-18.11.47:175][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_AK47_OutOfAmmo...
+[2024.05.19-18.11.47:179][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_AK47_OutOfAmmo.SFX_AK47_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:179][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_AK47_OutOfAmmo...
+[2024.05.19-18.11.47:187][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_AK47_Gunshot.SFX_AK47_Gunshot: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:188][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_AK47_OutOfAmmo.SFX_AK47_OutOfAmmo: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.47:322][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_BirdAmbience.wav)
+[2024.05.19-18.11.47:396][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_BirdAmbience...
+[2024.05.19-18.11.48:446][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_BirdAmbience.SFX_BirdAmbience: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.48:469][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_BirdAmbience...
+[2024.05.19-18.11.48:470][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_ButtonHover.wav)
+[2024.05.19-18.11.48:471][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_ButtonHover...
+[2024.05.19-18.11.48:474][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_ButtonHover.SFX_ButtonHover: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.48:475][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_ButtonHover...
+[2024.05.19-18.11.48:477][576]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Practicing\Programming\Courses\Multiplayer Shooter (FPS) - Course Materials\Course Materials\Audio\SFX_ButtonPress.wav)
+[2024.05.19-18.11.48:479][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_ButtonPress...
+[2024.05.19-18.11.48:480][576]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_ButtonPress.SFX_ButtonPress: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.48:481][576]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave SFX_ButtonPress...
+[2024.05.19-18.11.49:545][580]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_BirdAmbience.SFX_BirdAmbience: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.49:564][580]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_ButtonHover.SFX_ButtonHover: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.11.49:564][580]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/SFX/SFX_ButtonPress.SFX_ButtonPress: Chunk0=28 bytes, Chunk1-N=256k
+[2024.05.19-18.12.01:606][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-18.12.01:631][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_01
+[2024.05.19-18.12.01:632][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_010D51814A451424B379ABB7A8A5D7C497.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_01.uasset'
+[2024.05.19-18.12.01:637][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_02
+[2024.05.19-18.12.01:637][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_0282F3F530464A6F6164D149B5B47C76CD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_02.uasset'
+[2024.05.19-18.12.01:642][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_03
+[2024.05.19-18.12.01:642][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_03098C1C57445AD7F8865B9494AB56F8C2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_03.uasset'
+[2024.05.19-18.12.01:647][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_04
+[2024.05.19-18.12.01:648][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_04013764D04D892D9180DE4EBB51BF7877.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_04.uasset'
+[2024.05.19-18.12.01:653][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_05
+[2024.05.19-18.12.01:653][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_05617EB0D84DC402E42007208A8F92251F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_05.uasset'
+[2024.05.19-18.12.01:658][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Footstep_06
+[2024.05.19-18.12.01:658][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Footstep_063C075E69474236A9E9F3C9AABB85C2E0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Footstep_06.uasset'
+[2024.05.19-18.12.01:667][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_ButtonPress
+[2024.05.19-18.12.01:667][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_ButtonPress868477F14E28B2477994B291189BEA77.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_ButtonPress.uasset'
+[2024.05.19-18.12.01:674][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_ButtonHover
+[2024.05.19-18.12.01:674][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_ButtonHover9CE289174AE97276572A699399CD10F9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_ButtonHover.uasset'
+[2024.05.19-18.12.01:785][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_BirdAmbience
+[2024.05.19-18.12.01:785][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_BirdAmbienceC16FBDD64CCDE791D29F06A1DCD3DAFD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_BirdAmbience.uasset'
+[2024.05.19-18.12.01:790][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_AK47_OutOfAmmo
+[2024.05.19-18.12.01:790][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_AK47_OutOfAmmoF7C403164194749FC000E6B2E20207F2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_AK47_OutOfAmmo.uasset'
+[2024.05.19-18.12.01:798][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_AK47_Gunshot
+[2024.05.19-18.12.01:798][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_AK47_Gunshot293402D94EAD8717F5C85993C95305B4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_AK47_Gunshot.uasset'
+[2024.05.19-18.12.01:804][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_RifleReload
+[2024.05.19-18.12.01:804][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_RifleReload97EA0573460C5FC763AA4DBE1592DB74.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_RifleReload.uasset'
+[2024.05.19-18.12.01:809][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_RifleClipOut
+[2024.05.19-18.12.01:809][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_RifleClipOut63587BAE48D1E03D3CA89788F091C3C3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_RifleClipOut.uasset'
+[2024.05.19-18.12.01:814][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_RifleClipIn
+[2024.05.19-18.12.01:814][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_RifleClipIn83E3C69C478145CB35AC9094DE76D8AC.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_RifleClipIn.uasset'
+[2024.05.19-18.12.01:820][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_PistolReload
+[2024.05.19-18.12.01:820][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_PistolReload31AC1B3140769AF752242BBFBFD96F2F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_PistolReload.uasset'
+[2024.05.19-18.12.01:823][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SFX_PistolClip" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_PistolClip.uasset" SILENT=true
+[2024.05.19-18.12.01:827][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_PistolClip
+[2024.05.19-18.12.01:827][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_PistolClipC73198A44C24442CC35A5DB3F0B555F8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_PistolClip.uasset'
+[2024.05.19-18.12.01:832][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Pistol_OutOfAmmo
+[2024.05.19-18.12.01:832][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Pistol_OutOfAmmoAF3525BD40F56E394BA99FA44AB6187A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Pistol_OutOfAmmo.uasset'
+[2024.05.19-18.12.01:841][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_Pistol_Gunshot
+[2024.05.19-18.12.01:841][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_Pistol_Gunshot988A67DD453629DC2B410DB1F10A211F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Pistol_Gunshot.uasset'
+[2024.05.19-18.12.01:847][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_M4A1_OutOfAmmo
+[2024.05.19-18.12.01:847][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_M4A1_OutOfAmmoF1AF72A141193F959EB69A8B3CAA590F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_M4A1_OutOfAmmo.uasset'
+[2024.05.19-18.12.01:854][113]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SFX_M4A1_Gunshot
+[2024.05.19-18.12.01:854][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SFX_M4A1_Gunshot2E9B11C5423E02CE3362C09FDC944784.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_M4A1_Gunshot.uasset'
+[2024.05.19-18.12.01:863][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 12.3 sec)
+[2024.05.19-18.12.01:875][113]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_01.SFX_Footstep_01
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_02.SFX_Footstep_02
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_03.SFX_Footstep_03
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_04.SFX_Footstep_04
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_05.SFX_Footstep_05
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Footstep_06.SFX_Footstep_06
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_ButtonPress.SFX_ButtonPress
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_ButtonHover.SFX_ButtonHover
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_BirdAmbience.SFX_BirdAmbience
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_AK47_OutOfAmmo.SFX_AK47_OutOfAmmo
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_AK47_Gunshot.SFX_AK47_Gunshot
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_RifleReload.SFX_RifleReload
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_RifleClipOut.SFX_RifleClipOut
+[2024.05.19-18.12.01:875][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_RifleClipIn.SFX_RifleClipIn
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_PistolReload.SFX_PistolReload
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_PistolClip.SFX_PistolClip
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Pistol_OutOfAmmo.SFX_Pistol_OutOfAmmo
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_Pistol_Gunshot.SFX_Pistol_Gunshot
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_M4A1_OutOfAmmo.SFX_M4A1_OutOfAmmo
+[2024.05.19-18.12.01:876][113]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX/SFX_M4A1_Gunshot.SFX_M4A1_Gunshot
+[2024.05.19-18.12.45:772][171]LogContentBrowser: Deferred new asset file creation: SFX_ButtonHover_Cue
+[2024.05.19-18.12.45:792][171]LogContentBrowser: Creating deferred item: SFX_ButtonHover_Cue
+[2024.05.19-18.12.45:814][172]LogContentBrowser: Renaming the item being created (Deferred Item: SFX_ButtonHover_Cue).
+[2024.05.19-18.12.50:375][442]LogContentBrowser: Attempting asset rename: SFX_ButtonHover_Cue -> SC_ButtonHover
+[2024.05.19-18.12.50:379][442]LogContentBrowser: End creating deferred item SFX_ButtonHover_Cue
+[2024.05.19-18.13.11:597][614]LogContentBrowser: Deferred new asset file creation: SFX_ButtonPress_Cue
+[2024.05.19-18.13.11:619][614]LogContentBrowser: Creating deferred item: SFX_ButtonPress_Cue
+[2024.05.19-18.13.11:641][615]LogContentBrowser: Renaming the item being created (Deferred Item: SFX_ButtonPress_Cue).
+[2024.05.19-18.13.17:425][941]LogContentBrowser: Attempting asset rename: SFX_ButtonPress_Cue -> SC_ButtonPressed
+[2024.05.19-18.13.17:427][941]LogContentBrowser: End creating deferred item SFX_ButtonPress_Cue
+[2024.05.19-18.13.22:947][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-18.13.22:979][235]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ButtonPressed
+[2024.05.19-18.13.22:979][235]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonPressed92AB48354ABD31AB65C35E9B23CF1838.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPressed.uasset'
+[2024.05.19-18.13.22:981][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SC_ButtonHover" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonHover.uasset" SILENT=true
+[2024.05.19-18.13.22:982][235]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ButtonHover
+[2024.05.19-18.13.22:982][235]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonHover867D74DF4A3233E994FF9D8A062F0C9C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonHover.uasset'
+[2024.05.19-18.13.22:990][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 12.3 sec)
+[2024.05.19-18.13.22:991][235]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.19-18.13.22:991][235]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Audio/SFX/SC_ButtonPressed.SC_ButtonPressed
+[2024.05.19-18.13.22:991][235]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Audio/SFX/SC_ButtonHover.SC_ButtonHover
+[2024.05.19-18.13.34:449][835]LogContentBrowser: Attempting asset rename: SC_ButtonPressed -> SC_ButtonPress
+[2024.05.19-18.13.34:516][835]LogMetaData: Removing '/Game/Audio/SFX/SC_ButtonPress.SC_ButtonPress:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Audio/SFX/SC_ButtonPressed.PackageMetaData'
+[2024.05.19-18.13.34:517][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-18.13.34:540][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SC_ButtonPress" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPress.uasset" SILENT=true
+[2024.05.19-18.13.34:541][835]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ButtonPress
+[2024.05.19-18.13.34:541][835]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonPressC4DBF3BA4E7BB6E828C168A8EF42034A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPress.uasset'
+[2024.05.19-18.13.34:552][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 12.4 sec)
+[2024.05.19-18.13.34:601][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.19-18.13.34:622][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.19-18.13.34:639][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.19-18.13.34:640][835]AssetCheck: New page: Asset Save: SC_ButtonPress
+[2024.05.19-18.13.34:641][835]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Audio/SFX/SC_ButtonPress.SC_ButtonPress
+[2024.05.19-18.13.49:373][230]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SFX/SC_ButtonHover.SC_ButtonHover
+[2024.05.19-18.13.51:794][354]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SFX/SC_ButtonPress.SC_ButtonPress
+[2024.05.19-18.13.55:918][383]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.13.55:918][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.13.56:353][400]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.13.56:353][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.13.56:362][400]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.13.56:362][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.14.56:567][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.05.19-18.14.56:572][881]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.344
+[2024.05.19-18.14.56:581][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SFX/SC_ButtonHover] ([1] browsable assets)...
+[2024.05.19-18.14.56:581][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/SC_ButtonHover]
+[2024.05.19-18.14.56:582][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SFX/SC_ButtonHover_Auto6
+[2024.05.19-18.14.56:583][881]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonHover_Auto69AF9CF6C4F651BF95EEA2E97A9D4000C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Audio/SFX/SC_ButtonHover_Auto6.uasset'
+[2024.05.19-18.14.56:583][881]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SFX/SC_ButtonPress] ([1] browsable assets)...
+[2024.05.19-18.14.56:583][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SFX/SC_ButtonPress]
+[2024.05.19-18.14.56:584][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SFX/SC_ButtonPress_Auto6
+[2024.05.19-18.14.56:584][881]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonPress_Auto69EAA140D47AB325AC7D1AE90ACD9F281.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Audio/SFX/SC_ButtonPress_Auto6.uasset'
+[2024.05.19-18.14.56:585][881]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.05.19-18.14.56:934][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.19-18.14.56:939][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-18.14.56:970][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SC_ButtonHover" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonHover.uasset" SILENT=true
+[2024.05.19-18.14.56:971][897]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ButtonHover
+[2024.05.19-18.14.56:971][897]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonHoverE46C52DB43C1B89C6546F19230B7A8F9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonHover.uasset'
+[2024.05.19-18.14.56:972][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SC_ButtonPress" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPress.uasset" SILENT=true
+[2024.05.19-18.14.56:973][897]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ButtonPress
+[2024.05.19-18.14.56:973][897]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/SC_ButtonPress0D43FA244C7CA9ED1E19C5BAF04B9934.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPress.uasset'
+[2024.05.19-18.14.56:982][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 12.4 sec)
+[2024.05.19-18.14.56:983][897]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.19-18.14.56:983][897]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Audio/SFX/SC_ButtonHover.SC_ButtonHover
+[2024.05.19-18.14.56:983][897]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Audio/SFX/SC_ButtonPress.SC_ButtonPress
+[2024.05.19-18.14.57:864][948]LogSlate: Window 'SC_ButtonHover' being destroyed
+[2024.05.19-18.15.03:294][238]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_TeamSelection.WB_TeamSelection
+[2024.05.19-18.15.03:294][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-18.15.03:295][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-18.15.03:302][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-18.15.03:302][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-18.15.53:538][113]BlueprintLog: New page: Compile WB_TeamSelection
+[2024.05.19-18.15.53:571][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.19-18.15.53:772][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.19-18.15.53:810][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_TeamSelection" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_TeamSelection.uasset" SILENT=true
+[2024.05.19-18.15.53:818][113]LogSavePackage: Moving output files for package: /Game/UI/WB_TeamSelection
+[2024.05.19-18.15.53:818][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_TeamSelection2A67F44640C898A8A83C55BF05CDDB39.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_TeamSelection.uasset'
+[2024.05.19-18.15.53:828][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 12.4 sec)
+[2024.05.19-18.15.53:850][113]AssetCheck: New page: Asset Save: WB_TeamSelection
+[2024.05.19-18.15.53:850][113]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_TeamSelection.WB_TeamSelection
+[2024.05.19-18.15.55:621][209]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.19-18.15.55:628][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.19-18.15.55:628][209]PIE: New page: PIE session: MAP_Main (May 20, 2024, 12:15:55 AM)
+[2024.05.19-18.15.55:628][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.19-18.15.55:635][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006792s)
+[2024.05.19-18.15.55:635][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.006827s)
+[2024.05.19-18.15.55:652][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.19-18.15.55:655][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-18.15.55:655][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-18.15.55:656][209]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.19-18.15.55:656][209]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2024.05.19-18.15.55:656][209]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.19-18.15.55:656][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.19-18.15.55:656][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.19-18.15.55:657][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.19-18.15.55:657][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.19-18.15.55:657][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.19-18.15.55:658][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.19-18.15.55:760][209]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.19-18.15.55:760][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.19-18.15.55:760][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.19-18.15.55:760][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.19-18.15.55:761][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2024.05.19-18.15.55:761][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2024.05.19-18.15.55:763][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2024.05.19-18.15.55:763][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2024.05.19-18.15.55:763][209]LogInit: FAudioDevice initialized with ID 94.
+[2024.05.19-18.15.55:763][209]LogAudio: Display: Audio Device (ID: 94) registered with world 'MAP_Main'.
+[2024.05.19-18.15.55:763][209]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2024.05.19-18.15.55:793][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-18.15.55:793][209]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.19-18.15.55:797][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.19-21.15.55
+[2024.05.19-18.15.55:799][209]LogOnline: OSS: Created online subsystem instance for: :Context_113
+[2024.05.19-18.15.55:799][209]LogWorld: Bringing up level for play took: 0.006488
+[2024.05.19-18.15.55:800][209]LogBlueprintUserMessages: [GM_CounterStrike_C_0] Server: BP_TerroristSpawnPoint
+[2024.05.19-18.15.55:803][209]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.19-18.15.55:803][209]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.19-18.15.55:803][209]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.19-18.15.55:803][209]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.19-18.15.55:803][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-18.15.55:803][209]LogNet: GameNetDriver IpNetDriver_92 IpNetDriver listening on port 17777
+[2024.05.19-18.15.55:808][209]PIE: Server logged in
+[2024.05.19-18.15.55:811][209]PIE: Play in editor total start time 0.182 seconds.
+[2024.05.19-18.15.55:811][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-18.15.55:811][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-18.15.55:812][209]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2024.05.19-18.15.55:812][209]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.19-18.15.55:812][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.19-18.15.55:812][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.19-18.15.55:813][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.19-18.15.55:813][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.19-18.15.55:813][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.19-18.15.55:815][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.19-18.15.55:938][209]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.05.19-18.15.55:938][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.19-18.15.55:938][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.19-18.15.55:938][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.19-18.15.55:940][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2024.05.19-18.15.55:940][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2024.05.19-18.15.55:942][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2024.05.19-18.15.55:942][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2024.05.19-18.15.55:942][209]LogInit: FAudioDevice initialized with ID 95.
+[2024.05.19-18.15.55:942][209]LogAudio: Display: Audio Device (ID: 95) registered with world 'Untitled'.
+[2024.05.19-18.15.55:942][209]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2024.05.19-18.15.55:969][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-18.15.55:969][209]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.19-18.15.55:970][209]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.19-18.15.55:970][209]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.19-18.15.55:970][209]LogNet: IpConnection_92 setting maximum channels to: 32767
+[2024.05.19-18.15.55:970][209]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-18.15.55:972][209]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 7
+[2024.05.19-18.15.55:972][209]LogNet: Game client on port 17777, rate 100000
+[2024.05.19-18.15.55:976][209]PIE: Client logged in
+[2024.05.19-18.15.55:980][209]PIE: Play in editor total start time 0.352 seconds.
+[2024.05.19-18.15.56:003][209]LogViewport: Scene viewport resized to 1914x999, mode Windowed.
+[2024.05.19-18.15.56:101][209]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.19-18.15.56:996][249]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63560
+[2024.05.19-18.15.56:996][249]LogHandshake: SendConnectChallenge. Timestamp: 1.391204, Cookie: 066151024199196110087122041200151087205057167013103231229107
+[2024.05.19-18.15.56:997][249]LogHandshake: Cached server SessionID: 0
+[2024.05.19-18.15.56:997][249]LogHandshake: SendChallengeResponse. Timestamp: 1.391204, Cookie: 066151024199196110087122041200151087205057167013103231229107
+[2024.05.19-18.15.57:016][250]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63560
+[2024.05.19-18.15.57:016][250]LogHandshake: SendChallengeAck. InCookie: 066151024199196110087122041200151087205057167013103231229107
+[2024.05.19-18.15.57:016][250]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63560
+[2024.05.19-18.15.57:016][250]LogNet: IpConnection_93 setting maximum channels to: 32767
+[2024.05.19-18.15.57:016][250]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.19-18.15.57:016][250]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/19/24 21:15:57, [UNetConnection] RemoteAddr: 127.0.0.1:63560, Name: IpConnection_93, Driver: GameNetDriver IpNetDriver_92, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-18.15.57:016][250]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63560, Name: IpConnection_93, Driver: GameNetDriver IpNetDriver_92, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-18.15.57:017][250]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_92, Driver: PendingNetDriver IpNetDriver_93, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.19-18.15.57:037][251]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.19-18.15.57:037][251]LogNet: Remote platform little endian=1
+[2024.05.19-18.15.57:037][251]LogNet: This platform little endian=1
+[2024.05.19-18.15.57:040][251]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2024.05.19-18.15.57:059][252]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A userId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A platform: NULL
+[2024.05.19-18.15.57:060][252]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.19-18.15.57:060][252]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.19-18.15.57:060][252]LogWorld: BeginTearingDown for /Temp/Untitled_47
+[2024.05.19-18.15.57:060][252]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.15.57:060][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.15.57:076][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.19-18.15.57:078][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.19-18.15.57:087][252]LogAudio: Display: Audio Device (ID: 95) registered with world 'MAP_Main'.
+[2024.05.19-18.15.57:087][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.19-18.15.57:087][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.19-18.15.57:088][252]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2024.05.19-18.15.57:090][252]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.19-21.15.57
+[2024.05.19-18.15.57:090][252]LogWorld: Bringing up level for play took: 0.002220
+[2024.05.19-18.15.57:090][252]LogLoad: Took 0.029913 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.19-18.15.57:120][253]LogNet: Client netspeed is 100000
+[2024.05.19-18.15.57:120][253]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A?SplitscreenCount=1
+[2024.05.19-18.15.57:121][253]LogBlueprintUserMessages: [GM_CounterStrike_C_0] Server: BP_TerroristSpawnPoint
+[2024.05.19-18.15.57:123][253]LogNet: Join succeeded: DESKTOP-Q3OAHUL-5B97
+[2024.05.19-18.15.57:989][255]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.140396 > MaxSimulationTimeStep (0.050) for 'BP_CounterTerrorist_C_1', movement 'Falling'
+[2024.05.19-18.16.03:623][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-18.16.03:623][456]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.19-18.16.03:624][456]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.19-18.16.03:629][456]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.16.03:630][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.16.03:630][456]LogNet: World NetDriver shutdown IpNetDriver_93 [GameNetDriver]
+[2024.05.19-18.16.03:630][456]LogNet: DestroyNamedNetDriver IpNetDriver_93 [GameNetDriver]
+[2024.05.19-18.16.03:630][456]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_92, Driver: GameNetDriver IpNetDriver_93, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A, Channels: 11, Time: 2024.05.19-18.16.03
+[2024.05.19-18.16.03:630][456]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_92, Driver: GameNetDriver IpNetDriver_93, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A
+[2024.05.19-18.16.03:630][456]LogExit: GameNetDriver IpNetDriver_93 shut down
+[2024.05.19-18.16.03:632][456]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.19-18.16.03:633][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.19-18.16.03:633][456]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.19-18.16.03:638][456]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.19-18.16.03:639][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.16.03:639][456]LogNet: World NetDriver shutdown IpNetDriver_92 [GameNetDriver]
+[2024.05.19-18.16.03:639][456]LogNet: DestroyNamedNetDriver IpNetDriver_92 [GameNetDriver]
+[2024.05.19-18.16.03:639][456]LogNet: UNetConnection::SendCloseReason:
+[2024.05.19-18.16.03:639][456]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.19-18.16.03:639][456]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63560, Name: IpConnection_93, Driver: GameNetDriver IpNetDriver_92, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A
+[2024.05.19-18.16.03:639][456]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63560, Name: IpConnection_93, Driver: GameNetDriver IpNetDriver_92, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A, Channels: 11, Time: 2024.05.19-18.16.03
+[2024.05.19-18.16.03:639][456]LogNet: UNetConnection::SendCloseReason:
+[2024.05.19-18.16.03:639][456]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.19-18.16.03:639][456]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63560, Name: IpConnection_93, Driver: GameNetDriver IpNetDriver_92, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-5B972D7B4FF4F0CBDDFE729B54DAFA0A
+[2024.05.19-18.16.03:639][456]LogExit: GameNetDriver IpNetDriver_92 shut down
+[2024.05.19-18.16.03:642][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.19-18.16.03:647][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.19-18.16.03:665][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.19-18.16.03:665][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2024.05.19-18.16.03:665][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.05.19-18.16.03:667][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2024.05.19-18.16.03:674][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2024.05.19-18.16.03:674][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.05.19-18.16.03:676][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2024.05.19-18.16.03:688][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.19-18.16.03:753][457]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2024.05.19-18.16.03:753][457]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2024.05.19-18.17.03:191][718]BlueprintLog: New page: Compile WB_TeamSelection
+[2024.05.19-18.17.03:214][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
