@@ -770,6 +770,8 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPressed.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonHover.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_ButtonPress.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Interfaces/ITN_GameMode.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Interfaces/INT_GameMode.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AO_Stand_C_D.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AO_Stand_D.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_PanelCustom.uasset",
