@@ -5142,3 +5142,779 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.21-06.49.27:625][399]LogHttp: Warning: 0000080500E4D700: libcurl info message cache 1 (Closing connection)
 [2024.05.21-06.49.27:625][399]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4BA0E08A-47C3-B124-D572-538F5FF0C40D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2024.05.21-07.30.05:869][712]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.151 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11115 files in 13553 folders with total size 444 MiB.
+[2024.05.21-07.32.12:591][938]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.32.12:591][938]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_7
+[2024.05.21-07.32.12:591][938]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.32.12:591][938]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_7
+[2024.05.21-07.32.12:610][939]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.32.12:610][939]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_8
+[2024.05.21-07.32.12:610][939]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.32.12:610][939]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_8
+[2024.05.21-07.32.16:169][130]LogViewport: Scene viewport resized to 1533x562, mode Windowed.
+[2024.05.21-07.32.16:185][130]LogViewport: Scene viewport resized to 316x178, mode Windowed.
+[2024.05.21-07.32.16:226][131]LogViewport: Scene viewport resized to 1533x550, mode Windowed.
+[2024.05.21-07.32.16:260][131]LogViewport: Scene viewport resized to 315x177, mode Windowed.
+[2024.05.21-07.32.16:291][132]LogViewport: Scene viewport resized to 1533x544, mode Windowed.
+[2024.05.21-07.32.16:320][132]LogViewport: Scene viewport resized to 308x174, mode Windowed.
+[2024.05.21-07.32.16:351][133]LogViewport: Scene viewport resized to 1533x542, mode Windowed.
+[2024.05.21-07.32.16:382][133]LogViewport: Scene viewport resized to 305x171, mode Windowed.
+[2024.05.21-07.32.16:411][134]LogViewport: Scene viewport resized to 304x171, mode Windowed.
+[2024.05.21-07.32.16:447][135]LogViewport: Scene viewport resized to 1533x539, mode Windowed.
+[2024.05.21-07.32.16:478][136]LogViewport: Scene viewport resized to 1533x537, mode Windowed.
+[2024.05.21-07.32.16:502][136]LogViewport: Scene viewport resized to 302x170, mode Windowed.
+[2024.05.21-07.32.16:532][137]LogViewport: Scene viewport resized to 1533x534, mode Windowed.
+[2024.05.21-07.32.16:562][137]LogViewport: Scene viewport resized to 301x169, mode Windowed.
+[2024.05.21-07.32.16:592][138]LogViewport: Scene viewport resized to 299x168, mode Windowed.
+[2024.05.21-07.32.16:890][168]LogViewport: Scene viewport resized to 1533x533, mode Windowed.
+[2024.05.21-07.32.16:912][169]LogViewport: Scene viewport resized to 1533x532, mode Windowed.
+[2024.05.21-07.32.16:979][170]LogViewport: Scene viewport resized to 1533x529, mode Windowed.
+[2024.05.21-07.32.17:007][170]LogViewport: Scene viewport resized to 298x167, mode Windowed.
+[2024.05.21-07.32.17:036][171]LogViewport: Scene viewport resized to 297x166, mode Windowed.
+[2024.05.21-07.32.29:110][822]Cmd: SELECT NONE
+[2024.05.21-07.46.53:234][278]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.05.21-07.47.04:520][777]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.05.21-07.47.04:533][777]LogContentBrowser: Deferred new asset file creation: NewAimOffsetBlendSpace1D
+[2024.05.21-07.47.04:537][777]LogContentBrowser: Creating deferred item: NewAimOffsetBlendSpace1D
+[2024.05.21-07.47.04:550][778]LogContentBrowser: Renaming the item being created (Deferred Item: NewAimOffsetBlendSpace1D).
+[2024.05.21-07.47.04:761][780]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> NewAimOffsetBlendSpace1D
+[2024.05.21-07.47.04:820][780]LogContentBrowser: End creating deferred item NewAimOffsetBlendSpace1D
+[2024.05.21-07.47.09:725][157]LogViewport: Scene viewport resized to 1533x527, mode Windowed.
+[2024.05.21-07.47.09:747][158]LogViewport: Scene viewport resized to 1533x525, mode Windowed.
+[2024.05.21-07.47.09:808][159]LogViewport: Scene viewport resized to 1533x522, mode Windowed.
+[2024.05.21-07.47.09:842][160]LogViewport: Scene viewport resized to 1533x520, mode Windowed.
+[2024.05.21-07.47.09:887][163]LogViewport: Scene viewport resized to 1533x519, mode Windowed.
+[2024.05.21-07.47.09:911][164]LogViewport: Scene viewport resized to 1533x517, mode Windowed.
+[2024.05.21-07.47.09:947][165]LogViewport: Scene viewport resized to 1533x515, mode Windowed.
+[2024.05.21-07.47.09:980][166]LogViewport: Scene viewport resized to 1533x513, mode Windowed.
+[2024.05.21-07.47.10:113][167]LogViewport: Scene viewport resized to 1533x508, mode Windowed.
+[2024.05.21-07.47.10:144][168]LogViewport: Scene viewport resized to 1533x506, mode Windowed.
+[2024.05.21-07.47.10:178][169]LogViewport: Scene viewport resized to 1533x502, mode Windowed.
+[2024.05.21-07.47.10:209][170]LogViewport: Scene viewport resized to 1533x497, mode Windowed.
+[2024.05.21-07.47.10:240][171]LogViewport: Scene viewport resized to 1533x493, mode Windowed.
+[2024.05.21-07.47.10:297][175]LogViewport: Scene viewport resized to 1533x491, mode Windowed.
+[2024.05.21-07.47.10:526][201]LogViewport: Scene viewport resized to 1533x489, mode Windowed.
+[2024.05.21-07.47.10:548][202]LogViewport: Scene viewport resized to 1533x488, mode Windowed.
+[2024.05.21-07.47.10:673][211]LogViewport: Scene viewport resized to 1533x486, mode Windowed.
+[2024.05.21-07.47.10:695][212]LogViewport: Scene viewport resized to 1533x485, mode Windowed.
+[2024.05.21-07.47.10:730][213]LogViewport: Scene viewport resized to 1533x484, mode Windowed.
+[2024.05.21-07.47.10:759][214]LogViewport: Scene viewport resized to 1533x483, mode Windowed.
+[2024.05.21-07.47.10:788][215]LogViewport: Scene viewport resized to 1533x481, mode Windowed.
+[2024.05.21-07.47.10:882][224]LogViewport: Scene viewport resized to 1533x479, mode Windowed.
+[2024.05.21-07.47.10:903][225]LogViewport: Scene viewport resized to 1533x478, mode Windowed.
+[2024.05.21-07.47.11:329][273]LogViewport: Scene viewport resized to 1533x480, mode Windowed.
+[2024.05.21-07.47.11:390][275]LogViewport: Scene viewport resized to 1533x482, mode Windowed.
+[2024.05.21-07.47.11:421][276]LogViewport: Scene viewport resized to 1533x484, mode Windowed.
+[2024.05.21-07.47.11:454][277]LogViewport: Scene viewport resized to 1533x486, mode Windowed.
+[2024.05.21-07.47.11:484][278]LogViewport: Scene viewport resized to 1533x487, mode Windowed.
+[2024.05.21-07.47.11:514][279]LogViewport: Scene viewport resized to 1533x488, mode Windowed.
+[2024.05.21-07.47.11:544][280]LogViewport: Scene viewport resized to 1533x490, mode Windowed.
+[2024.05.21-07.47.11:574][281]LogViewport: Scene viewport resized to 1533x491, mode Windowed.
+[2024.05.21-07.47.11:613][283]LogViewport: Scene viewport resized to 1533x492, mode Windowed.
+[2024.05.21-07.47.11:645][285]LogViewport: Scene viewport resized to 1533x494, mode Windowed.
+[2024.05.21-07.47.11:684][288]LogViewport: Scene viewport resized to 1533x495, mode Windowed.
+[2024.05.21-07.47.11:707][289]LogViewport: Scene viewport resized to 1533x496, mode Windowed.
+[2024.05.21-07.47.11:792][296]LogViewport: Scene viewport resized to 1533x498, mode Windowed.
+[2024.05.21-07.47.12:221][346]LogViewport: Scene viewport resized to 1533x497, mode Windowed.
+[2024.05.21-07.47.12:280][348]LogViewport: Scene viewport resized to 1533x495, mode Windowed.
+[2024.05.21-07.47.12:469][368]LogViewport: Scene viewport resized to 1533x494, mode Windowed.
+[2024.05.21-07.47.12:490][369]LogViewport: Scene viewport resized to 1533x492, mode Windowed.
+[2024.05.21-07.47.12:813][402]LogViewport: Scene viewport resized to 1533x490, mode Windowed.
+[2024.05.21-07.47.13:319][456]LogViewport: Scene viewport resized to 1533x488, mode Windowed.
+[2024.05.21-07.47.45:937][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2024.05.21-07.47.45:944][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.117
+[2024.05.21-07.47.45:945][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/Animations/NewAimOffsetBlendSpace1D] ([1] browsable assets)...
+[2024.05.21-07.47.46:032][950]OBJ SavePackage:     Rendered thumbnail for [AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/NewAimOffsetBlendSpace1D.NewAimOffsetBlendSpace1D]
+[2024.05.21-07.47.46:032][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/NewAimOffsetBlendSpace1D]
+[2024.05.21-07.47.46:046][950]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/NewAimOffsetBlendSpace1D_Auto4
+[2024.05.21-07.47.46:046][950]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/NewAimOffsetBlendSpace1D_Auto4A3203E80422B683B3AA4C38B22E4E135.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/Animations/NewAimOffsetBlendSpace1D_Auto4.uasset'
+[2024.05.21-07.47.46:046][950]LogFileHelpers: Auto-saving content packages took 0.102
+[2024.05.21-07.49.06:649][766]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> AO_Courch_Pistol
+[2024.05.21-07.49.06:992][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.49.07:046][766]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Courch_Pistol
+[2024.05.21-07.49.07:046][766]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Courch_Pistol6DB040E647EFA1D3E70B0B9B09B05FF7.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Courch_Pistol.uasset'
+[2024.05.21-07.49.07:061][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.03 sec)
+[2024.05.21-07.49.07:170][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.21-07.49.07:188][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.21-07.49.07:203][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.05.21-07.49.07:218][766]AssetCheck: New page: Asset Save: AO_Courch_Pistol
+[2024.05.21-07.49.07:218][766]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-07.49.10:250][803]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.49.10:250][803]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_9
+[2024.05.21-07.49.10:250][803]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.49.10:250][803]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_9
+[2024.05.21-07.49.12:583][810]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-07.49.12:590][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.49.12:717][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.49.12:773][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.49.13:400][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.49.13:400][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.49.13:611][810]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.49.13:701][810]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.51.30:950][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.51.31:021][410]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Courch_Pistol
+[2024.05.21-07.51.31:022][410]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Courch_Pistol1D3936FE485D9052490D9D8D484ADD97.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Courch_Pistol.uasset'
+[2024.05.21-07.51.31:028][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.11 sec)
+[2024.05.21-07.51.31:124][410]AssetCheck: New page: Asset Save: AO_Courch_Pistol
+[2024.05.21-07.51.31:124][410]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-07.52.07:767][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.52.07:809][709]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Courch_Pistol
+[2024.05.21-07.52.07:809][709]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Courch_Pistol3ACEB4B842FA5F78EA13B78B60367C68.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Courch_Pistol.uasset'
+[2024.05.21-07.52.07:818][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 7.16 sec)
+[2024.05.21-07.52.07:822][709]AssetCheck: New page: Asset Save: AO_Courch_Pistol
+[2024.05.21-07.52.07:822][709]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-07.52.22:547][ 72]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-07.53.40:601][257]LogSlate: Window 'AO_Courch_Pistol' being destroyed
+[2024.05.21-07.53.40:956][257]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.53.40:956][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.53.41:020][257]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.53.41:020][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.54.03:471][213]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.05.21-07.54.03:611][213]LogContentBrowser: Deferred new asset file creation: NewAimOffsetBlendSpace1D
+[2024.05.21-07.54.04:224][213]LogContentBrowser: Creating deferred item: NewAimOffsetBlendSpace1D
+[2024.05.21-07.54.04:350][214]LogContentBrowser: Renaming the item being created (Deferred Item: NewAimOffsetBlendSpace1D).
+[2024.05.21-07.54.04:617][234]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> NewAimOffsetBlendSpace1D
+[2024.05.21-07.54.04:617][234]LogContentBrowser: End creating deferred item NewAimOffsetBlendSpace1D
+[2024.05.21-07.54.17:724][946]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> AO_Stand_Pistol
+[2024.05.21-07.54.17:867][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.54.17:957][946]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-07.54.17:957][946]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_PistolC5898F6C4F2610D08104EC9EE4896AC9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-07.54.17:965][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 7.26 sec)
+[2024.05.21-07.54.17:995][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.21-07.54.18:014][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.21-07.54.18:030][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.21-07.54.18:031][946]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-07.54.18:031][946]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.54.21:092][170]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.54.21:096][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.54.21:096][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.54.21:116][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.54.21:451][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.54.21:451][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.54.21:598][170]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.54.21:632][170]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.54.25:759][371]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-07.55.33:705][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.55.33:772][304]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-07.55.33:772][304]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_PistolC14665FA4A6BAB84DA62218452D03F41.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-07.55.33:780][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 7.33 sec)
+[2024.05.21-07.55.33:781][304]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-07.55.33:781][304]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.55.48:815][411]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-07.55.48:849][411]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.55.48:849][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.55.48:902][411]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.55.48:903][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.55.50:144][500]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.55.50:148][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.55.50:148][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.55.50:205][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.55.50:581][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.55.50:581][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.55.50:731][500]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.55.50:765][500]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.56.03:010][101]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-07.58.01:521][635]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.01:521][635]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.01:830][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.27:397][704]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.27:397][704]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.27:634][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.28:339][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.58.28:412][726]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-07.58.28:412][726]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol0134573447C3278C1EC42DB099B19DD7.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-07.58.28:422][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 7.41 sec)
+[2024.05.21-07.58.28:423][726]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-07.58.28:423][726]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.58.33:913][956]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.33:913][956]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.34:163][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.37:053][ 73]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.37:053][ 73]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.37:278][ 73]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.40:699][216]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.40:699][216]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.40:937][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.43:888][335]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.43:888][335]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.44:142][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.45:866][405]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.45:866][405]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.46:124][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.49:573][545]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.49:573][545]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.49:817][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.52:684][659]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.52:684][659]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.52:924][659]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.55:977][789]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.55:977][789]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.56:211][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.58.59:015][901]Cmd: TRANSACTION UNDO
+[2024.05.21-07.58.59:015][901]LogEditorTransaction: Undo Adding Blendspace Sample
+[2024.05.21-07.58.59:247][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.59.15:794][574]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-07.59.15:833][574]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.15:834][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.15:892][574]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.15:893][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.17:291][669]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:292][669]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_10
+[2024.05.21-07.59.17:292][669]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:292][669]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_10
+[2024.05.21-07.59.17:307][670]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:307][670]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_11
+[2024.05.21-07.59.17:307][670]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:307][670]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_11
+[2024.05.21-07.59.17:323][671]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:323][671]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_12
+[2024.05.21-07.59.17:323][671]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:323][671]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_12
+[2024.05.21-07.59.17:337][672]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:337][672]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_13
+[2024.05.21-07.59.17:337][672]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:337][672]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_13
+[2024.05.21-07.59.17:352][673]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:352][673]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_14
+[2024.05.21-07.59.17:352][673]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:352][673]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_14
+[2024.05.21-07.59.17:369][674]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:369][674]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_15
+[2024.05.21-07.59.17:369][674]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:369][674]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_15
+[2024.05.21-07.59.17:388][675]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:388][675]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_16
+[2024.05.21-07.59.17:388][675]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:388][675]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_16
+[2024.05.21-07.59.17:405][676]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:405][676]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_17
+[2024.05.21-07.59.17:405][676]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.17:405][676]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_17
+[2024.05.21-07.59.23:758][ 98]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.23:758][ 98]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_18
+[2024.05.21-07.59.23:758][ 98]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.23:758][ 98]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_18
+[2024.05.21-07.59.23:782][ 99]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.23:782][ 99]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_19
+[2024.05.21-07.59.23:782][ 99]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-07.59.23:782][ 99]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_19
+[2024.05.21-07.59.28:923][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.21-07.59.28:931][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-07.59.29:052][513]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Courch_Pistol
+[2024.05.21-07.59.29:052][513]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Courch_PistolBDEBB6A343E0A048CB79E1A0AFC71DF3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Courch_Pistol.uasset'
+[2024.05.21-07.59.29:059][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 7.54 sec)
+[2024.05.21-07.59.29:061][513]AssetCheck: New page: Asset Save: AO_Courch_Pistol
+[2024.05.21-07.59.29:061][513]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-07.59.32:769][777]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-07.59.32:773][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.32:773][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.32:792][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.59.33:156][777]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.33:156][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.33:317][777]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.59.33:355][777]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.59.37:440][966]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-07.59.37:479][966]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.37:479][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.37:538][966]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.37:538][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.39:182][ 56]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_UA.AO_Stand_UA
+[2024.05.21-07.59.39:187][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.39:187][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.39:202][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.59.39:583][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.39:583][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.39:751][ 56]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.59.39:789][ 56]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.59.41:341][125]LogSlate: Window 'AO_Stand_UA' being destroyed
+[2024.05.21-07.59.41:379][125]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.41:379][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.41:435][125]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.41:435][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.44:955][340]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Blueprints/Player/Animations/BS_Crouch_Rifle.BS_Crouch_Rifle
+[2024.05.21-07.59.44:960][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.44:960][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.44:978][340]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-07.59.45:360][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-07.59.45:360][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-07.59.45:552][340]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-07.59.45:592][340]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-07.59.47:464][421]LogSlate: Window 'BS_Crouch_Rifle' being destroyed
+[2024.05.21-07.59.47:514][421]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.47:514][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-07.59.47:570][421]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-07.59.47:570][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.23:392][817]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/AimOffsets/AO_Stand_C_D.AO_Stand_C_D
+[2024.05.21-08.00.25:042][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.25:042][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.25:073][817]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.05.21-08.00.25:298][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_75:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.00.25:431][817]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.05.21-08.00.25:787][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.25:787][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.25:870][817]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.450666s (0.450666s overbudget)
+[2024.05.21-08.00.26:256][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: ================================================
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: Total job queries 46, among them cache hits 11 (23.91%)
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 24 distinct outputs (68.57%)
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: RAM used: 863.30 KiB of 819.20 MiB budget. Usage: 0.10%
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.21-08.00.26:399][817]LogShaderCompilers: Display: ================================================
+[2024.05.21-08.00.26:502][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.26:502][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.26:537][817]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.00.26:624][817]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.00.26:762][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.30:919][ 13]LogSlate: Window 'AO_Stand_C_D' being destroyed
+[2024.05.21-08.00.30:924][ 13]LogSlate: Window 'AO_Stand_C_D' being destroyed
+[2024.05.21-08.00.30:952][ 13]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.30:952][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.30:967][ 13]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.30:967][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.31:025][ 13]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.31:025][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.33:292][158]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/AimOffsets/AO_Crouch_U_UA.AO_Crouch_U_UA
+[2024.05.21-08.00.33:296][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.33:296][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.33:307][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_80:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.00.33:703][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.33:703][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.33:910][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.00.33:910][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.00.33:931][158]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.00.33:978][158]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.00.39:543][409]LogSlate: Window 'AO_Crouch_U_UA' being destroyed
+[2024.05.21-08.00.39:548][409]LogSlate: Window 'AO_Crouch_U_UA' being destroyed
+[2024.05.21-08.00.39:577][409]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.39:577][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.39:591][409]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.39:591][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.00.39:652][409]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.00.39:652][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.01.00:082][842]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/AimOffsets/AO_Stand_C_Pistol.AO_Stand_C_Pistol
+[2024.05.21-08.01.00:590][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.01.00:590][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.01.00:745][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_83:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.01.01:205][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.01.01:205][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.01.01:397][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.01.01:453][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.01.01:453][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.01.01:498][842]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.01.01:541][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.01.02:050][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.01.09:560][178]LogSlate: Window 'AO_Stand_C_Pistol' being destroyed
+[2024.05.21-08.01.09:565][178]LogSlate: Window 'AO_Stand_C_Pistol' being destroyed
+[2024.05.21-08.01.09:593][178]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.01.09:593][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.01.09:606][178]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.01.09:606][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.01.09:665][178]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.01.09:665][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.02.24:335][361]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:335][361]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_20
+[2024.05.21-08.02.24:335][361]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:335][361]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_20
+[2024.05.21-08.02.24:357][362]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:357][362]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_21
+[2024.05.21-08.02.24:357][362]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:357][362]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_21
+[2024.05.21-08.02.24:404][363]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:404][363]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_22
+[2024.05.21-08.02.24:404][363]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:404][363]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_22
+[2024.05.21-08.02.24:422][364]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:422][364]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_23
+[2024.05.21-08.02.24:422][364]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:422][364]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_23
+[2024.05.21-08.02.24:443][365]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:443][365]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_24
+[2024.05.21-08.02.24:443][365]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:443][365]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_24
+[2024.05.21-08.02.24:467][366]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:467][366]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_25
+[2024.05.21-08.02.24:467][366]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:467][366]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_25
+[2024.05.21-08.02.24:486][367]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:486][367]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_26
+[2024.05.21-08.02.24:486][367]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:486][367]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_26
+[2024.05.21-08.02.24:505][368]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:505][368]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_27
+[2024.05.21-08.02.24:505][368]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:505][368]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_27
+[2024.05.21-08.02.24:524][369]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:524][369]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_28
+[2024.05.21-08.02.24:524][369]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:524][369]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_28
+[2024.05.21-08.02.24:543][370]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:544][370]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_29
+[2024.05.21-08.02.24:544][370]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:544][370]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_29
+[2024.05.21-08.02.24:564][371]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:564][371]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_30
+[2024.05.21-08.02.24:564][371]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:564][371]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_30
+[2024.05.21-08.02.24:582][372]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:582][372]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_31
+[2024.05.21-08.02.24:582][372]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:582][372]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_31
+[2024.05.21-08.02.24:601][373]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:601][373]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_32
+[2024.05.21-08.02.24:601][373]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:601][373]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_32
+[2024.05.21-08.02.24:620][374]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:620][374]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_33
+[2024.05.21-08.02.24:620][374]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:620][374]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_33
+[2024.05.21-08.02.24:640][375]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:640][375]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_34
+[2024.05.21-08.02.24:640][375]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:640][375]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_34
+[2024.05.21-08.02.24:660][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:660][376]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_35
+[2024.05.21-08.02.24:660][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:660][376]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_35
+[2024.05.21-08.02.24:680][377]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:680][377]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_36
+[2024.05.21-08.02.24:680][377]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:680][377]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_36
+[2024.05.21-08.02.24:699][378]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:699][378]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_37
+[2024.05.21-08.02.24:699][378]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:699][378]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_37
+[2024.05.21-08.02.24:719][379]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:719][379]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_38
+[2024.05.21-08.02.24:719][379]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:719][379]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_38
+[2024.05.21-08.02.24:737][380]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:737][380]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_39
+[2024.05.21-08.02.24:737][380]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:737][380]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_39
+[2024.05.21-08.02.24:757][381]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:757][381]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_40
+[2024.05.21-08.02.24:757][381]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:757][381]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_40
+[2024.05.21-08.02.24:777][382]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:777][382]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_41
+[2024.05.21-08.02.24:777][382]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.02.24:777][382]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_41
+[2024.05.21-08.03.48:597][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.21-08.03.53:121][343]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.21-08.03.53:249][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.05.21-08.03.53:266][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.21-08.03.53:280][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.21-08.03.58:487][717]LogContentBrowser: Deferred new asset file creation: AO_Courch_Pistol1
+[2024.05.21-08.03.58:492][717]LogContentBrowser: Creating deferred item: AO_Courch_Pistol1
+[2024.05.21-08.03.58:529][718]LogContentBrowser: Renaming the item being created (Deferred Item: AO_Courch_Pistol1).
+[2024.05.21-08.04.06:002][435]LogContentBrowser: Attempting asset rename: AO_Courch_Pistol1 -> AO_Stand_Pistol
+[2024.05.21-08.04.06:027][435]LogContentBrowser: End creating deferred item AO_Courch_Pistol1
+[2024.05.21-08.04.07:070][512]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.04.07:074][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.04.07:074][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.04.07:085][512]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.04.07:464][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.04.07:464][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.04.07:610][512]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.04.07:717][512]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.04.29:355][563]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-08.05.24:645][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.21-08.05.24:648][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.022
+[2024.05.21-08.05.24:648][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/Animations/AO_Stand_Pistol] ([1] browsable assets)...
+[2024.05.21-08.05.24:661][816]OBJ SavePackage:     Rendered thumbnail for [AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol]
+[2024.05.21-08.05.24:661][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/AO_Stand_Pistol]
+[2024.05.21-08.05.24:663][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/AO_Stand_Pistol_Auto5
+[2024.05.21-08.05.24:663][816]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol_Auto5BF65B1744AFA7F8D51590B98566A523C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/Animations/AO_Stand_Pistol_Auto5.uasset'
+[2024.05.21-08.05.24:663][816]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.05.21-08.05.34:272][206]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.05.34:281][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'pelvis' 
+[2024.05.21-08.05.34:281][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_01' 
+[2024.05.21-08.05.34:281][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_02' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_03' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'head' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'upperarm_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'lowerarm_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'hand_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'upperarm_r' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'lowerarm_r' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'hand_r' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'thigh_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'thigh_r' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'calf_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'calf_r' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'foot_l' 
+[2024.05.21-08.05.34:282][206]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'foot_r' 
+[2024.05.21-08.06.26:549][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.06.26:934][142]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.06.26:934][142]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol72F28B834385306D6953559FEAABD06D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.06.26:953][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 404 ms (total: 7.95 sec)
+[2024.05.21-08.06.26:954][142]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.06.26:954][142]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.06.26:995][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.06.27:024][144]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.06.27:025][144]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol3AB4FEE246BDD69EC94CC787D8099B6F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.06.27:031][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 7.98 sec)
+[2024.05.21-08.06.27:032][144]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.06.27:032][144]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.06.28:589][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.06.28:625][207]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.06.28:625][207]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_PistolAF86A35A4B0957683CC7578F9CD33A37.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.06.28:631][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 8.02 sec)
+[2024.05.21-08.06.28:631][207]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.06.28:631][207]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.06.30:255][273]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-08.06.30:291][273]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.06.30:296][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.06.30:348][273]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.06.30:348][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.06.31:834][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.06.32:041][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.21-08.06.32:157][363]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.21-08.06.32:158][363]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main6826224C4DBAF07DD196B1A18F763A59.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.21-08.06.32:246][363]LogFileHelpers: All files are already saved.
+[2024.05.21-08.06.32:246][363]LogFileHelpers: Saving map 'MAP_Main' took 0.336
+[2024.05.21-08.06.32:254][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 420 ms (total: 8.45 sec)
+[2024.05.21-08.06.32:256][363]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.21-08.06.32:256][363]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.21-08.06.37:952][683]LogSlate: Window 'Message' being destroyed
+[2024.05.21-08.06.37:960][683]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to proceed with validating the following folders?
+
+/Game/Blueprints/Player/Animations
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_UA.AO_Stand_UA
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Crouch_UA.BS_Crouch_UA
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Run_UA.BS_Run_UA
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Walk_UA.BS_Walk_UA
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Crouch_Rifle.BS_Crouch_Rifle
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Walk_Pistol.BS_Walk_Pistol
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Run_Pistol.BS_Run_Pistol
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Run_Rifle.BS_Run_Rifle
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Walk_Rifle.BS_Walk_Rifle
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.BlendSpace /Game/Blueprints/Player/Animations/BS_Crouch_Pistol.BS_Crouch_Pistol
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.06.37:968][683]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Player.IK_Player
+[2024.05.21-08.06.37:981][683]LogContentValidation: Display: Validating /Script/IKRig.IKRigDefinition /Game/Blueprints/Player/Animations/IK_Mannequin.IK_Mannequin
+[2024.05.21-08.06.37:982][683]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Blueprints/Player/Animations/IKR_Player.IKR_Player
+[2024.05.21-08.06.38:475][683]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_UA.AO_Crouch_UA
+[2024.05.21-08.06.38:636][683]AssetCheck: Data validation SUCCEEDED.
+[2024.05.21-08.06.38:636][683]AssetCheck: Files Checked: 17, Passed: 17, Failed: 0, Skipped: 0, Unable to validate: 0
+[2024.05.21-08.06.38:807][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.06.38:921][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.06.39:029][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.06.42:230][905]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-08.06.42:236][905]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-08.06.43:754][999]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.06.43:758][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.06.43:758][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.06.43:769][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.06.44:169][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.06.44:169][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.06.44:232][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'pelvis' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_01' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_02' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'spine_03' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'head' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'upperarm_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'lowerarm_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'hand_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'upperarm_r' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'lowerarm_r' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'hand_r' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'thigh_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'thigh_r' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'calf_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'calf_r' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'foot_l' 
+[2024.05.21-08.06.44:233][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0' Bone: 'foot_r' 
+[2024.05.21-08.06.44:336][999]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.06.44:379][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.08.04:378][280]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-08.08.06:777][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.08.06:825][382]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.08.06:826][382]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol9076B7B646C641630147C88A764DF4F1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.08.06:832][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 8.50 sec)
+[2024.05.21-08.08.06:834][382]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.08.06:834][382]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.08.18:446][909]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.05.21-08.08.20:595][  4]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.08.20:859][ 15]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.05.21-08.08.21:726][ 53]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.08.38:478][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.08.38:531][814]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.08.38:532][814]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_PistolD5C9C0E64E8A04CC501722B0D3111F71.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.08.38:539][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 8.56 sec)
+[2024.05.21-08.08.38:540][814]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.08.38:540][814]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.12.30:766][406]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-08.12.30:809][406]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.12.30:809][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.12.30:877][406]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.12.30:877][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.12.58:166][393]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Animations/AimOffsets/AO_Stand_C_Pistol.AO_Stand_C_Pistol
+[2024.05.21-08.12.58:166][393]AssetCheck: Data validation SUCCEEDED.
+[2024.05.21-08.12.58:166][393]AssetCheck: Files Checked: 1, Passed: 1, Failed: 0, Skipped: 0, Unable to validate: 0
+[2024.05.21-08.13.00:316][537]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-08.13.00:321][537]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-08.16.31:993][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.21-08.16.31:996][289]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.022
+[2024.05.21-08.16.31:997][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/Animations/AO_Stand_Pistol] ([1] browsable assets)...
+[2024.05.21-08.16.32:087][289]OBJ SavePackage:     Rendered thumbnail for [AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol]
+[2024.05.21-08.16.32:087][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/Animations/AO_Stand_Pistol]
+[2024.05.21-08.16.32:088][289]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/Animations/AO_Stand_Pistol_Auto6
+[2024.05.21-08.16.32:088][289]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol_Auto6155C5FC343DF9D749084C0AA8D0BBC82.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/Animations/AO_Stand_Pistol_Auto6.uasset'
+[2024.05.21-08.16.32:089][289]LogFileHelpers: Auto-saving content packages took 0.092
+[2024.05.21-08.25.00:411][384]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.25.00:411][384]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_42
+[2024.05.21-08.25.00:411][384]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.25.00:411][384]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_42
+[2024.05.21-08.25.00:416][384]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.25.00:417][384]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_43
+[2024.05.21-08.25.00:417][384]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.25.00:417][384]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_43
+[2024.05.21-08.25.01:620][468]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.25.01:623][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.25.01:624][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.25.01:745][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.25.02:074][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.25.02:074][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.25.02:131][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.25.02:229][468]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.25.02:282][468]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.25.02:417][470]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-08.28.24:585][797]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:585][797]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_44
+[2024.05.21-08.28.24:585][797]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:585][797]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_44
+[2024.05.21-08.28.24:647][798]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:647][798]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_45
+[2024.05.21-08.28.24:647][798]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:647][798]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_45
+[2024.05.21-08.28.24:676][799]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:676][799]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_46
+[2024.05.21-08.28.24:676][799]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.24:676][799]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_46
+[2024.05.21-08.28.30:720][ 50]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Courch_Pistol.AO_Courch_Pistol
+[2024.05.21-08.28.34:336][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.34:336][183]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_47
+[2024.05.21-08.28.34:336][183]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.28.34:336][183]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_47
+[2024.05.21-08.28.44:496][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.29.56:783][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.29.56:968][ 89]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.29.56:968][ 89]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol04E91E2943D9209C31389CB15C9FE348.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.29.56:977][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 8.75 sec)
+[2024.05.21-08.29.56:978][ 89]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.29.56:978][ 89]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.30.06:774][486]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.055 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11115 files in 13553 folders with total size 444 MiB.
+[2024.05.21-08.30.19:999][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.30.20:034][ 37]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Pistol
+[2024.05.21-08.30.20:035][ 37]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Pistol58040CF24185C34C961F09BA35757DCA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset'
+[2024.05.21-08.30.20:042][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 8.80 sec)
+[2024.05.21-08.30.20:043][ 37]AssetCheck: New page: Asset Save: AO_Stand_Pistol
+[2024.05.21-08.30.20:043][ 37]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Pistol.AO_Stand_Pistol
+[2024.05.21-08.32.29:547][470]LogSlate: Window 'AO_Stand_Pistol' being destroyed
+[2024.05.21-08.32.29:579][470]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.32.29:579][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.32.29:635][470]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.32.29:635][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.32.38:192][926]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.32.39:812][926]LogSlate: Window 'Pick Skeleton' being destroyed
+[2024.05.21-08.32.39:822][926]LogContentBrowser: Deferred new asset file creation: NewAimOffsetBlendSpace1D
+[2024.05.21-08.32.39:824][926]LogShaderCompilers: Display: ================================================
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: Total job queries 64, among them cache hits 13 (20.31%)
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: Tracking 51 distinct input hashes that result in 27 distinct outputs (52.94%)
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: RAM used: 1.20 MiB of 819.20 MiB budget. Usage: 0.15%
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.21-08.32.39:825][926]LogShaderCompilers: Display: ================================================
+[2024.05.21-08.32.39:828][926]LogContentBrowser: Creating deferred item: NewAimOffsetBlendSpace1D
+[2024.05.21-08.32.39:862][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewAimOffsetBlendSpace1D).
+[2024.05.21-08.32.39:942][929]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> NewAimOffsetBlendSpace1D
+[2024.05.21-08.32.39:943][929]LogContentBrowser: End creating deferred item NewAimOffsetBlendSpace1D
+[2024.05.21-08.32.40:117][935]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.32.40:117][935]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_48
+[2024.05.21-08.32.40:117][935]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.32.40:117][935]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_48
+[2024.05.21-08.32.49:388][482]LogContentBrowser: Attempting asset rename: NewAimOffsetBlendSpace1D -> AO_Crouch_Rifle
+[2024.05.21-08.32.49:421][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.32.49:460][482]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Crouch_Rifle
+[2024.05.21-08.32.49:460][482]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Crouch_Rifle06B5FB9B4F9E2423C256FF856054364A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Crouch_Rifle.uasset'
+[2024.05.21-08.32.49:466][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 8.84 sec)
+[2024.05.21-08.32.49:496][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.05.21-08.32.49:514][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.21-08.32.49:531][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.21-08.32.49:532][482]AssetCheck: New page: Asset Save: AO_Crouch_Rifle
+[2024.05.21-08.32.49:532][482]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_Rifle.AO_Crouch_Rifle
+[2024.05.21-08.32.50:427][534]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_Rifle.AO_Crouch_Rifle
+[2024.05.21-08.32.50:431][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.32.50:431][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.32.50:444][534]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.32.50:771][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.32.50:771][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.32.50:922][534]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.32.50:973][534]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.33.07:198][126]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-08.33.25:027][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.33.25:090][858]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Crouch_Rifle
+[2024.05.21-08.33.25:091][858]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Crouch_Rifle92915805450C630C81DF9EA249C0AE0B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Crouch_Rifle.uasset'
+[2024.05.21-08.33.25:097][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 8.91 sec)
+[2024.05.21-08.33.25:103][858]AssetCheck: New page: Asset Save: AO_Crouch_Rifle
+[2024.05.21-08.33.25:103][858]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_Rifle.AO_Crouch_Rifle
+[2024.05.21-08.33.40:808][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.33.40:874][537]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Crouch_Rifle
+[2024.05.21-08.33.40:874][537]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Crouch_Rifle42529F6A4B4F4CDF16B70B96773F6BBA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Crouch_Rifle.uasset'
+[2024.05.21-08.33.40:883][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 8.99 sec)
+[2024.05.21-08.33.40:885][537]AssetCheck: New page: Asset Save: AO_Crouch_Rifle
+[2024.05.21-08.33.40:885][537]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Crouch_Rifle.AO_Crouch_Rifle
+[2024.05.21-08.33.57:199][611]LogSlate: Window 'AO_Crouch_Rifle' being destroyed
+[2024.05.21-08.33.57:234][611]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.33.57:234][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.33.57:284][611]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.33.57:284][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.33.59:537][728]LogContentBrowser: Deferred new asset file creation: AO_Crouch_Rifle1
+[2024.05.21-08.33.59:542][728]LogContentBrowser: Creating deferred item: AO_Crouch_Rifle1
+[2024.05.21-08.33.59:560][729]LogContentBrowser: Renaming the item being created (Deferred Item: AO_Crouch_Rifle1).
+[2024.05.21-08.34.06:724][154]LogContentBrowser: Attempting asset rename: AO_Crouch_Rifle1 -> AO_Stand_Rifle
+[2024.05.21-08.34.06:725][154]LogContentBrowser: End creating deferred item AO_Crouch_Rifle1
+[2024.05.21-08.34.08:307][247]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Rifle.AO_Stand_Rifle
+[2024.05.21-08.34.08:311][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.34.08:312][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.34.08:323][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.21-08.34.08:663][247]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-08.34.08:663][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-08.34.08:806][247]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.21-08.34.08:882][247]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.21-08.34.13:891][493]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.21-08.34.37:544][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.34.37:627][493]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Rifle
+[2024.05.21-08.34.37:627][493]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_Rifle2E6BD22B48C0EBF009EA7894C2F97FB4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Rifle.uasset'
+[2024.05.21-08.34.37:644][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 9.09 sec)
+[2024.05.21-08.34.37:645][493]AssetCheck: New page: Asset Save: AO_Stand_Rifle
+[2024.05.21-08.34.37:645][493]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Rifle.AO_Stand_Rifle
+[2024.05.21-08.34.39:284][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-08.34.39:312][559]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Animations/AO_Stand_Rifle
+[2024.05.21-08.34.39:312][559]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AO_Stand_RifleF730244F47595F908BA2D39838C6DB42.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Rifle.uasset'
+[2024.05.21-08.34.39:319][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 9.12 sec)
+[2024.05.21-08.34.39:320][559]AssetCheck: New page: Asset Save: AO_Stand_Rifle
+[2024.05.21-08.34.39:320][559]LogContentValidation: Display: Validating /Script/Engine.AimOffsetBlendSpace1D /Game/Blueprints/Player/Animations/AO_Stand_Rifle.AO_Stand_Rifle
+[2024.05.21-08.34.40:137][593]LogSlate: Window 'AO_Stand_Rifle' being destroyed
+[2024.05.21-08.34.40:174][593]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.34.40:174][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.34.40:232][593]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-08.34.40:232][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-08.34.44:552][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.34.44:552][641]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_49
+[2024.05.21-08.34.44:552][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.34.44:552][641]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_49
+[2024.05.21-08.34.44:884][642]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.34.44:884][642]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_50
+[2024.05.21-08.34.44:884][642]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'Movement State' of length 0 in '/Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C'!
+[2024.05.21-08.34.44:884][642]LogScript: Warning: Script Msg called by: AnimBP_Player_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimBP_Player_C_50
