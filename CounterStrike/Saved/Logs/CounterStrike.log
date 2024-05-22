@@ -9268,3 +9268,11 @@ Script Stack (0 frames) :
 [2024.05.22-18.15.28:713][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2024.05.22-18.15.28:762][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_47
 [2024.05.22-18.15.28:762][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.05.22-18.20.10:971][891]LogSlate: Window 'AnimBP_Player' being destroyed
+[2024.05.22-18.20.10:976][891]LogSlate: Window 'AnimBP_Player' being destroyed
+[2024.05.22-18.20.10:991][891]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-18.20.10:991][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-18.20.11:014][891]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-18.20.11:014][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.22-18.20.11:094][891]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.22-18.20.11:094][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
