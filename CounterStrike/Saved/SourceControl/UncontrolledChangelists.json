@@ -776,6 +776,7 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Pistol.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Crouch_Rifle.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Animations/AO_Stand_Rifle.uasset",
+<<<<<<< HEAD
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Enums/E_WeaponType.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/Overview.umap",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/FX/P_SniperRifle_Tracer_01.uasset",
@@ -2066,6 +2067,8 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_Pistol.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Enums/E_Weapon_Type.uasset",
+=======
+>>>>>>> parent of 8f8f28b (7.06 Blend Poses By Enum)
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Enums/E_MovementStates.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_SpawinPointBase.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/SpawnPoints/BP_CounterTerrorist.uasset",
