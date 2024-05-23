@@ -18,7 +18,8 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharDark/MW_Style2_Male.uasset",
-				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset"
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset"
 			]
 		}
 	]

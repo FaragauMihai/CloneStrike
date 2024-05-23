@@ -41380,3 +41380,78 @@ Script Stack (0 frames) :
 [2024.05.23-14.14.37:113][660]AssetCheck: New page: Asset Save: ST_WeaponInfo
 [2024.05.23-14.14.37:113][660]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
 [2024.05.23-14.14.40:444][689]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.05.23-14.19.51:048][175]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.23-14.19.51:053][175]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.23-14.19.51:072][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.23-14.19.53:864][344]LogContentBrowser: Attempting asset rename: NewFolder -> DataTables
+[2024.05.23-14.19.53:865][344]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.23-14.20.37:897][831]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.05.23-14.20.48:910][987]LogSlate: Window 'Pick Row Structure' being destroyed
+[2024.05.23-14.20.48:918][987]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2024.05.23-14.20.48:925][987]LogContentBrowser: Creating deferred item: NewDataTable
+[2024.05.23-14.20.48:959][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2024.05.23-14.20.54:247][305]LogContentBrowser: Attempting asset rename: NewDataTable -> DT_WeaponInfo
+[2024.05.23-14.20.54:368][305]LogContentBrowser: End creating deferred item NewDataTable
+[2024.05.23-14.20.55:570][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.20.55:655][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.23-14.20.55:685][377]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.23-14.20.55:685][377]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main35BCEDAC49C74605E07AB3925135986F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.23-14.20.55:692][377]LogFileHelpers: All files are already saved.
+[2024.05.23-14.20.55:692][377]LogFileHelpers: Saving map 'MAP_Main' took 0.084
+[2024.05.23-14.20.55:700][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 31.0 sec)
+[2024.05.23-14.20.55:701][377]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.23-14.20.55:701][377]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.23-14.20.57:027][457]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.27.27:856][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.27.27:891][694]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.05.23-14.27.27:891][694]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfoBCB8A1574CBCE1FF5D4070957C5F8627.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.05.23-14.27.27:905][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 31.0 sec)
+[2024.05.23-14.27.27:905][694]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.05.23-14.27.27:905][694]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.28.11:389][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.28.11:418][572]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.05.23-14.28.11:418][572]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo89E3ACC94BEA97AA13623880C059A7A4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.05.23-14.28.11:427][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 31.1 sec)
+[2024.05.23-14.28.11:428][572]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.05.23-14.28.11:428][572]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.28.14:513][757]LogSlate: Window 'DT_WeaponInfo' being destroyed
+[2024.05.23-14.28.15:397][808]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.28.34:491][369]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.28.48:218][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.28.48:253][912]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.23-14.28.48:253][912]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo5AEC883C46D9BDE6248CF8B75044CEDF.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.23-14.28.48:261][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 31.1 sec)
+[2024.05.23-14.28.48:262][912]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.23-14.28.48:262][912]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.29.42:783][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.29.42:826][375]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.05.23-14.29.42:826][375]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo4E2A5EDC4EF1BFA440BBB5B151340AF3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.05.23-14.29.42:835][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 31.2 sec)
+[2024.05.23-14.29.42:836][375]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.05.23-14.29.42:836][375]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.42.19:257][203]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.05.23-14.42.19:261][203]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.05.23-14.42.25:106][307]LogCSVImportFactory: Imported DataTable 'DT_WeaponInfo' - 1 Problems
+[2024.05.23-14.42.25:106][307]LogCSVImportFactory: 0:Expected column 'Name' not found in input.
+[2024.05.23-14.42.28:015][307]LogSlate: Window 'Message' being destroyed
+[2024.05.23-14.42.28:022][307]Message dialog closed, result: Ok, title: Message, text: Expected column 'Name' not found in input.
+
+[2024.05.23-14.42.29:295][366]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.42.33:189][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.42.33:213][593]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.05.23-14.42.33:213][593]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo954FD91F4A08C3C4C0FD4D8F350BCFB8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.05.23-14.42.33:224][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 31.2 sec)
+[2024.05.23-14.42.33:226][593]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.05.23-14.42.33:226][593]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.49.46:138][238]LogSlate: Window 'DT_WeaponInfo' being destroyed
+[2024.05.23-14.49.49:232][334]LogCSVImportFactory: Imported DataTable 'DT_WeaponInfo' - 0 Problems
+[2024.05.23-14.49.50:720][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.49.50:852][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.23-14.49.50:887][392]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.23-14.49.50:887][392]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main26EFA030475AB6B2848D7C92CE854DCD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.23-14.49.50:894][392]LogFileHelpers: All files are already saved.
+[2024.05.23-14.49.50:894][392]LogFileHelpers: Saving map 'MAP_Main' took 0.143
+[2024.05.23-14.49.50:904][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 31.4 sec)
+[2024.05.23-14.49.50:905][392]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.23-14.49.50:905][392]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.23-14.49.51:748][443]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
