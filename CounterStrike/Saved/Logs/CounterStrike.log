@@ -36584,3 +36584,136 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.05.23-06.51.53:638][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
 [2024.05.23-06.51.54:503][878]BlueprintLog: New page: Compile BP_PlayerBase
 [2024.05.23-06.51.54:778][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.05.23-06.59.50:588][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.23-06.59.50:617][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Main_Auto8
+[2024.05.23-06.59.50:617][305]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_Auto89FF8FC8D419B3321D5D98899EBF9CB51.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto8.umap'
+[2024.05.23-06.59.50:618][305]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto8.umap is in the /Temp path, will not scan.
+[2024.05.23-06.59.50:618][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.054
+[2024.05.23-06.59.50:618][305]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2024.05.23-07.03.04:221][972]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-07.03.04:221][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-07.03.04:736][  0]LogSlate: Window 'BP_WeaponBase' being destroyed
+[2024.05.23-07.03.04:747][  0]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.23-07.03.04:747][  0]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-07.03.04:747][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-07.03.17:292][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.03.17:397][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: ================================================
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: Total job queries 40, among them cache hits 10 (25.00%)
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 20 distinct outputs (66.67%)
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: RAM used: 736.96 KiB of 819.20 MiB budget. Usage: 0.09%
+[2024.05.23-07.03.17:451][280]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.23-07.03.17:452][280]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.23-07.03.17:452][280]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.23-07.03.17:452][280]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.23-07.03.17:452][280]LogShaderCompilers: Display: ================================================
+[2024.05.23-07.03.17:509][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.03.22:280][326]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.03.22:402][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.03.22:402][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-07.03.22:413][326]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.23-07.03.22:974][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.03.22:974][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-07.03.23:192][326]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.05.23-07.05.36:676][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.05.36:742][ 30]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.05.36:743][ 30]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton1AB632894BC7AD8DDECDD9B48FABA3A5.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.05.36:750][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 14.5 sec)
+[2024.05.23-07.05.36:751][ 30]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.05.36:751][ 30]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.05.52:417][713]LogSlate: Took 0.018220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.23-07.05.54:382][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.08.43:207][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.08.43:606][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.09.20:223][131]Cmd: TRANSACTION UNDO
+[2024.05.23-07.09.20:223][131]LogEditorTransaction: Undo Rotate Socket
+[2024.05.23-07.09.20:461][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.23-07.10.01:930][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.23-07.10.01:958][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/MAP_Main_Auto9
+[2024.05.23-07.10.01:958][879]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main_Auto9E25C8652477A68399B597CBEA257A278.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto9.umap'
+[2024.05.23-07.10.01:959][879]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto9.umap is in the /Temp path, will not scan.
+[2024.05.23-07.10.01:959][879]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/MAP_Main_Auto9 is in the /Temp path, will not scan.
+[2024.05.23-07.10.01:959][879]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/MAP_Main_Auto9 is in the /Temp path, will not scan.
+[2024.05.23-07.10.01:959][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.049
+[2024.05.23-07.10.01:959][879]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2024.05.23-07.10.01:959][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton] ([1] browsable assets)...
+[2024.05.23-07.10.01:959][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton]
+[2024.05.23-07.10.01:961][879]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton_Auto9
+[2024.05.23-07.10.01:961][879]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton_Auto903919B0C4C8D9737BE3FE387C8E6AE6E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton_Auto9.uasset'
+[2024.05.23-07.10.01:961][879]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.05.23-07.11.44:435][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.11.44:467][859]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.11.44:467][859]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_SkeletonD50A2A74497312E8A2ED62BD5B872573.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.11.44:474][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 14.5 sec)
+[2024.05.23-07.11.44:475][859]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.11.44:475][859]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.13.23:826][415]Cmd: MODE ROTGRID=0
+[2024.05.23-07.13.49:752][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.13.49:802][611]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.13.49:803][611]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton3F98BCC3480472947A26D99A94D1FCCC.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.13.49:810][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.6 sec)
+[2024.05.23-07.13.49:811][611]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.13.49:811][611]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.14.40:261][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.14.40:329][371]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.14.40:329][371]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_SkeletonBAD8AB244959A1767CBB16A101B828F1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.14.40:336][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 14.6 sec)
+[2024.05.23-07.14.40:337][371]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.14.40:337][371]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.15.00:563][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.15.37:407][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.15.37:456][748]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.15.37:457][748]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_SkeletonC428128F40F633EFC3F099812318E568.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.15.37:464][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 14.7 sec)
+[2024.05.23-07.15.37:465][748]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.15.37:465][748]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.16.11:542][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.16.11:579][743]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.16.11:579][743]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton152605234E914D11E0CDB893895F542B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.16.11:589][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 14.7 sec)
+[2024.05.23-07.16.11:590][743]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.16.11:590][743]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.17.20:338][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.17.20:388][752]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.17.20:389][752]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_SkeletonE4AE38E14B1A104BA9F5E78296F9BE5C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.17.20:396][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 14.8 sec)
+[2024.05.23-07.17.20:398][752]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.17.20:398][752]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.18.05:220][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.18.05:296][310]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.18.05:297][310]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton336F1E104549154841C28782E9AC4A60.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.18.05:304][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 14.9 sec)
+[2024.05.23-07.18.05:305][310]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.18.05:305][310]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.19.18:353][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.19.18:414][751]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.19.18:414][751]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton4741A1354F03C3DF541E0AAD2FBA8931.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.19.18:422][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 14.9 sec)
+[2024.05.23-07.19.18:422][751]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.19.18:422][751]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.19.36:275][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: ================================================
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: Total job queries 42, among them cache hits 10 (23.81%)
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 21 distinct outputs (65.62%)
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: RAM used: 781.67 KiB of 819.20 MiB budget. Usage: 0.09%
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.23-07.19.39:348][627]LogShaderCompilers: Display: ================================================
+[2024.05.23-07.19.59:732][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-07.20.04:762][ 42]Cmd: MODE ROTGRID=1
+[2024.05.23-07.21.25:169][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.21.25:206][355]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.21.25:206][355]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_SkeletonC7E2753F4A2C448A309574A47B3BD9CA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.21.25:212][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 15.0 sec)
+[2024.05.23-07.21.25:213][355]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.21.25:213][355]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
+[2024.05.23-07.22.01:693][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-07.22.01:767][152]LogSavePackage: Moving output files for package: /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton
+[2024.05.23-07.22.01:767][152]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MW_Style1_Male_Skeleton70D3A8D9412B1EEB615272805AF02078.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.uasset'
+[2024.05.23-07.22.01:775][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 15.1 sec)
+[2024.05.23-07.22.01:776][152]AssetCheck: New page: Asset Save: MW_Style1_Male_Skeleton
+[2024.05.23-07.22.01:776][152]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Marketplace/MilitaryCharSilver/MW_Style1_Male_Skeleton.MW_Style1_Male_Skeleton
