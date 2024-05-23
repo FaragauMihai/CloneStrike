@@ -41455,3 +41455,110 @@ Script Stack (0 frames) :
 [2024.05.23-14.49.50:905][392]AssetCheck: New page: Asset Save: MAP_Main
 [2024.05.23-14.49.50:905][392]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
 [2024.05.23-14.49.51:748][443]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-14.59.50:981][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.05.23-14.59.50:983][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.024
+[2024.05.23-14.59.50:983][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DataTables/DT_WeaponInfo] ([1] browsable assets)...
+[2024.05.23-14.59.50:983][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DataTables/DT_WeaponInfo]
+[2024.05.23-14.59.50:984][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DataTables/DT_WeaponInfo_Auto6
+[2024.05.23-14.59.50:984][482]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo_Auto6A9FF4B8E49138FF602EBABB0911BE326.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/DataTables/DT_WeaponInfo_Auto6.uasset'
+[2024.05.23-14.59.50:985][482]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.05.23-15.00.48:348][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.00.48:383][734]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.05.23-15.00.48:383][734]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo0537550A4C49335B9C27E48264B52A35.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.05.23-15.00.48:392][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 31.4 sec)
+[2024.05.23-15.00.48:394][734]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.05.23-15.00.48:394][734]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.05.23-15.00.49:161][780]LogSlate: Window 'DT_WeaponInfo' being destroyed
+[2024.05.23-15.00.57:548][169]LogEditorViewport: Clicking Background
+[2024.05.23-15.02.00:459][895]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.204 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12790 files in 15571 folders with total size 646 MiB.
+[2024.05.23-15.02.40:227][ 72]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.23-15.02.40:238][ 72]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.23-15.02.40:252][ 73]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.23-15.02.44:596][334]LogContentBrowser: Attempting asset rename: NewFolder -> Libraries
+[2024.05.23-15.02.44:596][334]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.23-15.02.56:558][955]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2024.05.23-15.02.56:572][955]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2024.05.23-15.02.56:629][957]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2024.05.23-15.03.21:993][422]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BP_FunctionLibrary
+[2024.05.23-15.03.22:157][422]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2024.05.23-15.03.22:760][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.03.22:795][458]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.03.22:795][458]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibraryF9AD32EF47D049AE78BE2BAEFD3F8F5F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.03.22:808][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 31.5 sec)
+[2024.05.23-15.03.22:809][458]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.03.22:809][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.03.25:582][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.03.25:582][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.03.25:582][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.04.47:980][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.04.48:019][496]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.04.48:019][496]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary16B2CC88411857870DC98E8B98142611.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.04.48:028][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 31.5 sec)
+[2024.05.23-15.04.48:030][496]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.04.48:030][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.04.50:690][656]BlueprintLog: New page: Compile BP_FunctionLibrary
+[2024.05.23-15.04.50:829][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2024.05.23-15.06.40:999][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.06.41:025][718]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.06.41:025][718]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary058CA5124BC0312A794CEF8C30F449E8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.06.41:036][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 31.6 sec)
+[2024.05.23-15.06.41:037][718]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.06.41:037][718]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.09.51:987][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.23-15.09.51:990][466]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.020
+[2024.05.23-15.09.51:990][466]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Libraries/BP_FunctionLibrary] ([2] browsable assets)...
+[2024.05.23-15.09.51:990][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Libraries/BP_FunctionLibrary]
+[2024.05.23-15.09.51:992][466]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Libraries/BP_FunctionLibrary_Auto7
+[2024.05.23-15.09.51:992][466]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary_Auto72E236A7A4F8DA88EB33CEA8BD18A38E3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Libraries/BP_FunctionLibrary_Auto7.uasset'
+[2024.05.23-15.09.51:992][466]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.05.23-15.12.04:027][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.12.04:064][578]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.12.04:065][578]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibraryB345455E4CC757E76AF7F88526AA2C76.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.12.04:074][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 31.6 sec)
+[2024.05.23-15.12.04:075][578]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.12.04:075][578]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.12.24:685][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.12.24:710][674]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.12.24:710][674]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary09F3F7BD41D3989C0DE11CBC81D29AE8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.12.24:719][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 31.7 sec)
+[2024.05.23-15.12.24:720][674]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.12.24:720][674]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.12.45:344][521]BlueprintLog: New page: Compile BP_FunctionLibrary
+[2024.05.23-15.12.45:377][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.23-15.12.45:391][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.12.45:430][521]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.12.45:430][521]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibraryF36B1A5F4A21E8EEDB10B5B452CE39C0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.12.45:444][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 31.7 sec)
+[2024.05.23-15.12.45:447][521]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.12.45:447][521]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.20.08:722][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-15.20.08:722][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.20.08:722][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.20.33:627][625]BlueprintLog: New page: Compile BP_FunctionLibrary
+[2024.05.23-15.20.33:653][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.05.23-15.20.33:667][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.20.33:718][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.20.33:718][625]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary916C98294B6F5E32AF0257908B8F5C71.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.20.33:727][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 31.8 sec)
+[2024.05.23-15.20.33:729][625]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.20.33:729][625]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.21.50:026][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.21.50:062][694]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.21.50:063][694]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary775E3B26439FC2F00BC6F0AE18D79655.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.21.50:071][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 31.8 sec)
+[2024.05.23-15.21.50:073][694]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.21.50:073][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.21.51:614][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.21.51:664][785]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.05.23-15.21.51:664][785]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary0580FC614084C1CE8B98F48B725A4B7B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.05.23-15.21.51:673][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 31.9 sec)
+[2024.05.23-15.21.51:674][785]AssetCheck: New page: Asset Save: BP_FunctionLibrary
+[2024.05.23-15.21.51:674][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.23-15.22.21:858][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.22.22:012][931]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-15.22.22:012][931]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseA9B75EFB432D3A2C6E7AC29CF2E1A3E1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-15.22.22:023][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 32.0 sec)
+[2024.05.23-15.22.22:026][931]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-15.22.22:027][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-15.22.22:522][961]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-15.22.22:725][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
