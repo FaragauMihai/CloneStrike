@@ -41562,3 +41562,84 @@ Script Stack (0 frames) :
 [2024.05.23-15.22.22:027][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
 [2024.05.23-15.22.22:522][961]BlueprintLog: New page: Compile BP_PlayerBase
 [2024.05.23-15.22.22:725][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.23-15.23.37:323][343]LogSlate: Window 'BP_FunctionLibrary' being destroyed
+[2024.05.23-15.23.37:331][343]LogSlate: Window 'BP_FunctionLibrary' being destroyed
+[2024.05.23-15.23.37:337][343]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.23.37:337][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.23.37:605][343]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.23.37:605][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.23.41:461][431]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.23-15.23.41:461][431]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.23-15.23.57:054][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.05.23-15.23.57:054][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.23.57:054][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.24.16:352][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.24.16:485][287]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.05.23-15.24.16:486][287]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase2B2BEA71412898A1B3289D90408439A0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.05.23-15.24.16:496][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 32.2 sec)
+[2024.05.23-15.24.16:497][287]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.05.23-15.24.16:497][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.05.23-15.24.41:885][525]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.05.23-15.24.41:969][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.23-15.24.42:866][569]LogSlate: Window 'BP_WeaponBase' being destroyed
+[2024.05.23-15.24.42:887][569]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.24.42:887][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.24.44:179][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_AK47.BP_AK47
+[2024.05.23-15.24.44:179][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.24.44:179][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.25.13:899][ 44]BlueprintLog: New page: Compile BP_AK47
+[2024.05.23-15.25.13:973][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.05.23-15.25.13:995][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.25.14:077][ 44]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_AK47
+[2024.05.23-15.25.14:078][ 44]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_AK472862BA774F4D86934F4AD3B035933C38.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_AK47.uasset'
+[2024.05.23-15.25.14:087][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 32.3 sec)
+[2024.05.23-15.25.14:095][ 44]AssetCheck: New page: Asset Save: BP_AK47
+[2024.05.23-15.25.14:095][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_AK47.BP_AK47
+[2024.05.23-15.25.16:656][ 97]LogSlate: Window 'BP_AK47' being destroyed
+[2024.05.23-15.25.16:666][ 97]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.25.16:666][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.25.18:670][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.25.18:670][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.25.18:809][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.25.18:809][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.25.29:673][772]BlueprintLog: New page: Compile BP_M4A1
+[2024.05.23-15.25.29:728][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.23-15.25.29:752][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.25.29:837][772]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_M4A1
+[2024.05.23-15.25.29:837][772]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_M4A175FB6A13438F82D94DACFFBA106D5CE4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_M4A1.uasset'
+[2024.05.23-15.25.29:846][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 32.4 sec)
+[2024.05.23-15.25.29:855][772]AssetCheck: New page: Asset Save: BP_M4A1
+[2024.05.23-15.25.29:855][772]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_M4A1.BP_M4A1
+[2024.05.23-15.25.34:107][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.25.34:207][ 20]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Pistol
+[2024.05.23-15.25.34:208][ 20]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_Pistol81C42BEC4607DB6B0A4228B4BE8006C3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_Pistol.uasset'
+[2024.05.23-15.25.34:220][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 32.5 sec)
+[2024.05.23-15.25.34:221][ 20]AssetCheck: New page: Asset Save: BP_Pistol
+[2024.05.23-15.25.34:221][ 20]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_Pistol.BP_Pistol
+[2024.05.23-15.25.35:305][ 84]BlueprintLog: New page: Compile BP_Pistol
+[2024.05.23-15.25.35:358][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.23-15.25.38:977][291]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.25.38:977][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.25.39:453][314]LogSlate: Window 'BP_Pistol' being destroyed
+[2024.05.23-15.25.39:466][314]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.23-15.25.39:466][314]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-15.25.39:466][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-15.26.06:742][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-15.26.06:742][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-15.26.06:742][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-15.26.38:922][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.05.23-15.26.38:924][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.023
+[2024.05.23-15.26.38:925][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
+[2024.05.23-15.26.38:977][434]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase]
+[2024.05.23-15.26.38:978][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
+[2024.05.23-15.26.39:048][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto8
+[2024.05.23-15.26.39:049][434]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto8F0B5714042F14DED13D396A803684417.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto8.uasset'
+[2024.05.23-15.26.39:049][434]LogFileHelpers: Auto-saving content packages took 0.125
+[2024.05.23-15.27.00:679][482]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-15.27.00:874][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.23-15.27.01:077][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-15.27.01:240][482]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-15.27.01:241][482]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseB10C0A9E448194D7C08435BAA1F54DD0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-15.27.01:250][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 32.7 sec)
+[2024.05.23-15.27.01:251][482]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-15.27.01:251][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
