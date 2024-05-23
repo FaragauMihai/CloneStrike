@@ -20,7 +20,9 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryCharDark/MW_Style2_Male.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset",
-				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset"
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_DropWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset"
 			]
 		}
 	]

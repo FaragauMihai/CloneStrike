@@ -41808,3 +41808,120 @@ Script Stack (0 frames) :
 [2024.05.23-16.03.42:526][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 36.1 sec)
 [2024.05.23-16.03.42:528][134]AssetCheck: New page: Asset Save: BP_PlayerBase
 [2024.05.23-16.03.42:528][134]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.04.57:648][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.23-16.04.57:652][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.023
+[2024.05.23-16.04.57:652][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase] ([2] browsable assets)...
+[2024.05.23-16.04.57:652][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase]
+[2024.05.23-16.04.57:663][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto0
+[2024.05.23-16.04.57:663][518]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase_Auto05CD1110E458C94B57917C8A2C7C7C546.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto0.uasset'
+[2024.05.23-16.04.57:663][518]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.05.23-16.11.00:317][606]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.05.23-16.11.00:408][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.23-16.11.00:516][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.11.00:551][606]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.05.23-16.11.00:551][606]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase7A6A951A48E03B9A1A4E64A881877D67.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.05.23-16.11.00:563][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 36.2 sec)
+[2024.05.23-16.11.00:565][606]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.05.23-16.11.00:565][606]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.05.23-16.11.01:174][636]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.11.01:174][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.11.01:970][671]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2024.05.23-16.11.01:981][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.23-16.11.01:981][671]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.11.01:981][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.13.23:339][859]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.05.23-16.13.23:349][859]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.05.23-16.13.23:360][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.05.23-16.13.33:532][469]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_DropWeapon
+[2024.05.23-16.13.33:559][469]LogContentBrowser: End creating deferred item NewInputAction
+[2024.05.23-16.13.33:990][495]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/Input/IA_DropWeapon.IA_DropWeapon
+[2024.05.23-16.13.38:095][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.13.38:127][551]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Input/IA_DropWeapon
+[2024.05.23-16.13.38:127][551]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IA_DropWeapon4B7C9102451CEC287E971A91A3919F82.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_DropWeapon.uasset'
+[2024.05.23-16.13.38:137][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 36.2 sec)
+[2024.05.23-16.13.38:138][551]AssetCheck: New page: Asset Save: IA_DropWeapon
+[2024.05.23-16.13.38:138][551]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Blueprints/Player/Input/IA_DropWeapon.IA_DropWeapon
+[2024.05.23-16.13.38:911][585]LogSlate: Window 'IA_DropWeapon' being destroyed
+[2024.05.23-16.13.40:404][672]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/Input/IMC_Default.IMC_Default
+[2024.05.23-16.14.08:259][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.14.08:293][881]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Input/IMC_Default
+[2024.05.23-16.14.08:293][881]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IMC_Default8D4583254CDE407BB138CC916070C42C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset'
+[2024.05.23-16.14.08:331][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 36.3 sec)
+[2024.05.23-16.14.08:332][881]AssetCheck: New page: Asset Save: IMC_Default
+[2024.05.23-16.14.08:332][881]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Input/IMC_Default.IMC_Default
+[2024.05.23-16.14.56:933][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.14.56:966][476]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Input/IMC_Default
+[2024.05.23-16.14.56:966][476]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IMC_DefaultC618F42C4644F21F573E34BC17047104.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset'
+[2024.05.23-16.14.56:976][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 36.3 sec)
+[2024.05.23-16.14.56:977][476]AssetCheck: New page: Asset Save: IMC_Default
+[2024.05.23-16.14.56:977][476]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Input/IMC_Default.IMC_Default
+[2024.05.23-16.15.05:794][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.15.05:828][549]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/Input/IMC_Default
+[2024.05.23-16.15.05:828][549]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/IMC_DefaultFA9CED2346191343CA859D84FEBEC3F9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset'
+[2024.05.23-16.15.05:836][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 36.4 sec)
+[2024.05.23-16.15.05:837][549]AssetCheck: New page: Asset Save: IMC_Default
+[2024.05.23-16.15.05:837][549]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Blueprints/Player/Input/IMC_Default.IMC_Default
+[2024.05.23-16.15.06:752][601]LogSlate: Window 'IMC_Default' being destroyed
+[2024.05.23-16.15.15:130][793]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.15.15:131][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.15.15:131][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.16.04:713][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.16.04:876][201]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.16.04:876][201]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase8F02B2AB467E38EAA19E1BAF0785CB1D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.16.04:889][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 36.6 sec)
+[2024.05.23-16.16.04:891][201]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.16.04:891][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.16.24:050][335]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.05.23-16.16.24:056][335]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.05.23-16.16.57:061][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.16.57:200][236]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.16.57:200][236]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase703C7A0C48C3E4F7DCAA738952F0FE14.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.16.57:213][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 36.7 sec)
+[2024.05.23-16.16.57:215][236]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.16.57:215][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.17.07:423][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.17.07:559][831]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.17.07:559][831]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase07B4459C421047D5A73CCA8C003D0653.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.17.07:571][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 36.9 sec)
+[2024.05.23-16.17.07:573][831]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.17.07:573][831]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.22.40:303][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.23-16.22.40:308][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.037
+[2024.05.23-16.22.40:308][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
+[2024.05.23-16.22.40:317][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
+[2024.05.23-16.22.40:377][207]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto1
+[2024.05.23-16.22.40:378][207]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto17D1DA18F445DFDC3E243DB889ACA38B7.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto1.uasset'
+[2024.05.23-16.22.40:378][207]LogFileHelpers: Auto-saving content packages took 0.070
+[2024.05.23-16.23.16:445][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.23.16:583][514]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.23.16:584][514]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase8336A4B447A6EA730E8E6AA9102C4A31.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.23.16:595][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 37.0 sec)
+[2024.05.23-16.23.16:598][514]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.23.16:598][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.26.20:170][144]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-16.26.20:391][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.05.23-16.26.51:617][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.26.51:653][ 25]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2024.05.23-16.26.51:778][ 25]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.26.51:778][ 25]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase29C70B244998B709F3D99EB7B9773A50.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.26.51:787][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 37.2 sec)
+[2024.05.23-16.26.51:789][ 25]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.26.51:789][ 25]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.26.54:869][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.26.54:956][206]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.26.54:956][206]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase8DBD26D3478F32877B43A9BA498396FE.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.26.54:966][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 37.3 sec)
+[2024.05.23-16.26.54:970][206]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.26.54:970][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.26.55:913][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.26.56:013][258]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.23-16.26.56:013][258]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase45B2D85E40292E84C8966F9D76CEFF08.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.23-16.26.56:023][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 37.4 sec)
+[2024.05.23-16.26.56:025][258]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.23-16.26.56:025][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.23-16.26.58:591][279]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-16.26.58:804][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.23-16.26.59:026][279]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-16.26.59:226][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.05.23-16.26.59:521][280]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.23-16.26.59:733][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
