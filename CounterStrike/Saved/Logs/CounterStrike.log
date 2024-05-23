@@ -41316,3 +41316,67 @@ Script Stack (0 frames) :
 [2024.05.23-12.47.10:654][157]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Maps/MAP_Main_Auto4.umap is in the /Temp path, will not scan.
 [2024.05.23-12.47.10:654][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.066
 [2024.05.23-12.47.10:654][157]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2024.05.23-12.48.32:618][404]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (JBL TUNE720BT Hands-Free AG Audio), InstanceID=1
+[2024.05.23-12.48.32:897][404]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10492
+[2024.05.23-12.48.32:923][405]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.05.23-12.48.33:232][405]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=8000, DeviceID={0.0.0.00000000}.{8bad027c-d1ad-494e-88dc-93e98b179972}, Name=Headset (JBL TUNE720BT Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.84
+[2024.05.23-12.48.33:233][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.23-12.48.33:234][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.23-12.48.33:564][406]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10492
+[2024.05.23-12.48.34:238][408]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{335e0bb3-92b1-48bb-8d44-9039dfd93686}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=421.91
+[2024.05.23-12.48.34:238][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.23-12.48.34:241][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.23-13.02.00:447][827]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.193 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12790 files in 15571 folders with total size 646 MiB.
+[2024.05.23-13.43.26:247][283]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (JBL TUNE720BT Hands-Free AG Audio), InstanceID=1
+[2024.05.23-13.43.26:380][283]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT Stereo), InstanceID=1
+[2024.05.23-13.43.26:443][283]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10492
+[2024.05.23-13.43.26:779][284]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{15c0c96e-b766-43d4-8146-c0c45cd75750}, Name=Headphones (JBL TUNE720BT Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.06
+[2024.05.23-13.43.26:779][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.23-13.43.26:781][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.23-14.02.01:434][628]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12790 files in 15571 folders with total size 646 MiB.
+[2024.05.23-14.03.09:624][880]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.03.09:624][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.03.10:997][943]LogSlate: Window 'BP_WeaponBase' being destroyed
+[2024.05.23-14.03.11:011][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.23-14.03.11:011][943]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.03.11:011][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.03.14:968][ 52]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.23-14.03.14:973][ 52]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.23-14.03.14:998][ 53]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.23-14.03.17:497][202]LogContentBrowser: Attempting asset rename: NewFolder -> Structures
+[2024.05.23-14.03.17:599][202]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.23-14.03.29:332][738]LogContentBrowser: Attempting asset rename: Structures -> Structs
+[2024.05.23-14.03.41:983][331]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.05.23-14.03.41:995][331]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.05.23-14.03.42:058][333]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.05.23-14.03.47:081][634]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> ST_WeaponInfo
+[2024.05.23-14.03.47:679][634]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.05.23-14.03.49:586][745]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.04.15:422][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.23-14.04.15:431][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.033
+[2024.05.23-14.04.15:431][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structs/ST_WeaponInfo] ([1] browsable assets)...
+[2024.05.23-14.04.15:431][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structs/ST_WeaponInfo]
+[2024.05.23-14.04.15:432][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Structs/ST_WeaponInfo_Auto5
+[2024.05.23-14.04.15:432][867]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo_Auto5BD8D49434E4BCDE09C837A8BC8B0A3B1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Structs/ST_WeaponInfo_Auto5.uasset'
+[2024.05.23-14.04.15:433][867]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.05.23-14.12.59:366][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.12.59:402][636]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.23-14.12.59:402][636]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo510926974095D729B3315EA66E8E571D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.23-14.12.59:763][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 395 ms (total: 30.8 sec)
+[2024.05.23-14.12.59:763][636]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.23-14.12.59:763][636]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.13.01:178][721]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.05.23-14.13.53:339][903]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.14.14:411][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.14.14:444][ 24]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.23-14.14.14:444][ 24]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo10B2EA164227C88E02B7E1AD9AFA11F2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.23-14.14.14:454][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 30.8 sec)
+[2024.05.23-14.14.14:455][ 24]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.23-14.14.14:455][ 24]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.14.37:071][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.14.37:104][660]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.23-14.14.37:104][660]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo3C72FCF840717FEF516672A254C6AF48.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.23-14.14.37:112][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 30.9 sec)
+[2024.05.23-14.14.37:113][660]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.23-14.14.37:113][660]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.23-14.14.40:444][689]LogSlate: Window 'ST_WeaponInfo' being destroyed
