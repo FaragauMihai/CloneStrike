@@ -22,7 +22,9 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_DropWeapon.uasset",
-				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset"
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_LootWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Interfaces/INT_WeaponBase.uasset"
 			]
 		}
 	]
