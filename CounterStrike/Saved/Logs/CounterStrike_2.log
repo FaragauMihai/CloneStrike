@@ -2886,3 +2886,151 @@ Script Stack (0 frames) :
 [2024.05.26-20.30.35:548][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2024.05.26-20.30.35:581][211]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2024.05.26-20.30.35:581][211]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.26-20.33.35:369][832]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2024.05.26-20.33.35:377][832]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.33.35:377][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-20.33.36:514][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.33.36:738][877]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.26-20.33.36:738][877]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseA36F80394EE56B73220ADD8B58AE89DE.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.26-20.33.36:747][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 14.1 sec)
+[2024.05.26-20.33.36:750][877]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.26-20.33.36:750][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.26-20.33.41:012][914]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.26-20.33.41:013][914]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.26-20.33.45:679][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.37.28:228][253]LogContentBrowser: Deferred new asset file creation: Anim_Reload_Pistol_Montage
+[2024.05.26-20.37.28:273][253]LogContentBrowser: Creating deferred item: Anim_Reload_Pistol_Montage
+[2024.05.26-20.37.28:379][254]LogContentBrowser: Renaming the item being created (Deferred Item: Anim_Reload_Pistol_Montage).
+[2024.05.26-20.38.39:396][166]LogContentBrowser: Attempting asset rename: Anim_Reload_Pistol_Montage -> AniMon
+[2024.05.26-20.38.39:823][166]LogContentBrowser: End creating deferred item Anim_Reload_Pistol_Montage
+[2024.05.26-20.38.40:036][173]Cmd: SELECT NONE
+[2024.05.26-20.38.51:468][642]LogContentBrowser: Deferred new asset file creation: Anim_Reload_Rifle_Montage
+[2024.05.26-20.38.51:607][642]LogContentBrowser: Creating deferred item: Anim_Reload_Rifle_Montage
+[2024.05.26-20.38.51:616][643]LogContentBrowser: Renaming the item being created (Deferred Item: Anim_Reload_Rifle_Montage).
+[2024.05.26-20.39.11:234][225]LogContentBrowser: Attempting asset rename: Anim_Reload_Rifle_Montage -> Anim_Reload_Rifle_Montage
+[2024.05.26-20.39.11:234][225]LogContentBrowser: End creating deferred item Anim_Reload_Rifle_Montage
+[2024.05.26-20.39.14:604][413]LogContentBrowser: Deferred new asset file creation: Anim_Reload_Pistol_Montage
+[2024.05.26-20.39.14:614][413]LogContentBrowser: Creating deferred item: Anim_Reload_Pistol_Montage
+[2024.05.26-20.39.14:622][414]LogContentBrowser: Renaming the item being created (Deferred Item: Anim_Reload_Pistol_Montage).
+[2024.05.26-20.39.29:102][ 98]LogContentBrowser: Attempting asset rename: Anim_Reload_Pistol_Montage -> AnimMontage_Reload_Pistol
+[2024.05.26-20.39.29:103][ 98]LogContentBrowser: End creating deferred item Anim_Reload_Pistol_Montage
+[2024.05.26-20.39.34:549][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.39.34:718][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.26-20.39.34:771][415]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.39.34:771][415]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main7EA3E71443BEE28DF6F219AF2C435558.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.39.34:792][415]LogFileHelpers: All files are already saved.
+[2024.05.26-20.39.34:792][415]LogFileHelpers: Saving map 'MAP_Main' took 0.147
+[2024.05.26-20.39.34:798][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 14.4 sec)
+[2024.05.26-20.39.34:799][415]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.39.34:799][415]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.39.48:443][ 93]LogContentBrowser: Deferred new asset file creation: Anim_Reload_Rifle_Montage
+[2024.05.26-20.39.48:510][ 93]LogContentBrowser: Creating deferred item: Anim_Reload_Rifle_Montage
+[2024.05.26-20.39.48:518][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: Anim_Reload_Rifle_Montage).
+[2024.05.26-20.39.54:613][460]LogContentBrowser: Attempting asset rename: Anim_Reload_Rifle_Montage -> AnimMontage_Rifle
+[2024.05.26-20.39.54:614][460]LogContentBrowser: End creating deferred item Anim_Reload_Rifle_Montage
+[2024.05.26-20.40.04:672][ 46]LogContentBrowser: Deferred new asset file creation: Anim_Reload_Rifle_Montage
+[2024.05.26-20.40.04:684][ 46]LogContentBrowser: Creating deferred item: Anim_Reload_Rifle_Montage
+[2024.05.26-20.40.04:693][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: Anim_Reload_Rifle_Montage).
+[2024.05.26-20.40.13:385][568]LogContentBrowser: Attempting asset rename: Anim_Reload_Rifle_Montage -> AnimMontage_Reload_Rifle
+[2024.05.26-20.40.13:386][568]LogContentBrowser: End creating deferred item Anim_Reload_Rifle_Montage
+[2024.05.26-20.40.15:660][699]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Animations/Anim_Reload_Rifle.Anim_Reload_Rifle
+[2024.05.26-20.40.15:927][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.40.15:927][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-20.40.16:236][699]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.05.26-20.40.16:332][699]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.26-20.40.17:203][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.40.17:203][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-20.40.17:491][699]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.26-20.40.17:649][699]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.05.26-20.40.17:658][699]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.40.17:658][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-20.40.17:836][699]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.26-20.40.18:038][699]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.26-20.40.18:350][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.40.21:397][863]LogSlate: Window 'Anim_Reload_Rifle' being destroyed
+[2024.05.26-20.40.21:402][863]LogSlate: Window 'Anim_Reload_Rifle' being destroyed
+[2024.05.26-20.40.21:569][863]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.40.21:569][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-20.40.21:581][863]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.40.21:581][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-20.40.21:660][863]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.40.21:660][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-20.40.37:158][427]LogContentBrowser: Attempting asset rename: AnimMontage_Reload_Pistol -> AnimMon_Reload_Pistol
+[2024.05.26-20.40.38:060][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.38:138][427]LogSavePackage: Moving output files for package: /Game/Assets/Animations/AnimMon_Reload_Pistol
+[2024.05.26-20.40.38:138][427]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AnimMon_Reload_Pistol6823264C405077CCD1BF1D9B182F3407.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AnimMon_Reload_Pistol.uasset'
+[2024.05.26-20.40.38:147][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 14.5 sec)
+[2024.05.26-20.40.38:189][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.26-20.40.38:208][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.05.26-20.40.38:223][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.26-20.40.38:224][427]AssetCheck: New page: Asset Save: AnimMon_Reload_Pistol
+[2024.05.26-20.40.38:224][427]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Assets/Animations/AnimMon_Reload_Pistol.AnimMon_Reload_Pistol
+[2024.05.26-20.40.40:647][567]LogContentBrowser: Attempting asset rename: AnimMontage_Reload_Rifle -> AnimMontage_Reload_Rifle
+[2024.05.26-20.40.46:254][899]LogContentBrowser: Attempting asset rename: AnimMontage_Reload_Rifle -> AnimMon_Reload_Rifle
+[2024.05.26-20.40.46:285][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.46:323][899]LogSavePackage: Moving output files for package: /Game/Assets/Animations/AnimMon_Reload_Rifle
+[2024.05.26-20.40.46:323][899]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/AnimMon_Reload_RifleDF74A8BA4B03F4E3FD9C1E910B7469C8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AnimMon_Reload_Rifle.uasset'
+[2024.05.26-20.40.46:331][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 14.5 sec)
+[2024.05.26-20.40.46:359][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.26-20.40.46:374][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.26-20.40.46:392][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.26-20.40.46:393][899]AssetCheck: New page: Asset Save: AnimMon_Reload_Rifle
+[2024.05.26-20.40.46:393][899]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Assets/Animations/AnimMon_Reload_Rifle.AnimMon_Reload_Rifle
+[2024.05.26-20.40.48:286][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.48:455][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.26-20.40.48:482][ 10]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.40.48:482][ 10]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainB5A8127B4222516DC696CC99CE7D27C4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.40.48:487][ 10]LogFileHelpers: All files are already saved.
+[2024.05.26-20.40.48:487][ 10]LogFileHelpers: Saving map 'MAP_Main' took 0.170
+[2024.05.26-20.40.48:496][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 14.7 sec)
+[2024.05.26-20.40.48:497][ 10]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.40.48:497][ 10]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.40.50:706][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.50:769][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.26-20.40.50:800][143]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.40.50:800][143]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main79217B924423D94D9135EAAA65080DE6.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.40.50:807][143]LogFileHelpers: All files are already saved.
+[2024.05.26-20.40.50:807][143]LogFileHelpers: Saving map 'MAP_Main' took 0.073
+[2024.05.26-20.40.50:814][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 14.8 sec)
+[2024.05.26-20.40.50:815][143]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.40.50:815][143]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.40.51:657][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.51:715][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.26-20.40.51:743][194]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.40.51:743][194]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainD14051AB460B10A170A1AC8066CD5CA0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.40.51:749][194]LogFileHelpers: All files are already saved.
+[2024.05.26-20.40.51:749][194]LogFileHelpers: Saving map 'MAP_Main' took 0.070
+[2024.05.26-20.40.51:756][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 14.9 sec)
+[2024.05.26-20.40.51:757][194]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.40.51:757][194]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.40.52:566][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.52:632][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.26-20.40.52:661][243]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.40.52:661][243]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_MainD23988F84D99FBE144BF9A8F8F1FC053.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.40.52:667][243]LogFileHelpers: All files are already saved.
+[2024.05.26-20.40.52:667][243]LogFileHelpers: Saving map 'MAP_Main' took 0.070
+[2024.05.26-20.40.52:674][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 15.0 sec)
+[2024.05.26-20.40.52:675][243]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.40.52:675][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.40.57:218][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.26-20.40.57:285][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.26-20.40.57:314][516]LogSavePackage: Moving output files for package: /Game/Maps/MAP_Main
+[2024.05.26-20.40.57:314][516]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/MAP_Main03A7B87D49B6677213AC9AB8165C1ADD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Maps/MAP_Main.umap'
+[2024.05.26-20.40.57:321][516]LogFileHelpers: All files are already saved.
+[2024.05.26-20.40.57:321][516]LogFileHelpers: Saving map 'MAP_Main' took 0.072
+[2024.05.26-20.40.57:327][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 15.2 sec)
+[2024.05.26-20.40.57:328][516]AssetCheck: New page: Asset Save: MAP_Main
+[2024.05.26-20.40.57:328][516]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MAP_Main.MAP_Main
+[2024.05.26-20.41.02:686][591]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Assets/Animations/AnimMon_Reload_Pistol.AnimMon_Reload_Pistol
+[2024.05.26-20.41.02:689][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.41.02:689][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-20.41.02:700][591]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.26-20.41.03:018][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.26-20.41.03:018][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.26-20.41.03:452][591]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.05.26-20.41.09:470][776]LogSlate: Window 'AnimMon_Reload_Pistol' being destroyed
+[2024.05.26-20.41.09:474][776]LogSlate: Window 'AnimMon_Reload_Pistol' being destroyed
+[2024.05.26-20.41.09:495][776]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.41.09:495][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.26-20.41.09:540][776]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.05.26-20.41.09:540][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
