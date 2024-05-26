@@ -24,7 +24,11 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_DropWeapon.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IMC_Default.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_LootWeapon.uasset",
-				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Interfaces/INT_WeaponBase.uasset"
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Interfaces/INT_WeaponBase.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_PromaryWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_SecondaryInput.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_PrimaryWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_SecondaryWeapon.uasset"
 			]
 		}
 	]
