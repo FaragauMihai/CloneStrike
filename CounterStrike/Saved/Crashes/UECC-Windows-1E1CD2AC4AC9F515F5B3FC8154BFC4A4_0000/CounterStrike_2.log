@@ -1537,28 +1537,3 @@ Script Stack (0 frames) :
 [2024.05.26-19.05.06:763][971]LogOutputDevice: Error: [Callstack] 0x00007ffb91797344 KERNEL32.DLL!UnknownFunction []
 [2024.05.26-19.05.06:763][971]LogOutputDevice: Error: [Callstack] 0x00007ffb927426b1 ntdll.dll!UnknownFunction []
 [2024.05.26-19.05.06:763][971]LogOutputDevice: Error: 
-[2024.05.26-19.05.06:765][971]LogStats:                SubmitErrorReport -  0.000 s
-[2024.05.26-19.05.40:208][971]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [33 Seconds] waiting for h/w. InstanceID=1
-[2024.05.26-19.05.40:209][971]LogStats:                    SendNewReport - 33.444 s
-[2024.05.26-19.05.40:209][971]LogStats:             FDebug::EnsureFailed - 33.922 s
-[2024.05.26-19.05.40:226][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
-[2024.05.26-19.05.40:554][972]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{15c0c96e-b766-43d4-8146-c0c45cd75750}, Name=Headphones (JBL TUNE720BT Stereo)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=50.66
-[2024.05.26-19.05.40:554][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2024.05.26-19.05.40:555][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2024.05.26-19.10.07:917][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
-[2024.05.26-19.10.07:919][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.021
-[2024.05.26-19.10.07:920][241]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
-[2024.05.26-19.10.08:002][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase]
-[2024.05.26-19.10.08:002][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
-[2024.05.26-19.10.08:105][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto5
-[2024.05.26-19.10.08:106][241]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto526231B77472B9C218CAF21BCE7B234EF.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto5.uasset'
-[2024.05.26-19.10.08:106][241]LogFileHelpers: Auto-saving content packages took 0.187
-[2024.05.26-19.10.38:614][334]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.178 and deleted 2 files with total size 0 MiB and 4 empty folders. Scanned 12174 files in 14951 folders with total size 628 MiB.
-[2024.05.26-19.17.36:218][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.05.26-19.17.36:343][600]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
-[2024.05.26-19.17.36:343][600]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase0D1AA98F4FDD9CAF139E558B9D92F883.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
-[2024.05.26-19.17.36:350][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 6.69 sec)
-[2024.05.26-19.17.36:354][600]AssetCheck: New page: Asset Save: BP_PlayerBase
-[2024.05.26-19.17.36:355][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
-[2024.05.26-19.17.37:072][642]BlueprintLog: New page: Compile BP_PlayerBase
-[2024.05.26-19.17.37:272][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
