@@ -9880,3 +9880,286 @@ Script Stack (0 frames) :
 [2024.05.28-20.31.07:970][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2024.05.28-20.31.08:002][244]LogPlayLevel: Display: Destroying online subsystem :Context_102
 [2024.05.28-20.31.08:002][244]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2024.05.28-20.31.32:283][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.28-20.31.32:345][572]LogSavePackage: Moving output files for package: /Game/Blueprints/PC_CounterStrike
+[2024.05.28-20.31.32:345][572]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/PC_CounterStrike6E19A68443D962B4C01F9EB66F0E646A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/PC_CounterStrike.uasset'
+[2024.05.28-20.31.32:352][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 30.8 sec)
+[2024.05.28-20.31.32:353][572]AssetCheck: New page: Asset Save: PC_CounterStrike
+[2024.05.28-20.31.32:353][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PC_CounterStrike.PC_CounterStrike
+[2024.05.28-20.31.34:565][746]LogSlate: Window 'PC_CounterStrike' being destroyed
+[2024.05.28-20.31.34:572][746]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.05.28-20.31.34:572][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.28-20.32.01:122][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.28-20.32.01:132][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.28-20.32.01:167][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.28-20.32.01:172][822]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.28-20.32.01:172][822]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main6A161E664E4A10FE07883F8B8A628B0B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.28-20.32.01:178][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 30.8 sec)
+[2024.05.28-20.32.01:181][822]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.28-20.32.01:181][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.28-20.32.03:348][988]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.28-20.32.03:348][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.28-20.32.03:348][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.28-20.32.03:364][988]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.28-20.32.03:364][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.28-20.37.29:552][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.28-20.37.29:581][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.28-20.37.29:586][ 19]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.28-20.37.29:586][ 19]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainE19F5A2844B1A64FA43B899610203E35.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.28-20.37.29:592][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 30.8 sec)
+[2024.05.28-20.37.29:595][ 19]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.28-20.37.29:595][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.28-20.38.28:221][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.05.28-20.38.28:224][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.028
+[2024.05.28-20.38.28:224][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.05.28-20.38.28:228][886]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.05.28-20.38.28:228][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.05.28-20.38.28:233][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto4
+[2024.05.28-20.38.28:233][886]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto40B20E63F4D72BE5E5520ED86D1828B6F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto4.uasset'
+[2024.05.28-20.38.28:234][886]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.05.28-20.39.56:728][202]BlueprintLog: New page: Compile WB_Main
+[2024.05.28-20.39.56:768][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.28-20.39.57:789][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.28-20.39.57:817][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.28-20.39.57:823][261]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.28-20.39.57:823][261]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainF94FF8904E7BC98E46933FA6E15D3A4E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.28-20.39.57:831][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 30.9 sec)
+[2024.05.28-20.39.57:832][261]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.28-20.39.57:832][261]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.28-20.42.43:007][863]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (JBL TUNE720BT Hands-Free AG Audio), InstanceID=1
+[2024.05.28-20.42.43:084][863]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
+[2024.05.28-20.42.48:085][865]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.05.28-20.42.48:220][865]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.05.28-23.44.11:513][865]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-10882483ms], ThreadID=15268
+[2024.05.28-23.44.14:630][865]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=16000, DeviceID={0.0.0.00000000}.{8bad027c-d1ad-494e-88dc-93e98b179972}, Name=Headset (JBL TUNE720BT Hands-Free AG Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=5040.63
+[2024.05.28-23.44.14:630][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.28-23.44.14:651][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.28-23.44.14:883][866]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
+[2024.05.28-23.44.15:886][869]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{335e0bb3-92b1-48bb-8d44-9039dfd93686}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=912.43
+[2024.05.28-23.44.15:886][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.28-23.44.15:888][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.28-23.56.49:203][129]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.407 and deleted 917 files with total size 58 MiB and 893 empty folders. Scanned 10041 files in 12722 folders with total size 557 MiB.
+[2024.05.29-00.56.47:153][921]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.355 and deleted 0 files with total size 0 MiB and 90 empty folders. Scanned 9124 files in 11829 folders with total size 498 MiB.
+[2024.05.29-01.56.47:148][719]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.350 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-02.56.47:044][517]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.245 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-03.19.37:554][628]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.05.29-03.19.37:879][628]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
+[2024.05.29-03.19.38:548][630]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{335e0bb3-92b1-48bb-8d44-9039dfd93686}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=441.44
+[2024.05.29-03.19.38:548][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.29-03.19.38:550][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.29-07.32.55:391][725]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.05.29-10.34.25:342][725]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
+[2024.05.29-10.34.25:938][727]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{335e0bb3-92b1-48bb-8d44-9039dfd93686}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=538.01
+[2024.05.29-10.34.25:938][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.29-10.34.25:940][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.29-10.37.46:683][329]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.275 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-11.37.47:526][130]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.117 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-12.37.46:586][925]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.177 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-13.37.46:584][724]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-14.07.07:835][  7]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (JBL TUNE720BT Hands-Free AG Audio), InstanceID=1
+[2024.05.29-14.07.07:891][  7]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT Stereo), InstanceID=1
+[2024.05.29-14.07.07:931][  7]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset (JBL TUNE720BT Hands-Free AG Audio), InstanceID=1
+[2024.05.29-14.07.07:964][  7]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT Stereo), InstanceID=1
+[2024.05.29-14.07.08:141][  7]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15268
+[2024.05.29-14.07.08:468][  8]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{15c0c96e-b766-43d4-8146-c0c45cd75750}, Name=Headphones (JBL TUNE720BT Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=40.74
+[2024.05.29-14.07.08:468][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.29-14.07.08:469][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.29-14.07.22:576][ 49]LogViewport: Scene viewport resized to 1533x510, mode Windowed.
+[2024.05.29-14.07.23:671][ 49]LogViewport: Scene viewport resized to 1530x463, mode Windowed.
+[2024.05.29-14.07.25:127][ 51]LogViewport: Scene viewport resized to 1530x490, mode Windowed.
+[2024.05.29-14.07.25:576][ 51]LogViewport: Scene viewport resized to 1530x463, mode Windowed.
+[2024.05.29-14.07.31:439][100]LogViewport: Scene viewport resized to 1015x293, mode Windowed.
+[2024.05.29-14.07.31:655][100]LogViewport: Scene viewport resized to 812x235, mode Windowed.
+[2024.05.29-14.07.31:866][100]LogViewport: Scene viewport resized to 1533x488, mode Windowed.
+[2024.05.29-14.15.27:644][762]LogEditorTransaction: Undo Create Pin Link
+[2024.05.29-14.15.35:056][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.15.35:183][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.15.35:214][986]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.15.35:215][986]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main714BCCA946BC3863A7A7AABD450D1A1B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.15.35:241][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 31.1 sec)
+[2024.05.29-14.15.35:244][986]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.15.35:244][986]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.16.31:914][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.16.32:046][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.16.32:071][648]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.16.32:072][648]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainA6E06FEB429F30452B5100B0FA97D241.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.16.32:100][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 31.3 sec)
+[2024.05.29-14.16.32:109][648]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.16.32:109][648]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.16.44:990][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.16.45:120][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.16.45:137][  7]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.16.45:138][  7]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main3AD046D14ABDC091B5F875AF1345DFAD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.16.45:149][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 31.4 sec)
+[2024.05.29-14.16.45:151][  7]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.16.45:151][  7]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.17.00:496][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.17.00:616][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.17.00:648][215]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.17.00:649][215]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main323365D44487188B524C17BF2FB9D538.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.17.00:678][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 31.6 sec)
+[2024.05.29-14.17.00:681][215]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.17.00:681][215]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.17.59:646][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.17.59:765][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.17.59:820][153]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.17.59:821][153]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainCCA2C4B94E02D7B05F38C5AEF3561632.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.17.59:838][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 31.8 sec)
+[2024.05.29-14.17.59:841][153]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.17.59:841][153]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.18.38:570][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.18.38:709][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.18.38:738][930]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.18.38:739][930]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainE2681E0C4372348AB4EBADAE30DBC6FD.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.18.38:765][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 32.0 sec)
+[2024.05.29-14.18.38:778][930]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.18.38:778][930]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.18.47:632][229]LogEditorTransaction: Undo Move Node
+[2024.05.29-14.18.50:368][315]LogEditorTransaction: Undo Move Node
+[2024.05.29-14.19.02:731][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.19.02:863][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.19.02:895][842]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.19.02:896][842]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainD70ECB4241EED3F531D2C59A15894586.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.19.02:925][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 32.2 sec)
+[2024.05.29-14.19.02:930][842]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.19.02:930][842]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.19.09:753][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.19.09:870][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.19.09:896][ 75]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.19.09:897][ 75]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainA032D0D44135B0971DAF059579D1F1CA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.19.09:921][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 32.3 sec)
+[2024.05.29-14.19.09:927][ 75]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.19.09:927][ 75]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.19.19:554][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.19.19:668][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.19.19:697][406]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.19.19:698][406]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main3FE9F1044C31F1698702F48535E109F2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.19.19:722][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 32.5 sec)
+[2024.05.29-14.19.19:728][406]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.19.19:729][406]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.20.11:559][177]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2024.05.29-14.20.11:579][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.068
+[2024.05.29-14.20.11:579][177]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.05.29-14.20.11:579][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.05.29-14.20.11:579][177]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto5
+[2024.05.29-14.20.11:579][177]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto577AF25414CC21C7C25D3918D3EC6CE49.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto5.uasset'
+[2024.05.29-14.20.11:580][177]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.05.29-14.21.40:230][587]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-14.21.40:688][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.05.29-14.29.33:472][841]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-14.29.33:528][841]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.05.29-14.30.40:043][189]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2024.05.29-14.30.40:048][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.091
+[2024.05.29-14.30.40:049][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.05.29-14.30.40:060][189]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.05.29-14.30.40:060][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.05.29-14.30.40:095][189]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto6
+[2024.05.29-14.30.40:095][189]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto68EB5945442942D0B043ECF8565F71CA7.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto6.uasset'
+[2024.05.29-14.30.40:097][189]LogFileHelpers: Auto-saving content packages took 0.049
+[2024.05.29-14.31.08:814][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.31.08:962][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.31.08:981][771]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.31.08:981][771]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main8758469A499A427D916A46B7E5B587A6.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.31.09:005][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 32.7 sec)
+[2024.05.29-14.31.09:010][771]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.31.09:010][771]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.31.14:266][836]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::IsValid' [Element not found.]
+[2024.05.29-14.31.20:169][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.31.20:292][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.31.20:326][ 55]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.31.20:327][ 55]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main4FAAB1AE424216AB9B5863936AE90340.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.31.20:353][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 32.9 sec)
+[2024.05.29-14.31.20:362][ 55]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.31.20:362][ 55]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.31.46:702][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.31.46:844][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.31.46:876][637]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.31.46:877][637]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main4D89AFCE49CB28F17953879C38A2DF18.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.31.46:905][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 33.1 sec)
+[2024.05.29-14.31.46:910][637]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.31.46:910][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.32.17:741][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.32.17:866][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.32.17:898][346]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.32.17:898][346]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main93F6843A413293D881FF5496C28628C9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.32.17:924][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 33.3 sec)
+[2024.05.29-14.32.17:936][346]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.32.17:936][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.32.20:860][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.32.20:981][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.32.21:018][433]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.32.21:019][433]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainD8255C934E7BD78E791A118F8276E043.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.32.21:042][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 33.5 sec)
+[2024.05.29-14.32.21:047][433]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.32.21:047][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.32.38:480][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.32.38:611][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.32.38:640][906]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.32.38:641][906]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainD99425644C8D9599554ED8B19DBEEC99.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.32.38:665][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 33.6 sec)
+[2024.05.29-14.32.38:669][906]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.32.38:670][906]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.32.44:142][123]LogEditorTransaction: Undo Move Node
+[2024.05.29-14.32.51:172][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.32.51:313][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.32.51:343][342]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.32.51:345][342]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainB894176A45C568BD75E8479EE765F5ED.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.32.51:370][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 33.8 sec)
+[2024.05.29-14.32.51:376][342]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.32.51:376][342]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.33.14:610][612]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-14.33.14:655][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.05.29-14.33.34:679][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.33.34:777][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.33.34:810][799]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.33.34:811][799]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main4321EAA14FABCE4A3C66FBB024EB73BA.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.33.34:836][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 34.0 sec)
+[2024.05.29-14.33.34:839][799]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.33.34:839][799]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.34.22:372][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.34.22:511][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.34.22:547][531]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.34.22:548][531]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main7071BD064C1C0A4E8B9080892C7D35C7.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.34.22:573][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 34.2 sec)
+[2024.05.29-14.34.22:580][531]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.34.22:581][531]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.34.23:858][559]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-14.34.23:905][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.05.29-14.34.38:810][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.34.38:913][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.34.38:938][681]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.34.38:939][681]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main4F532AD24FC0349E6ED580A06BE35E0B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.34.38:958][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 34.3 sec)
+[2024.05.29-14.34.38:967][681]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.34.38:967][681]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.34.40:924][702]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-14.34.41:029][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.29-14.35.46:018][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.35.46:162][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.35.46:200][346]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.35.46:200][346]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main04AF41EE45AEF83374937090E17B1962.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.35.46:226][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 34.6 sec)
+[2024.05.29-14.35.46:237][346]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.35.46:237][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.35.53:977][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.35.54:089][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.35.54:123][637]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.35.54:124][637]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main36704A01401AE0E8E42F798065DB233E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.35.54:149][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 34.7 sec)
+[2024.05.29-14.35.54:160][637]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.35.54:160][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.36.08:667][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-14.36.08:806][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-14.36.08:837][ 77]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-14.36.08:838][ 77]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main7366AFE74CC50D9A82264DB194AFD485.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-14.36.08:863][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 34.9 sec)
+[2024.05.29-14.36.08:867][ 77]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-14.36.08:868][ 77]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-14.37.46:791][701]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.379 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9124 files in 11739 folders with total size 498 MiB.
+[2024.05.29-14.40.41:434][224]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2024.05.29-14.40.41:443][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.089
+[2024.05.29-14.40.41:443][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.05.29-14.40.41:443][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.05.29-14.40.41:469][224]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto7
+[2024.05.29-14.40.41:469][224]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto78D07B16F427F5E7E939F30AC1F4E4C52.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto7.uasset'
+[2024.05.29-14.40.41:469][224]LogFileHelpers: Auto-saving content packages took 0.027
