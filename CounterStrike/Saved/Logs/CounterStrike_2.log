@@ -13763,3 +13763,517 @@ Script Stack (0 frames) :
 [2024.05.29-16.07.43:618][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.05.29-16.08.49:539][ 26]LogSlate: Window 'Message Log' being destroyed
 [2024.05.29-16.08.49:549][ 26]LogSlate: Window 'Message Log' being destroyed
+[2024.05.29-16.10.23:563][340]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-16.10.23:563][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.11.40:084][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.11.40:228][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.11.40:266][876]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.11.40:266][876]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainF32E2BB748A644B9B12826A4F15AC079.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.11.40:291][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 53.4 sec)
+[2024.05.29-16.11.40:298][876]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.11.40:298][876]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.13.34:143][647]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2024.05.29-16.13.34:148][647]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.071
+[2024.05.29-16.13.34:149][647]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.05.29-16.13.34:160][647]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.05.29-16.13.34:160][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.05.29-16.13.34:198][647]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto2
+[2024.05.29-16.13.34:199][647]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto2DF8B29624E14692050BB7EBAE7C1D738.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto2.uasset'
+[2024.05.29-16.13.34:200][647]LogFileHelpers: Auto-saving content packages took 0.053
+[2024.05.29-16.13.49:267][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.13.49:389][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.13.49:424][915]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.13.49:425][915]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainB4A70AF94036140923726CBDA3FD46BB.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.13.49:449][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 53.6 sec)
+[2024.05.29-16.13.49:461][915]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.13.49:461][915]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.14.28:641][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.14.28:790][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.14.28:829][ 24]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.14.28:830][ 24]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main3A87E58E4ADE29B3EA46729A9EF56588.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.14.28:858][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 53.8 sec)
+[2024.05.29-16.14.28:870][ 24]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.14.28:870][ 24]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.14.58:064][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.14.58:183][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.14.58:222][834]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.14.58:223][834]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main5668FE2F4E3ECA1A7767F1BE4FBF2BD1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.14.58:250][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 54.0 sec)
+[2024.05.29-16.14.58:260][834]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.14.58:260][834]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.15.17:517][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.15.17:658][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.15.17:699][220]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.15.17:700][220]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainEEBB912A4B80E9EC32FB1F9D28D01E99.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.15.17:728][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 54.2 sec)
+[2024.05.29-16.15.17:735][220]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.15.17:736][220]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.15.33:928][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.15.34:067][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.15.34:109][763]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.15.34:110][763]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainACC7E17F4893A96D9C69CBBD65BDB464.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.15.34:138][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 54.4 sec)
+[2024.05.29-16.15.34:143][763]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.15.34:144][763]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.16.43:747][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.16.43:875][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.16.43:918][888]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.16.43:919][888]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main316BCEFD4350B45F6482E9BC86721088.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.16.43:945][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 54.6 sec)
+[2024.05.29-16.16.43:949][888]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.16.43:950][888]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.18.57:944][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.18.58:082][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.18.58:127][583]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.18.58:128][583]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainC52BC476401541F33877DAAE40017542.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.18.58:153][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 54.8 sec)
+[2024.05.29-16.18.58:157][583]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.18.58:157][583]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.19.11:865][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.19.12:002][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.19.12:050][795]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.19.12:051][795]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main11E798E94B8FFEA0A1F9938331A8F8EB.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.19.12:083][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 55.0 sec)
+[2024.05.29-16.19.12:088][795]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.19.12:088][795]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.19.28:531][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.19.28:653][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.19.28:696][325]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.19.28:697][325]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main5C95E4C14AEFED4AE19352A0650CB334.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.19.28:721][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 55.2 sec)
+[2024.05.29-16.19.28:724][325]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.19.28:725][325]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.19.33:946][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.19.34:074][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.05.29-16.19.34:128][414]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.05.29-16.19.34:129][414]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main77CBB7C04781C3798371959B249669B1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.05.29-16.19.34:160][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 55.4 sec)
+[2024.05.29-16.19.34:166][414]AssetCheck: New page: Asset Save: WB_Main
+[2024.05.29-16.19.34:166][414]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.05.29-16.19.40:661][443]BlueprintLog: New page: Compile WB_Main
+[2024.05.29-16.19.40:734][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2024.05.29-16.19.40:740][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:741][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:742][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:743][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:744][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:746][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:747][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:748][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:749][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:750][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:751][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:752][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.40:753][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:061][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:061][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:062][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:063][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:064][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:065][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:066][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:066][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:068][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:069][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:069][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:070][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.19.41:070][443]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.18:353][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.21.18:868][991]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.21.18:869][991]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBaseD51E521D4F5BC9DF9BCA78BFAA611413.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.21.18:882][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 528 ms (total: 55.9 sec)
+[2024.05.29-16.21.18:887][991]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.21.18:887][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.21.32:690][383]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.29-16.21.32:990][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:992][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:992][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:995][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:996][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:997][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:998][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.32:999][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:000][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:001][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:002][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:003][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:004][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:005][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:006][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:006][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:027][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:027][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:027][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:027][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:028][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:028][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:028][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:028][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:028][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:029][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:030][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:063][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.05.29-16.21.33:080][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:081][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:083][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:083][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:085][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:086][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:087][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:088][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:089][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:090][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:091][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:092][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:092][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:094][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:095][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:423][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:423][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:424][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:425][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:426][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:427][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:427][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:428][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:429][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:430][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:430][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:432][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.33:432][383]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.21.40:577][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.21.41:064][566]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.21.41:065][566]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase6337A6084747EB0C6684DF914B48AF98.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.21.41:076][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 498 ms (total: 56.4 sec)
+[2024.05.29-16.21.41:081][566]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.21.41:081][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.22.37:947][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.22.38:437][ 94]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.22.38:438][ 94]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase7D3101CC40EFFD92FE24369D4317243B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.22.38:450][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 503 ms (total: 56.9 sec)
+[2024.05.29-16.22.38:454][ 94]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.22.38:454][ 94]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.22.46:709][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.22.47:335][361]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.22.47:336][361]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase5A57424E44BE9DED9706A1ABA1F8C1D2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.22.47:355][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 645 ms (total: 57.6 sec)
+[2024.05.29-16.22.47:366][361]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.22.47:366][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.24.12:685][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.24.13:246][706]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.24.13:246][706]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase8BBE143C450E126C34C45EA31CE5140F.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.24.13:255][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 569 ms (total: 58.2 sec)
+[2024.05.29-16.24.13:258][706]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.24.13:258][706]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.25.11:213][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.05.29-16.25.11:214][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-16.25.11:214][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-16.25.15:982][ 41]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-16.25.15:982][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.25.53:083][838]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.29-16.25.53:394][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:397][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:397][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:399][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:400][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:402][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:403][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:404][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:405][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:406][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:407][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:408][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:408][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:409][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:410][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:411][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:434][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:434][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:435][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:435][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:435][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:435][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:436][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:436][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:436][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:436][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:437][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:437][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:437][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:438][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:438][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:438][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:438][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:438][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:489][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2024.05.29-16.25.53:512][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:513][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:515][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:516][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:517][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:519][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:520][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:522][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:523][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:524][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:525][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:527][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:528][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:529][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:531][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:941][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:943][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:944][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:944][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:946][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:947][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:948][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:949][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:949][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:950][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:951][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:952][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.53:953][838]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.54:808][844]BlueprintLog: New page: Compile BP_PlayerBase
+[2024.05.29-16.25.55:043][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:044][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:045][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:047][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:049][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:050][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:051][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:052][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:052][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:054][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:055][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:056][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:057][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:057][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:058][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:059][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:081][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:081][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:082][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:082][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:082][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:082][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:082][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:083][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:083][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:083][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:083][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:083][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:084][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:084][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:084][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:084][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:085][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:085][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:132][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.05.29-16.25.55:154][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:155][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:157][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:157][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:159][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:161][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:162][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:163][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:165][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:166][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:168][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:169][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:170][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:171][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:173][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:512][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:513][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:514][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:515][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:516][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:518][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:518][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:520][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:521][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:522][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:523][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:524][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.55:524][844]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.25.57:869][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.29-16.25.57:878][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-16.25.58:314][895]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.05.29-16.25.58:314][895]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase74FF7178410E03A8544951ABF3214AE6.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.05.29-16.25.58:331][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 453 ms (total: 58.6 sec)
+[2024.05.29-16.25.58:341][895]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2024.05.29-16.25.58:341][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.05.29-16.25.58:748][905]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.29-16.25.58:756][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.29-16.25.58:756][905]PIE: New page: PIE session: MAP_Main (May 29, 2024, 10:25:58 PM)
+[2024.05.29-16.25.58:757][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.29-16.25.58:769][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012290s)
+[2024.05.29-16.25.58:769][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.012340s)
+[2024.05.29-16.25.58:792][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.05.29-16.25.58:794][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-16.25.58:794][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-16.25.58:795][905]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.29-16.25.58:795][905]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2024.05.29-16.25.58:795][905]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.29-16.25.58:795][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.29-16.25.58:795][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.29-16.25.58:796][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.29-16.25.58:796][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.29-16.25.58:796][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.29-16.25.58:799][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.29-16.25.58:833][905]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.05.29-16.25.58:833][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.29-16.25.58:833][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.29-16.25.58:833][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.29-16.25.58:834][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2024.05.29-16.25.58:834][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2024.05.29-16.25.58:838][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2024.05.29-16.25.58:838][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2024.05.29-16.25.58:838][905]LogInit: FAudioDevice initialized with ID 70.
+[2024.05.29-16.25.58:838][905]LogAudio: Display: Audio Device (ID: 70) registered with world 'MAP_Main'.
+[2024.05.29-16.25.58:838][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2024.05.29-16.25.58:889][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-16.25.58:890][905]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.29-16.25.58:911][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.05.29-19.25.58
+[2024.05.29-16.25.58:918][905]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2024.05.29-16.25.58:919][905]LogWorld: Bringing up level for play took: 0.028868
+[2024.05.29-16.25.58:922][905]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.29-16.25.58:922][905]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.29-16.25.58:923][905]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.29-16.25.58:923][905]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.29-16.25.58:923][905]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.29-16.25.58:923][905]LogNet: GameNetDriver IpNetDriver_72 IpNetDriver listening on port 17777
+[2024.05.29-16.25.58:927][905]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.29-16.25.58:927][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.29-16.25.58:958][905]PIE: Server logged in
+[2024.05.29-16.25.58:988][905]PIE: Play in editor total start time 0.232 seconds.
+[2024.05.29-16.25.58:989][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-16.25.58:989][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-16.25.58:991][905]LogPlayLevel: PIE: World Init took: (0.002600s)
+[2024.05.29-16.25.58:991][905]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2024.05.29-16.25.58:991][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.29-16.25.58:992][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.29-16.25.58:992][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.29-16.25.58:994][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.29-16.25.58:994][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.29-16.25.58:994][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.29-16.25.59:000][905]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.29-16.25.59:071][905]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.05.29-16.25.59:072][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.29-16.25.59:072][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.29-16.25.59:072][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.29-16.25.59:075][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2024.05.29-16.25.59:076][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2024.05.29-16.25.59:083][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2024.05.29-16.25.59:083][905]LogInit: FAudioDevice initialized with ID 71.
+[2024.05.29-16.25.59:084][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2024.05.29-16.25.59:084][905]LogAudio: Display: Audio Device (ID: 71) registered with world 'Untitled'.
+[2024.05.29-16.25.59:084][905]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2024.05.29-16.25.59:160][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-16.25.59:161][905]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.29-16.25.59:161][905]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.29-16.25.59:161][905]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.29-16.25.59:161][905]LogNet: IpConnection_76 setting maximum channels to: 32767
+[2024.05.29-16.25.59:161][905]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.29-16.25.59:162][905]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 0
+[2024.05.29-16.25.59:162][905]LogNet: Game client on port 17777, rate 100000
+[2024.05.29-16.25.59:178][905]PIE: Client logged in
+[2024.05.29-16.25.59:193][905]PIE: Play in editor total start time 0.437 seconds.
+[2024.05.29-16.25.59:224][905]LogViewport: Scene viewport resized to 1017x608, mode Windowed.
+[2024.05.29-16.25.59:506][905]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.29-16.26.00:549][908]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50213
+[2024.05.29-16.26.00:549][908]LogHandshake: SendConnectChallenge. Timestamp: 1.837265, Cookie: 075093175040230147211044027155195194132099032009156110202091
+[2024.05.29-16.26.00:554][908]LogHandshake: Cached server SessionID: 0
+[2024.05.29-16.26.00:554][908]LogHandshake: SendChallengeResponse. Timestamp: 1.837265, Cookie: 075093175040230147211044027155195194132099032009156110202091
+[2024.05.29-16.26.00:882][909]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50213
+[2024.05.29-16.26.00:882][909]LogHandshake: SendChallengeAck. InCookie: 075093175040230147211044027155195194132099032009156110202091
+[2024.05.29-16.26.00:882][909]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50213
+[2024.05.29-16.26.00:883][909]LogNet: IpConnection_77 setting maximum channels to: 32767
+[2024.05.29-16.26.00:883][909]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.29-16.26.00:885][909]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/29/24 19:26:00, [UNetConnection] RemoteAddr: 127.0.0.1:50213, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_72, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.29-16.26.00:885][909]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50213, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_72, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.29-16.26.00:888][909]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: PendingNetDriver IpNetDriver_73, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.29-16.26.01:214][910]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.26.01:216][910]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.26.01:218][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.29-16.26.01:218][910]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.29-16.26.01:219][910]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.29-16.26.01:219][910]LogNet: Remote platform little endian=1
+[2024.05.29-16.26.01:219][910]LogNet: This platform little endian=1
+[2024.05.29-16.26.01:225][910]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2024.05.29-16.26.01:257][911]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69 userId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69 platform: NULL
+[2024.05.29-16.26.01:260][911]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.29-16.26.01:260][911]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.29-16.26.01:260][911]LogWorld: BeginTearingDown for /Temp/Untitled_39
+[2024.05.29-16.26.01:260][911]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-16.26.01:260][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.26.01:342][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.29-16.26.01:350][911]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2024.05.29-16.26.01:392][911]LogAudio: Display: Audio Device (ID: 71) registered with world 'MAP_Main'.
+[2024.05.29-16.26.01:392][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-16.26.01:392][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-16.26.01:395][911]LogPlayLevel: PIE: World Init took: (0.002844s)
+[2024.05.29-16.26.01:407][911]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.05.29-19.26.01
+[2024.05.29-16.26.01:408][911]LogWorld: Bringing up level for play took: 0.012456
+[2024.05.29-16.26.01:408][911]LogLoad: Took 0.148177 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.29-16.26.01:522][912]LogNet: Client netspeed is 100000
+[2024.05.29-16.26.01:522][912]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69?SplitscreenCount=1
+[2024.05.29-16.26.01:525][912]LogNet: Join succeeded: DESKTOP-Q3OAHUL-60AF
+[2024.05.29-16.26.03:493][913]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.26.03:496][913]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.29-16.26.03:841][914]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.29-16.26.03:841][914]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.29-16.26.15:305][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-16.26.15:305][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.29-16.26.15:308][ 60]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.29-16.26.15:416][ 60]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-16.26.15:421][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.26.15:424][ 60]LogNet: World NetDriver shutdown IpNetDriver_73 [GameNetDriver]
+[2024.05.29-16.26.15:425][ 60]LogNet: DestroyNamedNetDriver IpNetDriver_73 [GameNetDriver]
+[2024.05.29-16.26.15:425][ 60]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: GameNetDriver IpNetDriver_73, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69, Channels: 18, Time: 2024.05.29-16.26.15
+[2024.05.29-16.26.15:425][ 60]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_76, Driver: GameNetDriver IpNetDriver_73, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69
+[2024.05.29-16.26.15:426][ 60]LogExit: GameNetDriver IpNetDriver_73 shut down
+[2024.05.29-16.26.15:431][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.29-16.26.15:433][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-16.26.15:433][ 60]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.29-16.26.15:468][ 60]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-16.26.15:471][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.26.15:472][ 60]LogNet: World NetDriver shutdown IpNetDriver_72 [GameNetDriver]
+[2024.05.29-16.26.15:472][ 60]LogNet: DestroyNamedNetDriver IpNetDriver_72 [GameNetDriver]
+[2024.05.29-16.26.15:474][ 60]LogNet: UNetConnection::SendCloseReason:
+[2024.05.29-16.26.15:474][ 60]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.29-16.26.15:474][ 60]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50213, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_72, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69
+[2024.05.29-16.26.15:474][ 60]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50213, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_72, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69, Channels: 18, Time: 2024.05.29-16.26.15
+[2024.05.29-16.26.15:474][ 60]LogNet: UNetConnection::SendCloseReason:
+[2024.05.29-16.26.15:474][ 60]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.29-16.26.15:474][ 60]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50213, Name: IpConnection_77, Driver: GameNetDriver IpNetDriver_72, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-60AFEB33482EB26169339EB65D031A69
+[2024.05.29-16.26.15:475][ 60]LogExit: GameNetDriver IpNetDriver_72 shut down
+[2024.05.29-16.26.15:482][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.29-16.26.15:504][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-16.26.15:591][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2024.05.29-16.26.15:591][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2024.05.29-16.26.15:595][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2024.05.29-16.26.15:607][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2024.05.29-16.26.15:607][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.05.29-16.26.15:611][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.05.29-16.26.15:637][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.05.29-16.26.15:746][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2024.05.29-16.26.15:747][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_140
