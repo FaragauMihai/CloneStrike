@@ -39,6 +39,12 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_RifleReload.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_Footsteps.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Crosshair.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_ShootWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_AK47_Gunshot.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_M4A1_Gunshot_Cue.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SFX_Pistol_Gunshot_Cue.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_M4A1_Gunshot.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_Pistol_Gunshot.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_PromaryWeapon.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_SecondaryInput.uasset"
 			]
