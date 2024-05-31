@@ -2521,3 +2521,215 @@ Continue: Skip saving this asset only.
 [2024.05.31-14.28.04:129][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2024.05.31-14.28.04:163][947]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2024.05.31-14.28.04:163][947]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.05.31-14.28.40:288][163]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.31-14.28.40:294][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.31-14.28.40:294][163]PIE: New page: PIE session: MAP_Main (May 31, 2024, 8:28:40 PM)
+[2024.05.31-14.28.40:294][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.31-14.28.40:302][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008383s)
+[2024.05.31-14.28.40:302][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.008415s)
+[2024.05.31-14.28.40:319][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.31-14.28.40:321][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-14.28.40:321][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-14.28.40:321][163]LogAIModule: Creating AISystem for world MAP_Main
+[2024.05.31-14.28.40:322][163]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2024.05.31-14.28.40:322][163]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-14.28.40:322][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-14.28.40:322][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-14.28.40:322][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-14.28.40:322][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-14.28.40:322][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-14.28.40:324][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-14.28.40:340][163]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.05.31-14.28.40:341][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-14.28.40:341][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-14.28.40:341][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-14.28.40:342][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.31-14.28.40:342][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.31-14.28.40:344][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.31-14.28.40:344][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.31-14.28.40:345][163]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.31-14.28.40:345][163]LogAudio: Display: Audio Device (ID: 12) registered with world 'MAP_Main'.
+[2024.05.31-14.28.40:345][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.31-14.28.40:372][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-14.28.40:372][163]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.05.31-14.28.40:378][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.31-17.28.40
+[2024.05.31-14.28.40:380][163]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.05.31-14.28.40:380][163]LogWorld: Bringing up level for play took: 0.007727
+[2024.05.31-14.28.40:381][163]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.05.31-14.28.40:381][163]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.05.31-14.28.40:381][163]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.05.31-14.28.40:381][163]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.05.31-14.28.40:381][163]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.31-14.28.40:381][163]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2024.05.31-14.28.40:382][163]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.31-14.28.40:382][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.31-14.28.40:385][163]PIE: Server logged in
+[2024.05.31-14.28.40:388][163]PIE: Play in editor total start time 0.094 seconds.
+[2024.05.31-14.28.40:388][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-14.28.40:388][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-14.28.40:389][163]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2024.05.31-14.28.40:389][163]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.31-14.28.40:389][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.31-14.28.40:389][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.31-14.28.40:390][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.31-14.28.40:390][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.31-14.28.40:390][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.31-14.28.40:392][163]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.31-14.28.40:408][163]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.05.31-14.28.40:409][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.31-14.28.40:409][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.31-14.28.40:409][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.31-14.28.40:410][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.31-14.28.40:410][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.31-14.28.40:412][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.31-14.28.40:412][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.31-14.28.40:412][163]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.31-14.28.40:412][163]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2024.05.31-14.28.40:412][163]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.31-14.28.40:440][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-14.28.40:440][163]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.05.31-14.28.40:440][163]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.05.31-14.28.40:440][163]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.05.31-14.28.40:440][163]LogNet: IpConnection_10 setting maximum channels to: 32767
+[2024.05.31-14.28.40:440][163]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.31-14.28.40:441][163]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2024.05.31-14.28.40:441][163]LogNet: Game client on port 17777, rate 100000
+[2024.05.31-14.28.40:446][163]PIE: Client logged in
+[2024.05.31-14.28.40:449][163]PIE: Play in editor total start time 0.156 seconds.
+[2024.05.31-14.28.40:471][163]LogViewport: Scene viewport resized to 1084x630, mode Windowed.
+[2024.05.31-14.28.40:603][163]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.05.31-14.28.41:462][204]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61261
+[2024.05.31-14.28.41:462][204]LogHandshake: SendConnectChallenge. Timestamp: 1.507702, Cookie: 196086243029008236167141225168160137019080071110201074165069
+[2024.05.31-14.28.41:463][204]LogHandshake: Cached server SessionID: 0
+[2024.05.31-14.28.41:463][204]LogHandshake: SendChallengeResponse. Timestamp: 1.507702, Cookie: 196086243029008236167141225168160137019080071110201074165069
+[2024.05.31-14.28.41:488][205]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61261
+[2024.05.31-14.28.41:489][205]LogHandshake: SendChallengeAck. InCookie: 196086243029008236167141225168160137019080071110201074165069
+[2024.05.31-14.28.41:489][205]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61261
+[2024.05.31-14.28.41:489][205]LogNet: IpConnection_11 setting maximum channels to: 32767
+[2024.05.31-14.28.41:489][205]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.05.31-14.28.41:489][205]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 05/31/24 17:28:41, [UNetConnection] RemoteAddr: 127.0.0.1:61261, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.31-14.28.41:489][205]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61261, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.31-14.28.41:490][205]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.05.31-14.28.41:506][206]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.05.31-14.28.41:506][206]LogNet: Remote platform little endian=1
+[2024.05.31-14.28.41:506][206]LogNet: This platform little endian=1
+[2024.05.31-14.28.41:509][206]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.05.31-14.28.41:526][207]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD userId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD platform: NULL
+[2024.05.31-14.28.41:527][207]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.05.31-14.28.41:527][207]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.05.31-14.28.41:527][207]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2024.05.31-14.28.41:527][207]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.28.41:527][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.28.41:543][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.31-14.28.41:545][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.05.31-14.28.41:556][207]LogAudio: Display: Audio Device (ID: 13) registered with world 'MAP_Main'.
+[2024.05.31-14.28.41:556][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-14.28.41:556][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-14.28.41:556][207]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2024.05.31-14.28.41:560][207]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.05.31-17.28.41
+[2024.05.31-14.28.41:560][207]LogWorld: Bringing up level for play took: 0.003311
+[2024.05.31-14.28.41:560][207]LogLoad: Took 0.032596 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.05.31-14.28.41:585][208]LogNet: Client netspeed is 100000
+[2024.05.31-14.28.41:585][208]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD?SplitscreenCount=1
+[2024.05.31-14.28.41:586][208]LogNet: Join succeeded: DESKTOP-Q3OAHUL-AEA5
+[2024.05.31-14.28.42:101][209]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.31-14.28.42:101][209]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.31-14.28.43:186][254]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.31-14.28.43:188][254]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.31-14.28.43:192][254]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.31-14.28.43:192][254]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.31-14.28.43:192][254]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.31-14.28.43:193][254]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.05.31-14.28.49:010][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-14.28.49:011][497]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.05.31-14.28.49:012][497]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-14.28.49:022][497]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.28.49:023][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.28.49:024][497]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2024.05.31-14.28.49:024][497]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2024.05.31-14.28.49:024][497]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD, Channels: 18, Time: 2024.05.31-14.28.49
+[2024.05.31-14.28.49:024][497]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD
+[2024.05.31-14.28.49:024][497]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2024.05.31-14.28.49:026][497]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.05.31-14.28.49:026][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.31-14.28.49:026][497]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.05.31-14.28.49:031][497]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.28.49:032][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.28.49:033][497]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2024.05.31-14.28.49:033][497]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2024.05.31-14.28.49:033][497]LogNet: UNetConnection::SendCloseReason:
+[2024.05.31-14.28.49:033][497]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.05.31-14.28.49:033][497]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:61261, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD
+[2024.05.31-14.28.49:033][497]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61261, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD, Channels: 18, Time: 2024.05.31-14.28.49
+[2024.05.31-14.28.49:033][497]LogNet: UNetConnection::SendCloseReason:
+[2024.05.31-14.28.49:033][497]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.05.31-14.28.49:033][497]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61261, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-AEA5E5774467959F13388ABEB63B41AD
+[2024.05.31-14.28.49:033][497]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2024.05.31-14.28.49:035][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.31-14.28.49:042][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.28.49:058][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.31-14.28.49:059][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.31-14.28.49:060][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.31-14.28.49:066][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.31-14.28.49:066][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.31-14.28.49:067][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.31-14.28.49:076][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.31-14.28.49:105][498]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.05.31-14.28.49:105][498]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.31-14.29.14:058][620]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.29.14:059][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.29.14:064][620]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.29.14:064][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.29.20:452][686]LogSlate: Window 'PC_CounterStrike' being destroyed
+[2024.05.31-14.29.20:603][686]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-14.29.20:603][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-14.29.24:306][848]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.29.46:038][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.29.46:068][730]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.29.46:069][730]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfoAD9350064E424D21D83D1F8874AD25F1.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.29.46:207][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 23.3 sec)
+[2024.05.31-14.29.46:208][730]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.29.46:208][730]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.30.01:961][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.30.01:991][280]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.30.01:992][280]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo237D94BE449FD5CEC4C5B39714E30862.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.30.01:998][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 23.4 sec)
+[2024.05.31-14.30.02:001][280]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.30.02:001][280]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.30.20:216][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.30.20:455][702]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.30.20:455][702]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo38CEB9C14D190B52948442A2760BD55E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.30.20:462][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 23.6 sec)
+[2024.05.31-14.30.20:463][702]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.30.20:463][702]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.30.48:733][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.30.48:763][585]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.30.48:763][585]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfoA5518D1340E5FC7FF0CA83B404EC4359.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.30.48:769][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 23.6 sec)
+[2024.05.31-14.30.48:770][585]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.30.48:770][585]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.31.41:926][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.31.41:958][566]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.31.41:958][566]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfoDE26E01147B02C4EF4B0BCAAA34011A6.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.31.41:965][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 23.7 sec)
+[2024.05.31-14.31.41:966][566]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.31.41:966][566]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.31.45:543][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-14.31.45:576][779]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.05.31-14.31.45:576][779]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo81F03517498532E405E02CB3BCA45134.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.05.31-14.31.45:582][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 23.7 sec)
+[2024.05.31-14.31.45:582][779]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.05.31-14.31.45:583][779]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.05.31-14.31.46:964][862]LogSlate: Window 'ST_WeaponInfo' being destroyed
