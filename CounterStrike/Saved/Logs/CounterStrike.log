@@ -1197,3 +1197,638 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.02-07.44.15:006][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 563 ms)
 [2024.06.02-07.44.15:008][101]AssetCheck: New page: Asset Save: WB_Main
 [2024.06.02-07.44.15:008][101]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.02-07.45.45:010][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.06.02-07.45.45:012][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.109
+[2024.06.02-07.45.45:013][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.06.02-07.45.45:021][302]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.06.02-07.45.45:021][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.06.02-07.45.45:045][302]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto2
+[2024.06.02-07.45.45:046][302]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto230D909A2478CCEBBAEC83B813D4DDF0C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto2.uasset'
+[2024.06.02-07.45.45:046][302]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.06.02-08.08.18:374][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.06.02-08.08.18:378][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.08.18:438][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.02-08.08.18:451][633]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.02-08.08.18:451][633]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainE5CBDB214BBB7D090DFC139597A1B525.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.02-08.08.18:458][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 644 ms)
+[2024.06.02-08.08.18:461][633]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.02-08.08.18:461][633]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.02-08.08.22:359][803]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-08.08.22:359][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.08.22:376][803]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-08.08.22:376][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.10.13:508][804]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.114 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7002 files in 9222 folders with total size 454 MiB.
+[2024.06.02-08.10.49:190][ 69]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.06.02-08.10.52:535][ 85]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.06.02-08.11.32:448][330]LogSlate: Took 0.342600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.06.02-08.12.32:624][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.02-08.12.32:625][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.025
+[2024.06.02-08.12.32:626][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_PlayerBase] ([2] browsable assets)...
+[2024.06.02-08.12.32:626][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerBase]
+[2024.06.02-08.12.32:873][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto3
+[2024.06.02-08.12.32:873][717]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase_Auto3BF4A385B41CB25CA55FB96B7AD77A90D.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerBase_Auto3.uasset'
+[2024.06.02-08.12.32:875][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Structs/ST_WeaponInfo] ([1] browsable assets)...
+[2024.06.02-08.12.32:875][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Structs/ST_WeaponInfo]
+[2024.06.02-08.12.32:876][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Structs/ST_WeaponInfo_Auto3
+[2024.06.02-08.12.32:876][717]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo_Auto3067D198B476DF9D061A589809F10100C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Structs/ST_WeaponInfo_Auto3.uasset'
+[2024.06.02-08.12.32:877][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase] ([2] browsable assets)...
+[2024.06.02-08.12.32:877][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase]
+[2024.06.02-08.12.32:912][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto3
+[2024.06.02-08.12.32:913][717]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase_Auto30C8DF4B54D19EF068394A5983C089DBE.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto3.uasset'
+[2024.06.02-08.12.32:914][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Libraries/BP_FunctionLibrary] ([2] browsable assets)...
+[2024.06.02-08.12.32:914][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Libraries/BP_FunctionLibrary]
+[2024.06.02-08.12.32:917][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Libraries/BP_FunctionLibrary_Auto3
+[2024.06.02-08.12.32:917][717]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary_Auto3E945B144426EA75812A122B0B903500A.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Libraries/BP_FunctionLibrary_Auto3.uasset'
+[2024.06.02-08.12.32:917][717]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/DataTables/DT_WeaponInfo] ([1] browsable assets)...
+[2024.06.02-08.12.32:917][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/DataTables/DT_WeaponInfo]
+[2024.06.02-08.12.32:919][717]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/DataTables/DT_WeaponInfo_Auto3
+[2024.06.02-08.12.32:919][717]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo_Auto3F7B9C9394C83D4F425E2DCAADAFB1701.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/DataTables/DT_WeaponInfo_Auto3.uasset'
+[2024.06.02-08.12.32:919][717]LogFileHelpers: Auto-saving content packages took 0.293
+[2024.06.02-08.15.01:568][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.15.01:623][298]LogSavePackage: Moving output files for package: /Game/Blueprints/Structs/ST_WeaponInfo
+[2024.06.02-08.15.01:623][298]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/ST_WeaponInfo489238914D701076A62E35A6ACEB8151.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Structs/ST_WeaponInfo.uasset'
+[2024.06.02-08.15.01:633][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 709 ms)
+[2024.06.02-08.15.01:640][298]AssetCheck: New page: Asset Save: ST_WeaponInfo
+[2024.06.02-08.15.01:640][298]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.06.02-08.15.02:761][306]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.06.02-08.17.47:296][815]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Structs/ST_WeaponInfo.ST_WeaponInfo
+[2024.06.02-08.20.32:222][363]LogSlate: Window 'ST_WeaponInfo' being destroyed
+[2024.06.02-08.20.33:542][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.20.33:747][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: ================================================
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: Total job queries 26, among them cache hits 5 (19.23%)
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 17 distinct outputs (80.95%)
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: RAM used: 565.14 KiB of 819.20 MiB budget. Usage: 0.07%
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.02-08.20.33:748][376]LogShaderCompilers: Display: ================================================
+[2024.06.02-08.20.34:055][377]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.20.42:194][463]LogCSVImportFactory: Imported DataTable 'DT_WeaponInfo' - 0 Problems
+[2024.06.02-08.20.44:057][480]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.02-08.20.44:389][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.21.00:104][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.21.00:198][232]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.06.02-08.21.00:198][232]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfo720B67194447B9E1C29C248DE5E50FB8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.06.02-08.21.00:213][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 818 ms)
+[2024.06.02-08.21.00:214][232]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.06.02-08.21.00:214][232]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.02-08.21.05:184][354]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.02-08.21.24:573][821]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.02-08.22.02:308][113]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.02-08.22.02:742][113]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.02-08.22.02:755][113]LogPlayLevel: [PlayLevel] Compiling AnimBP_Player before play...
+[2024.06.02-08.22.02:759][113]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerBase as a dependent...
+[2024.06.02-08.22.02:759][113]LogPlayLevel: [PlayLevel]   Compiling BP_CounterTerrorist as a dependent...
+[2024.06.02-08.22.02:759][113]LogPlayLevel: [PlayLevel]   Compiling BP_Terrorist as a dependent...
+[2024.06.02-08.22.02:952][113]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-08.22.02:979][113]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-08.22.03:005][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.22.03:161][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_PlayerBase
+[2024.06.02-08.22.03:161][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_PlayerBase3F846CEE448A83B1BC4E31964F58C397.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/BP_PlayerBase.uasset'
+[2024.06.02-08.22.03:174][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 987 ms)
+[2024.06.02-08.22.03:190][113]LogPlayLevel: [PlayLevel] Compiling BP_WeaponBase before play...
+[2024.06.02-08.22.03:190][113]LogPlayLevel: [PlayLevel]   Compiling BP_AK47 as a dependent...
+[2024.06.02-08.22.03:190][113]LogPlayLevel: [PlayLevel]   Compiling BP_M4A1 as a dependent...
+[2024.06.02-08.22.03:190][113]LogPlayLevel: [PlayLevel]   Compiling BP_Pistol as a dependent...
+[2024.06.02-08.22.03:258][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.22.03:306][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-08.22.03:306][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase811D2666418FE56AE43AFDB51211CD50.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-08.22.03:314][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.04 sec)
+[2024.06.02-08.22.03:321][113]LogPlayLevel: [PlayLevel] Compiling BP_FunctionLibrary before play...
+[2024.06.02-08.22.03:336][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-08.22.03:371][113]LogSavePackage: Moving output files for package: /Game/Blueprints/Libraries/BP_FunctionLibrary
+[2024.06.02-08.22.03:371][113]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_FunctionLibrary01F61CA84797891550B1068930F98F29.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Libraries/BP_FunctionLibrary.uasset'
+[2024.06.02-08.22.03:397][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.10 sec)
+[2024.06.02-08.22.03:402][113]LogPlayLevel: [PlayLevel] Compiling WB_Main before play...
+[2024.06.02-08.22.03:449][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.06.02-08.22.03:450][113]LogPlayLevel: PlayLevel: Blueprint regeneration took 707 ms (10 blueprints)
+[2024.06.02-08.22.03:479][113]PIE: New page: PIE session: MAP_Main (Jun 2, 2024, 2:22:03 PM)
+[2024.06.02-08.22.03:488][113]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.06.02-08.22.03:489][113]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.06.02-08.22.03:505][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.02-08.22.03:515][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010109s)
+[2024.06.02-08.22.03:515][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.010159s)
+[2024.06.02-08.22.03:532][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.06.02-08.22.03:532][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.22.03:532][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-08.22.03:533][113]LogAIModule: Creating AISystem for world MAP_Main
+[2024.06.02-08.22.03:533][113]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2024.06.02-08.22.03:533][113]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.02-08.22.03:533][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.02-08.22.03:533][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-08.22.03:533][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-08.22.03:533][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-08.22.03:533][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-08.22.03:535][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-08.22.03:553][113]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.06.02-08.22.03:553][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-08.22.03:553][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-08.22.03:553][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-08.22.03:555][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.06.02-08.22.03:555][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.06.02-08.22.03:556][113]LogInit: FAudioDevice initialized with ID 2.
+[2024.06.02-08.22.03:556][113]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Main'.
+[2024.06.02-08.22.03:556][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.02-08.22.03:556][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.06.02-08.22.03:556][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.06.02-08.22.03:601][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-08.22.03:615][113]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.06.02-08.22.03:620][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.02-11.22.03
+[2024.06.02-08.22.03:622][113]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.06.02-08.22.03:648][113]LogWorld: Bringing up level for play took: 0.032241
+[2024.06.02-08.22.03:690][113]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.06.02-08.22.03:690][113]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.02-08.22.03:690][113]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.06.02-08.22.03:690][113]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.06.02-08.22.03:695][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.02-08.22.03:695][113]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2024.06.02-08.22.03:738][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.02-08.22.03:738][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.02-08.22.03:740][113]PIE: Server logged in
+[2024.06.02-08.22.03:742][113]PIE: Play in editor total start time 1.33 seconds.
+[2024.06.02-08.22.03:742][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.22.03:742][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-08.22.03:743][113]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2024.06.02-08.22.03:743][113]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.02-08.22.03:743][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.02-08.22.03:743][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-08.22.03:743][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-08.22.03:743][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-08.22.03:743][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-08.22.03:744][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.02-08.22.03:761][113]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL TUNE720BT Stereo)
+[2024.06.02-08.22.03:762][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-08.22.03:762][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-08.22.03:762][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-08.22.03:762][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.02-08.22.03:763][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.02-08.22.03:765][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.02-08.22.03:765][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.02-08.22.03:765][113]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.02-08.22.03:765][113]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2024.06.02-08.22.03:765][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.02-08.22.03:804][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-08.22.03:804][113]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.06.02-08.22.03:804][113]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.06.02-08.22.03:804][113]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.06.02-08.22.03:804][113]LogNet: IpConnection_0 setting maximum channels to: 32767
+[2024.06.02-08.22.03:805][113]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.02-08.22.03:814][113]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2024.06.02-08.22.03:814][113]LogNet: Game client on port 17777, rate 100000
+[2024.06.02-08.22.03:858][113]LogNetVersion: CounterStrike 1.0.0.0, NetCL: 27405482, EngineNetworkVersion: 32, GameNetworkVersion: 0 (Checksum: 57310754)
+[2024.06.02-08.22.03:859][113]PIE: Client logged in
+[2024.06.02-08.22.03:860][113]PIE: Play in editor total start time 1.449 seconds.
+[2024.06.02-08.22.04:028][113]LogViewport: Scene viewport resized to 1084x630, mode Windowed.
+[2024.06.02-08.22.04:561][113]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.06.02-08.22.05:092][114]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.02-08.22.05:092][114]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.06.02-08.22.05:092][114]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-08.22.05:092][114]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Libraries/BP_FunctionLibrary.BP_FunctionLibrary
+[2024.06.02-08.22.05:694][115]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62304
+[2024.06.02-08.22.05:694][115]LogHandshake: SendConnectChallenge. Timestamp: 3.718580, Cookie: 206141242001019019167017202127118053213105076197160215169163
+[2024.06.02-08.22.05:696][115]LogHandshake: Cached server SessionID: 0
+[2024.06.02-08.22.05:696][115]LogHandshake: SendChallengeResponse. Timestamp: 3.718580, Cookie: 206141242001019019167017202127118053213105076197160215169163
+[2024.06.02-08.22.06:261][116]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62304
+[2024.06.02-08.22.06:261][116]LogHandshake: SendChallengeAck. InCookie: 206141242001019019167017202127118053213105076197160215169163
+[2024.06.02-08.22.06:261][116]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62304
+[2024.06.02-08.22.06:262][116]LogNet: IpConnection_1 setting maximum channels to: 32767
+[2024.06.02-08.22.06:262][116]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.02-08.22.06:262][116]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 06/02/24 11:22:06, [UNetConnection] RemoteAddr: 127.0.0.1:62304, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.02-08.22.06:263][116]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62304, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.02-08.22.06:266][116]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.02-08.22.06:293][117]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.06.02-08.22.06:293][117]LogNet: Remote platform little endian=1
+[2024.06.02-08.22.06:293][117]LogNet: This platform little endian=1
+[2024.06.02-08.22.06:298][117]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.06.02-08.22.06:331][118]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE userId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE platform: NULL
+[2024.06.02-08.22.06:333][118]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.06.02-08.22.06:333][118]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.06.02-08.22.06:333][118]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2024.06.02-08.22.06:333][118]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-08.22.06:333][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.22.06:386][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.02-08.22.06:882][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.06.02-08.22.06:896][118]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Main'.
+[2024.06.02-08.22.06:896][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.22.06:896][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-08.22.06:897][118]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2024.06.02-08.22.06:901][118]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.02-11.22.06
+[2024.06.02-08.22.06:901][118]LogWorld: Bringing up level for play took: 0.004304
+[2024.06.02-08.22.06:912][118]LogLoad: Took 0.579160 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.06.02-08.22.06:962][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:962][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:962][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:962][119]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-08.22.06:966][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:970][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:970][119]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.06:971][119]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.02-08.22.06:971][119]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.02-08.22.06:973][119]LogNet: Client netspeed is 100000
+[2024.06.02-08.22.06:973][119]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE?SplitscreenCount=1
+[2024.06.02-08.22.07:033][119]LogNet: Join succeeded: DESKTOP-Q3OAHUL-D231
+[2024.06.02-08.22.08:432][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.08:435][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.08:435][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.08:435][120]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.08:435][120]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-08.22.09:273][121]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.02-08.22.09:273][121]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.02-08.22.09:273][121]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_CounterTerrorist_C /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main:PersistentLevel.BP_CounterTerrorist_C_0)
+[2024.06.02-08.22.12:331][127]LogViewport: Scene viewport resized to 512x384, mode Windowed.
+[2024.06.02-08.22.37:973][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-08.22.37:973][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.06.02-08.22.37:973][200]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.02-08.22.38:048][200]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-08.22.38:050][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.22.38:052][200]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2024.06.02-08.22.38:052][200]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2024.06.02-08.22.38:053][200]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE, Channels: 34, Time: 2024.06.02-08.22.38
+[2024.06.02-08.22.38:053][200]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE
+[2024.06.02-08.22.38:054][200]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2024.06.02-08.22.38:057][200]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.02-08.22.38:058][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-08.22.38:058][200]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.02-08.22.38:062][200]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-08.22.38:064][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.22.38:065][200]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2024.06.02-08.22.38:065][200]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2024.06.02-08.22.38:065][200]LogNet: UNetConnection::SendCloseReason:
+[2024.06.02-08.22.38:065][200]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.06.02-08.22.38:066][200]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62304, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE
+[2024.06.02-08.22.38:066][200]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62304, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE, Channels: 34, Time: 2024.06.02-08.22.38
+[2024.06.02-08.22.38:066][200]LogNet: UNetConnection::SendCloseReason:
+[2024.06.02-08.22.38:066][200]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.06.02-08.22.38:066][200]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62304, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-D231C1884F82A82FE3056FB8B3D698FE
+[2024.06.02-08.22.38:066][200]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2024.06.02-08.22.38:069][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-08.22.38:077][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-08.22.38:179][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.02-08.22.38:180][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.02-08.22.38:181][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.02-08.22.38:433][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.02-08.22.38:433][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.02-08.22.38:438][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.02-08.22.38:987][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2024.06.02-08.22.39:052][201]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.06.02-08.22.39:052][201]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.06.02-08.24.17:113][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-08.24.17:450][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-08.24.17:451][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-08.27.02:061][229]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.06.02-08.27.02:144][229]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16688
+[2024.06.02-08.27.03:231][235]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{335e0bb3-92b1-48bb-8d44-9039dfd93686}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=909.47
+[2024.06.02-08.27.03:231][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.02-08.27.03:233][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 0 (Found bundle for host: 0x90609960b10 [serially])
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 6 (Closing connection)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: 000009068856FA00: libcurl info message cache 10 (Closing connection)
+[2024.06.02-08.44.30:488][380]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-08.45.13:833][510]LogHttp: Warning: 0000090688569B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-08.45.13:833][510]LogHttp: Warning: 0000090688569B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-08.45.13:833][510]LogHttp: Warning: 0000090688569B00: libcurl info message cache 1 (Closing connection)
+[2024.06.02-08.45.13:833][510]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-08.46.13:842][690]LogHttp: Warning: 000009068856F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-08.46.13:842][690]LogHttp: Warning: 000009068856F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-08.46.13:842][690]LogHttp: Warning: 000009068856F000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-08.46.13:842][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 0 (Connection 5 seems to be dead)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 1 (Closing connection)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 3 (Send failure: Connection was reset)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: 0000090685E91400: libcurl info message cache 6 (Closing connection)
+[2024.06.02-08.59.20:312][ 49]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.00.13:655][209]LogHttp: Warning: 000009067CD60000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.00.13:656][209]LogHttp: Warning: 000009067CD60000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.00.13:656][209]LogHttp: Warning: 000009067CD60000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.00.13:656][209]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.01.25:665][425]LogHttp: Warning: 0000090677074600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.01.25:665][425]LogHttp: Warning: 0000090677074600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.01.25:665][425]LogHttp: Warning: 0000090677074600: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.01.25:665][425]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.02.13:671][569]LogHttp: Warning: 0000090677070000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.02.13:671][569]LogHttp: Warning: 0000090677070000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.02.13:671][569]LogHttp: Warning: 0000090677070000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.02.13:671][569]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.03.13:693][749]LogHttp: Warning: 0000090677070000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.03.13:693][749]LogHttp: Warning: 0000090677070000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.03.13:693][749]LogHttp: Warning: 0000090677070000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.03.13:693][749]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.04.13:687][929]LogHttp: Warning: 0000090677071E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.04.13:687][929]LogHttp: Warning: 0000090677071E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.04.13:687][929]LogHttp: Warning: 0000090677071E00: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.04.13:687][929]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.05.13:703][109]LogHttp: Warning: 0000090677071E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.05.13:703][109]LogHttp: Warning: 0000090677071E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.05.13:703][109]LogHttp: Warning: 0000090677071E00: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.05.13:703][109]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.06.25:718][325]LogHttp: Warning: 0000090677070000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.06.25:718][325]LogHttp: Warning: 0000090677070000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.06.25:718][325]LogHttp: Warning: 0000090677070000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.06.25:718][325]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.10.13:573][  8]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7002 files in 9222 folders with total size 454 MiB.
+[2024.06.02-09.10.25:772][ 45]LogHttp: Warning: 0000090677074600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.10.25:772][ 45]LogHttp: Warning: 0000090677074600: libcurl info message cache 0 (Found bundle for host: 0x906099603c0 [serially])
+[2024.06.02-09.10.25:772][ 45]LogHttp: Warning: 0000090677074600: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.10.25:772][ 45]LogHttp: Warning: 0000090677074600: libcurl info message cache 2 (Closing connection)
+[2024.06.02-09.10.25:772][ 45]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.10.31:764][ 62]LogHttp: Warning: 000009067707B900: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: request failed, libcurl error: 0 (No error)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 0 (  Trying 54.198.86.66:443...)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (54.198.86.66) port 443)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 2 (ALPN: curl offers http/1.1)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 3 (SSL reusing session ID)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 8 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 9 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 10 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 12 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 13 (ALPN: server accepted http/1.1)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 14 (Server certificate:)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 15 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 16 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 17 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 18 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 19 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 20 ( SSL certificate verify ok.)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 21 (using HTTP/1.1)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 22 (We are completely uploaded and fine)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 23 (Closing connection)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: 000009067707B900: libcurl info message cache 24 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.02-09.10.31:772][ 63]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.11.13:774][189]LogHttp: Warning: 000009067707B900: request failed, libcurl error: 7 (Couldn't connect to server)
+[2024.06.02-09.11.13:774][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 0 (Found bundle for host: 0x90609960570 [serially])
+[2024.06.02-09.11.13:774][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 1 (Connection #17 isn't open enough, can't reuse)
+[2024.06.02-09.11.13:774][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 2 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 3 (  Trying 44.194.190.161:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 4 (connect to 44.194.190.161 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 5 (  Trying 52.86.139.62:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 6 (connect to 52.86.139.62 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 7 (  Trying 44.216.6.194:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 8 (connect to 44.216.6.194 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 9 (  Trying 34.224.220.83:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 10 (connect to 34.224.220.83 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 11 (  Trying 107.23.132.60:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 12 (connect to 107.23.132.60 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 13 (  Trying 35.153.42.7:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 14 (connect to 35.153.42.7 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 15 (  Trying 34.228.202.179:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 16 (connect to 34.228.202.179 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 17 (  Trying 54.235.246.69:443...)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 18 (connect to 54.235.246.69 port 443 failed: Host unreachable)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443 after 70 ms: Couldn't connect to server)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: 000009067707B900: libcurl info message cache 20 (Closing connection)
+[2024.06.02-09.11.13:775][189]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.11.15:439][194]LogHttp: Warning: 0000090677071E00: request failed, libcurl error: 35 (SSL connect error)
+[2024.06.02-09.11.15:439][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 0 (Found bundle for host: 0x906099603c0 [serially])
+[2024.06.02-09.11.15:439][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.02-09.11.15:439][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.02-09.11.15:439][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 7 (Closing connection)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 12 (  Trying 44.194.190.161:443...)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (44.194.190.161) port 443)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 18 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 19 (Closing connection)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 20 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: 0000090677071E00: libcurl info message cache 21 (Recv failure: Connection was reset)
+[2024.06.02-09.11.15:440][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.12.13:782][369]LogHttp: Warning: 0000090677071E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.12.13:782][369]LogHttp: Warning: 0000090677071E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.06.02-09.12.13:782][369]LogHttp: Warning: 0000090677071E00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.12.13:782][369]LogHttp: Warning: 0000090677071E00: libcurl info message cache 2 (Closing connection)
+[2024.06.02-09.12.13:782][369]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 0 (Found bundle for host: 0x90609960f60 [serially])
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 7 (Closing connection)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: 0000090677074600: libcurl info message cache 13 (Closing connection)
+[2024.06.02-09.19.48:667][730]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 0 (Found bundle for host: 0x90609960060 [serially])
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 7 (Closing connection)
+[2024.06.02-09.33.36:497][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: 0000090677074600: libcurl info message cache 13 (Closing connection)
+[2024.06.02-09.33.36:498][213]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.34.14:822][328]LogHttp: Warning: 0000090677070000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.02-09.34.14:822][328]LogHttp: Warning: 0000090677070000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.02-09.34.14:822][328]LogHttp: Warning: 0000090677070000: libcurl info message cache 1 (Closing connection)
+[2024.06.02-09.34.14:822][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.36.20:509][705]LogHttp: Warning: 000009067CBF7D00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.02-09.36.20:509][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 0 (Found bundle for host: 0x90609960570 [serially])
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 6 (Closing connection)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 9 (  Trying 44.207.29.190:443...)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.207.29.190) port 443)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 23 (Server certificate:)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 25 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 26 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 30 (using HTTP/1.1)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 32 (Closing connection)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: 000009067CBF7D00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.02-09.36.20:510][705]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55ED893B-43B9-D16E-CF34-5E87523585F6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.02-09.39.42:092][309]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT Stereo), InstanceID=1
+[2024.06.02-09.39.42:171][309]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.06.02-09.39.42:206][309]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (JBL TUNE720BT Stereo), InstanceID=1
+[2024.06.02-09.39.42:207][309]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16688
+[2024.06.02-09.39.42:544][310]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{15c0c96e-b766-43d4-8146-c0c45cd75750}, Name=Headphones (JBL TUNE720BT Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.63
+[2024.06.02-09.39.42:545][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.02-09.39.42:546][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.02-09.41.33:332][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.41.33:649][889]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.41.33:649][889]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBaseCCB0105745CA1A2AFF8004B17F33D3A4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.41.33:659][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 326 ms (total: 1.43 sec)
+[2024.06.02-09.41.33:660][889]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.41.33:660][889]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.41.55:319][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.41.55:633][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.41.55:634][ 14]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase310CC7304A789A511CA67CA49BAEA990.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.41.55:641][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 1.75 sec)
+[2024.06.02-09.41.55:642][ 14]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.41.55:642][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.41.56:186][ 21]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.06.02-09.41.56:357][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.06.02-09.43.37:693][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.06.02-09.43.37:695][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.022
+[2024.06.02-09.43.37:695][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_WeaponBase] ([2] browsable assets)...
+[2024.06.02-09.43.37:695][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_WeaponBase]
+[2024.06.02-09.43.37:714][657]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto4
+[2024.06.02-09.43.37:715][657]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase_Auto4FF06133C472373A87D62A0BC72700F3E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/Blueprints/Weapons/BP_WeaponBase_Auto4.uasset'
+[2024.06.02-09.43.37:715][657]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.06.02-09.46.34:878][487]LogEditorTransaction: Undo Add Node
+[2024.06.02-09.46.58:802][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.46.59:121][810]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.46.59:121][810]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBaseDFA161A746E5BECE016F28B4F697122C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.46.59:129][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 328 ms (total: 2.08 sec)
+[2024.06.02-09.46.59:131][810]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.46.59:131][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.50.31:117][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.50.31:622][729]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.50.31:622][729]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase7031B9244149A478174DFE9CBEA0EE9C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.50.31:628][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 510 ms (total: 2.59 sec)
+[2024.06.02-09.50.31:632][729]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.50.31:632][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.51.17:151][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.51.17:475][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.51.17:475][ 96]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase54622458451F772909CBD1B8D0998A33.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.51.17:484][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 2.92 sec)
+[2024.06.02-09.51.17:486][ 96]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.51.17:486][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.51.54:960][469]BlueprintLog: New page: Compile BP_WeaponBase
+[2024.06.02-09.51.55:465][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.02-09.51.55:496][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.51.55:553][469]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.51.55:553][469]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBase73C8C19147F5FAFAD178F188A7455F1B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.51.55:561][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 2.98 sec)
+[2024.06.02-09.51.55:624][469]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.02-09.51.55:630][469]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.51.55:630][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
+[2024.06.02-09.52.01:048][506]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-09.52.02:685][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.06.02-09.52.02:686][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.02-09.52.02:686][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.02-09.52.02:975][515]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_PlayerBase_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0)
+[2024.06.02-09.52.02:975][515]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_PlayerBase_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0)
+[2024.06.02-09.52.02:975][515]LogSkinnedMeshComp: Warning: GetSocketInfoByName(S_Camera): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_PlayerBase_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0)
+[2024.06.02-09.52.02:975][515]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.02-09.52.03:143][515]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:147][515]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:696][516]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:763][517]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:779][518]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:797][519]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.03:911][520]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:043][521]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:175][522]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:305][523]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:436][524]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:568][525]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:696][526]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.04:825][527]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.05:098][529]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.05:233][530]LogScript: Warning: Accessed None trying to read property CharacterMovement
+	AnimBP_Player_C /Engine/Transient.World_14:PersistentLevel.BP_PlayerBase_C_0.ThirdPersonbMesh.AnimBP_Player_C_0
+	Function /Game/Blueprints/Player/Animations/AnimBP_Player.AnimBP_Player_C:ExecuteUbergraph_AnimBP_Player:078C
+[2024.06.02-09.52.12:643][592]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.02-09.52.16:891][651]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-09.52.16:892][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-09.52.25:294][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.02-09.52.25:618][739]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_WeaponBase
+[2024.06.02-09.52.25:619][739]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/BP_WeaponBaseF227FA714DB6B00BB12561B7BFC4DE08.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Weapons/BP_WeaponBase.uasset'
+[2024.06.02-09.52.25:629][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 3.32 sec)
+[2024.06.02-09.52.25:630][739]AssetCheck: New page: Asset Save: BP_WeaponBase
+[2024.06.02-09.52.25:630][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase
