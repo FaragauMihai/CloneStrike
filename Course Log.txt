@@ -3,3 +3,4 @@
 10.04 Shoot Weapon Input Action & Structure; MERGE TOT!
 10.05 Creating the Weapon Shot Timer MEERGE TOT!
 10.06 Line Trace By Channel MERGE TOT!
+10.07 Adjusting the Player Collision Settings TOT!
