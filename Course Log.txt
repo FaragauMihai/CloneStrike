@@ -5,3 +5,5 @@
 10.06 Line Trace By Channel MERGE TOT!
 10.07 Adjusting the Player Collision Settings TOT!
 10.08 Creating the Muzzle Flash Sockets TOT!
+10.09 Shooting VFX & SFX TOT!
+10.10 Preventing Shooting During Equip Anim 
