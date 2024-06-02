@@ -1,1 +1,2 @@
-10.02
+10.02 MERGE TOT!
+10.03 Adding Weapon Properties to Structure; MERGE TOT!
