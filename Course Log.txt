@@ -9,3 +9,4 @@
 10.10 Preventing Shooting During Equip Anim TOT!
 
 10.11 Creating the Ammo UI; VERIFICAT MERGE!!
+10.12 Setting the Initial Weapon Ammo Amount; VERIFICAT MERGE!
