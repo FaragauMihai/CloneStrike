@@ -43,6 +43,10 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_AK47_Gunshot.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_M4A1_Gunshot.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_Pistol_Gunshot.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/Weapons/Pistols_B_Skeleton.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/Weapons/Pistols_B.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_PromaryWeapon.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_SecondaryInput.uasset"
 			]
