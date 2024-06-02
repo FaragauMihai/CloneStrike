@@ -4,4 +4,4 @@
 10.05 Creating the Weapon Shot Timer MEERGE TOT!
 10.06 Line Trace By Channel MERGE TOT!
 10.07 Adjusting the Player Collision Settings TOT!
-10.08 Creating the Muzzle Flash Sockets 
+10.08 Creating the Muzzle Flash Sockets TOT!
