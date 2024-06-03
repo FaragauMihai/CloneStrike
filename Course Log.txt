@@ -10,3 +10,13 @@
 
 10.11 Creating the Ammo UI; VERIFICAT MERGE!!
 10.12 Setting the Initial Weapon Ammo Amount; VERIFICAT MERGE!
+10.13 Creating the Ammo UI Logic; VErificat Merge!
+
+
+
+
+
+
+
+
+
