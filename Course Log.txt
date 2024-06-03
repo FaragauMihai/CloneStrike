@@ -12,6 +12,7 @@
 10.12 Setting the Initial Weapon Ammo Amount; VERIFICAT MERGE!
 10.13 Creating the Ammo UI Logic; VErificat Merge!
 10.14 Update Ammo UI; VErificat Merge!
+Fixing bug- VErificat Merge!
 
 
 
