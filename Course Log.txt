@@ -17,7 +17,7 @@ Fixing bug- VErificat Merge!
 10.16 Calculating Ammo; Verif!
 10.17 Reload Weapon Animation Verif!
 10.18 Reload Weapon Functionality; Verificat
-
+10.19 Shooting Conditions; verif
 
 
 
