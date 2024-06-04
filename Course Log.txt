@@ -18,6 +18,8 @@ Fixing bug- VErificat Merge!
 10.17 Reload Weapon Animation Verif!
 10.18 Reload Weapon Functionality; Verificat
 10.19 Shooting Conditions; verif
+10.20 Reload Weapon With Keyboard Key; verif!
+10.21 Reload Weapon on Weapon Switching verificat
 
 
 
