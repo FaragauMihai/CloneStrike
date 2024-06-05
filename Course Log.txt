@@ -20,9 +20,6 @@ Fixing bug- VErificat Merge!
 10.19 Shooting Conditions; verif
 10.20 Reload Weapon With Keyboard Key; verif!
 10.21 Reload Weapon on Weapon Switching verificat
-
-
-
-
+10.22 Adding Pistol Shooting; Verificat!
 
 
