@@ -47,6 +47,13 @@
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/Weapons/Pistols_B_Skeleton.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Marketplace/MilitaryWeapDark/Weapons/Pistols_B.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_ReloadWeapon.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AnimMon_Fire_Pistol.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Assets/Animations/AnimMon_Fire_Rifle.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_AK47_OutOfAmmo.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_M4A1_OutOfAmmo.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Audio/SFX/SC_Pistol_OutOfAmmo.uasset",
+				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_Reload.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_PromaryWeapon.uasset",
 				"D:/Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/Player/Input/IA_SecondaryInput.uasset"
 			]

@@ -11,12 +11,15 @@
 10.11 Creating the Ammo UI; VERIFICAT MERGE!!
 10.12 Setting the Initial Weapon Ammo Amount; VERIFICAT MERGE!
 10.13 Creating the Ammo UI Logic; VErificat Merge!
-
-
-
-
-
-
-
-
+10.14 Update Ammo UI; VErificat Merge!
+Fixing bug- VErificat Merge!
+10.15 Hide Ammo UI; Verificat!
+10.16 Calculating Ammo; Verif!
+10.17 Reload Weapon Animation Verif!
+10.18 Reload Weapon Functionality; Verificat
+10.19 Shooting Conditions; verif
+10.20 Reload Weapon With Keyboard Key; verif!
+10.21 Reload Weapon on Weapon Switching verificat
+10.22 Adding Pistol Shooting; Verificat!
+10.23 Stopping Shoot VFX on Weapon Switching; Verificat!
 
