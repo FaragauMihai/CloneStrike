@@ -27,4 +27,5 @@ Fixing bug- VErificat Merge!
 10.27 Bullet Spread; verificat!
 10.28 Placing the Weapons Correctly; verif!
 11.01 Designing the Health & Armor UI; verificat
-11.02 Applying Damage ; vf!
+11.02 Applying Damage ; verificat!
+11.03 Player Info Structure; verif!
