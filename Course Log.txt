@@ -22,4 +22,5 @@ Fixing bug- VErificat Merge!
 10.21 Reload Weapon on Weapon Switching verificat
 10.22 Adding Pistol Shooting; Verificat!
 10.23 Stopping Shoot VFX on Weapon Switching; Verificat!
-
+10.25 Out of Ammo SFX; Verificat!
+10.26 Bullet Impact VFX & SFX; verificat!
