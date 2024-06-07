@@ -6051,3 +6051,1010 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.06.07-18.27.23:352][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2024.06.07-18.27.23:443][152]LogPlayLevel: Display: Destroying online subsystem :Context_30
 [2024.06.07-18.27.23:443][152]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.06.07-18.29.14:741][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerBase.BP_PlayerBase
+[2024.06.07-18.29.14:742][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.29.14:742][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.29.14:883][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.29.14:883][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.29.14:883][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.29.14:884][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.29.14:885][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.29.14:885][660]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.44:683][868]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.07-18.32.44:690][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-18.32.44:690][868]PIE: New page: PIE session: MAP_Main (Jun 8, 2024, 12:32:44 AM)
+[2024.06.07-18.32.44:690][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-18.32.44:720][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029140s)
+[2024.06.07-18.32.44:720][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.029198s)
+[2024.06.07-18.32.44:742][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.06.07-18.32.44:745][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.32.44:745][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.32.44:745][868]LogAIModule: Creating AISystem for world MAP_Main
+[2024.06.07-18.32.44:746][868]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2024.06.07-18.32.44:746][868]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-18.32.44:746][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-18.32.44:746][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-18.32.44:747][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-18.32.44:747][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-18.32.44:747][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-18.32.44:749][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-18.32.44:915][868]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-18.32.44:916][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-18.32.44:916][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-18.32.44:916][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-18.32.44:918][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.06.07-18.32.44:918][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.06.07-18.32.44:920][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.06.07-18.32.44:920][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.06.07-18.32.44:920][868]LogInit: FAudioDevice initialized with ID 20.
+[2024.06.07-18.32.44:920][868]LogAudio: Display: Audio Device (ID: 20) registered with world 'MAP_Main'.
+[2024.06.07-18.32.44:920][868]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.06.07-18.32.44:951][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.32.44:951][868]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.06.07-18.32.44:963][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.07-21.32.44
+[2024.06.07-18.32.44:965][868]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.06.07-18.32.44:966][868]LogWorld: Bringing up level for play took: 0.014511
+[2024.06.07-18.32.44:967][868]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.06.07-18.32.44:967][868]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.07-18.32.44:967][868]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.06.07-18.32.44:967][868]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.06.07-18.32.44:967][868]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.32.44:967][868]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 17777
+[2024.06.07-18.32.44:971][868]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-18.32.44:971][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-18.32.44:978][868]PIE: Server logged in
+[2024.06.07-18.32.44:986][868]PIE: Play in editor total start time 0.296 seconds.
+[2024.06.07-18.32.44:987][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.32.44:987][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.32.44:988][868]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2024.06.07-18.32.44:988][868]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-18.32.44:988][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-18.32.44:988][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-18.32.44:989][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-18.32.44:989][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-18.32.44:989][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-18.32.44:992][868]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-18.32.45:179][868]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-18.32.45:180][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-18.32.45:180][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-18.32.45:180][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-18.32.45:184][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.06.07-18.32.45:184][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.06.07-18.32.45:186][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.06.07-18.32.45:186][868]LogInit: FAudioDevice initialized with ID 21.
+[2024.06.07-18.32.45:186][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.06.07-18.32.45:186][868]LogAudio: Display: Audio Device (ID: 21) registered with world 'Untitled'.
+[2024.06.07-18.32.45:187][868]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.06.07-18.32.45:220][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.32.45:220][868]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.06.07-18.32.45:220][868]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.06.07-18.32.45:220][868]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.06.07-18.32.45:220][868]LogNet: IpConnection_18 setting maximum channels to: 32767
+[2024.06.07-18.32.45:221][868]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.32.45:222][868]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 1
+[2024.06.07-18.32.45:222][868]LogNet: Game client on port 17777, rate 100000
+[2024.06.07-18.32.45:233][868]PIE: Client logged in
+[2024.06.07-18.32.45:243][868]PIE: Play in editor total start time 0.553 seconds.
+[2024.06.07-18.32.45:273][868]LogViewport: Scene viewport resized to 1084x630, mode Windowed.
+[2024.06.07-18.32.46:078][868]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.06.07-18.32.46:398][870]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62088
+[2024.06.07-18.32.46:398][870]LogHandshake: SendConnectChallenge. Timestamp: 2.047615, Cookie: 042158200216180061186010119240203148050139098100135253024004
+[2024.06.07-18.32.46:400][870]LogHandshake: Cached server SessionID: 0
+[2024.06.07-18.32.46:400][870]LogHandshake: SendChallengeResponse. Timestamp: 2.047615, Cookie: 042158200216180061186010119240203148050139098100135253024004
+[2024.06.07-18.32.46:435][871]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62088
+[2024.06.07-18.32.46:435][871]LogHandshake: SendChallengeAck. InCookie: 042158200216180061186010119240203148050139098100135253024004
+[2024.06.07-18.32.46:435][871]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62088
+[2024.06.07-18.32.46:435][871]LogNet: IpConnection_19 setting maximum channels to: 32767
+[2024.06.07-18.32.46:435][871]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.32.46:436][871]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 06/07/24 21:32:46, [UNetConnection] RemoteAddr: 127.0.0.1:62088, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.32.46:436][871]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62088, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.32.46:438][871]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: PendingNetDriver IpNetDriver_19, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.32.46:453][872]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.06.07-18.32.46:453][872]LogNet: Remote platform little endian=1
+[2024.06.07-18.32.46:453][872]LogNet: This platform little endian=1
+[2024.06.07-18.32.46:458][872]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.06.07-18.32.46:474][873]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4 userId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4 platform: NULL
+[2024.06.07-18.32.46:476][873]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.06.07-18.32.46:476][873]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.06.07-18.32.46:476][873]LogWorld: BeginTearingDown for /Temp/Untitled_10
+[2024.06.07-18.32.46:476][873]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.32.46:476][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.32.46:491][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-18.32.46:493][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.06.07-18.32.46:509][873]LogAudio: Display: Audio Device (ID: 21) registered with world 'MAP_Main'.
+[2024.06.07-18.32.46:509][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.32.46:509][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.32.46:509][873]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2024.06.07-18.32.46:516][873]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.07-21.32.46
+[2024.06.07-18.32.46:516][873]LogWorld: Bringing up level for play took: 0.006441
+[2024.06.07-18.32.46:516][873]LogLoad: Took 0.039836 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.06.07-18.32.46:533][874]LogNet: Client netspeed is 100000
+[2024.06.07-18.32.46:533][874]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4?SplitscreenCount=1
+[2024.06.07-18.32.46:534][874]LogNet: Join succeeded: DESKTOP-Q3OAHUL-75BA
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:537][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:538][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_20. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:539][879]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.32.47:540][879]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-18.32.47:540][879]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-18.32.47:693][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:693][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:693][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:695][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:695][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:695][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:697][886]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.07-18.32.47:697][886]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.07-18.32.47:703][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:703][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:703][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:704][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:705][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.47:705][886]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.32.52:241][ 82]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_CounterTerrorist_C_0. Function SRV_SetIsEquippingWeapon will not be processed.
+[2024.06.07-18.32.53:612][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.32.53:613][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.06.07-18.32.53:613][144]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-18.32.53:617][144]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.32.53:618][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.32.53:619][144]LogNet: World NetDriver shutdown IpNetDriver_19 [GameNetDriver]
+[2024.06.07-18.32.53:619][144]LogNet: DestroyNamedNetDriver IpNetDriver_19 [GameNetDriver]
+[2024.06.07-18.32.53:619][144]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4, Channels: 54, Time: 2024.06.07-18.32.53
+[2024.06.07-18.32.53:619][144]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4
+[2024.06.07-18.32.53:619][144]LogExit: GameNetDriver IpNetDriver_19 shut down
+[2024.06.07-18.32.53:621][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-18.32.53:622][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.32.53:622][144]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-18.32.53:627][144]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.32.53:629][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.32.53:630][144]LogNet: World NetDriver shutdown IpNetDriver_18 [GameNetDriver]
+[2024.06.07-18.32.53:630][144]LogNet: DestroyNamedNetDriver IpNetDriver_18 [GameNetDriver]
+[2024.06.07-18.32.53:630][144]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-18.32.53:630][144]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.06.07-18.32.53:630][144]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62088, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4
+[2024.06.07-18.32.53:630][144]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62088, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4, Channels: 54, Time: 2024.06.07-18.32.53
+[2024.06.07-18.32.53:630][144]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-18.32.53:630][144]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.06.07-18.32.53:630][144]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62088, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-75BA4A3345F5D4B64317A4B32416F2E4
+[2024.06.07-18.32.53:630][144]LogExit: GameNetDriver IpNetDriver_18 shut down
+[2024.06.07-18.32.53:632][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-18.32.53:640][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.32.53:658][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.06.07-18.32.53:658][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.06.07-18.32.53:660][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.06.07-18.32.53:669][144]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-18.32.53:669][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.06.07-18.32.53:669][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.07-18.32.53:671][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.07-18.32.53:699][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.06.07-18.32.53:789][145]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.06.07-18.32.53:789][145]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.06.07-18.33.05:950][917]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.07-18.33.13:355][365]LogSlate: Took 0.025734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.07-18.33.23:771][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-18.33.23:840][149]LogSavePackage: Moving output files for package: /Game/Blueprints/DataTables/DT_WeaponInfo
+[2024.06.07-18.33.23:841][149]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/DT_WeaponInfoCF3A9DF44A9C1306F225D0B988689F8B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/Blueprints/DataTables/DT_WeaponInfo.uasset'
+[2024.06.07-18.33.23:887][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 10.4 sec)
+[2024.06.07-18.33.23:895][149]AssetCheck: New page: Asset Save: DT_WeaponInfo
+[2024.06.07-18.33.23:895][149]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Blueprints/DataTables/DT_WeaponInfo.DT_WeaponInfo
+[2024.06.07-18.33.24:577][203]LogSlate: Window 'DT_WeaponInfo' being destroyed
+[2024.06.07-18.33.25:668][292]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.07-18.33.25:673][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-18.33.25:675][292]PIE: New page: PIE session: MAP_Main (Jun 8, 2024, 12:33:25 AM)
+[2024.06.07-18.33.25:675][292]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-18.33.25:688][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014163s)
+[2024.06.07-18.33.25:688][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.014193s)
+[2024.06.07-18.33.25:711][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.07-18.33.25:713][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.33.25:713][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.33.25:713][292]LogAIModule: Creating AISystem for world MAP_Main
+[2024.06.07-18.33.25:714][292]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2024.06.07-18.33.25:714][292]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-18.33.25:714][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-18.33.25:714][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-18.33.25:714][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-18.33.25:714][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-18.33.25:714][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-18.33.25:716][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-18.33.25:847][292]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-18.33.25:847][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-18.33.25:847][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-18.33.25:847][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-18.33.25:848][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.06.07-18.33.25:849][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.06.07-18.33.25:850][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.06.07-18.33.25:850][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.06.07-18.33.25:850][292]LogInit: FAudioDevice initialized with ID 22.
+[2024.06.07-18.33.25:850][292]LogAudio: Display: Audio Device (ID: 22) registered with world 'MAP_Main'.
+[2024.06.07-18.33.25:850][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.06.07-18.33.25:882][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.33.25:882][292]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.06.07-18.33.25:891][292]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.07-21.33.25
+[2024.06.07-18.33.25:893][292]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.06.07-18.33.25:893][292]LogWorld: Bringing up level for play took: 0.011213
+[2024.06.07-18.33.25:894][292]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.06.07-18.33.25:894][292]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.07-18.33.25:894][292]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.06.07-18.33.25:894][292]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.06.07-18.33.25:894][292]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.33.25:894][292]LogNet: GameNetDriver IpNetDriver_20 IpNetDriver listening on port 17777
+[2024.06.07-18.33.25:897][292]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-18.33.25:897][292]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-18.33.25:898][292]PIE: Server logged in
+[2024.06.07-18.33.25:900][292]PIE: Play in editor total start time 0.226 seconds.
+[2024.06.07-18.33.25:900][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.33.25:900][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.33.25:901][292]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2024.06.07-18.33.25:901][292]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-18.33.25:901][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-18.33.25:901][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-18.33.25:902][292]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-18.33.25:902][292]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-18.33.25:902][292]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-18.33.25:904][292]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-18.33.26:030][292]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-18.33.26:030][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-18.33.26:030][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-18.33.26:030][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-18.33.26:032][292]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.06.07-18.33.26:032][292]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.06.07-18.33.26:034][292]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.06.07-18.33.26:034][292]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.06.07-18.33.26:034][292]LogInit: FAudioDevice initialized with ID 23.
+[2024.06.07-18.33.26:034][292]LogAudio: Display: Audio Device (ID: 23) registered with world 'Untitled'.
+[2024.06.07-18.33.26:034][292]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.06.07-18.33.26:062][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.33.26:062][292]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.06.07-18.33.26:062][292]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.06.07-18.33.26:062][292]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.06.07-18.33.26:062][292]LogNet: IpConnection_20 setting maximum channels to: 32767
+[2024.06.07-18.33.26:063][292]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.33.26:064][292]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2024.06.07-18.33.26:064][292]LogNet: Game client on port 17777, rate 100000
+[2024.06.07-18.33.26:067][292]PIE: Client logged in
+[2024.06.07-18.33.26:069][292]PIE: Play in editor total start time 0.395 seconds.
+[2024.06.07-18.33.26:171][292]LogViewport: Scene viewport resized to 1084x630, mode Windowed.
+[2024.06.07-18.33.26:188][292]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.06.07-18.33.26:845][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:845][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:845][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:847][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:847][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:847][332]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.26:848][332]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.07-18.33.26:848][332]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.07-18.33.27:084][348]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52288
+[2024.06.07-18.33.27:084][348]LogHandshake: SendConnectChallenge. Timestamp: 1.424732, Cookie: 165200162183242068229068098001043074094158181164024036242203
+[2024.06.07-18.33.27:087][348]LogHandshake: Cached server SessionID: 0
+[2024.06.07-18.33.27:087][348]LogHandshake: SendChallengeResponse. Timestamp: 1.424732, Cookie: 165200162183242068229068098001043074094158181164024036242203
+[2024.06.07-18.33.27:098][349]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52288
+[2024.06.07-18.33.27:098][349]LogHandshake: SendChallengeAck. InCookie: 165200162183242068229068098001043074094158181164024036242203
+[2024.06.07-18.33.27:098][349]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52288
+[2024.06.07-18.33.27:098][349]LogNet: IpConnection_21 setting maximum channels to: 32767
+[2024.06.07-18.33.27:098][349]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-18.33.27:099][349]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 06/07/24 21:33:27, [UNetConnection] RemoteAddr: 127.0.0.1:52288, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.33.27:099][349]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52288, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.33.27:102][349]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: PendingNetDriver IpNetDriver_21, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-18.33.27:120][350]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.06.07-18.33.27:120][350]LogNet: Remote platform little endian=1
+[2024.06.07-18.33.27:120][350]LogNet: This platform little endian=1
+[2024.06.07-18.33.27:126][350]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.06.07-18.33.27:134][351]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD userId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD platform: NULL
+[2024.06.07-18.33.27:137][351]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.06.07-18.33.27:137][351]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.06.07-18.33.27:137][351]LogWorld: BeginTearingDown for /Temp/Untitled_11
+[2024.06.07-18.33.27:137][351]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.33.27:137][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.33.27:155][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-18.33.27:162][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.07-18.33.27:179][351]LogAudio: Display: Audio Device (ID: 23) registered with world 'MAP_Main'.
+[2024.06.07-18.33.27:180][351]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-18.33.27:180][351]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-18.33.27:180][351]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2024.06.07-18.33.27:187][351]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 0) at 2024.06.07-21.33.27
+[2024.06.07-18.33.27:188][351]LogWorld: Bringing up level for play took: 0.007096
+[2024.06.07-18.33.27:188][351]LogLoad: Took 0.050334 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.06.07-18.33.27:205][352]LogNet: Client netspeed is 100000
+[2024.06.07-18.33.27:205][352]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD?SplitscreenCount=1
+[2024.06.07-18.33.27:206][352]LogNet: Join succeeded: DESKTOP-Q3OAHUL-05CC
+[2024.06.07-18.33.27:576][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:576][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:576][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:577][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:577][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:577][353]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:872][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_20. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:873][357]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-18.33.27:874][357]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-18.33.27:874][357]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-18.33.31:245][506]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_CounterTerrorist_C_0. Function SRV_SetIsEquippingWeapon will not be processed.
+[2024.06.07-18.33.38:069][812]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_CounterTerrorist_C_0. Function SRV_SetIsReloadingWeapon will not be processed.
+[2024.06.07-18.33.46:793][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.33.46:793][199]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.06.07-18.33.46:793][199]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-18.33.46:797][199]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.33.46:798][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.33.46:799][199]LogNet: World NetDriver shutdown IpNetDriver_21 [GameNetDriver]
+[2024.06.07-18.33.46:799][199]LogNet: DestroyNamedNetDriver IpNetDriver_21 [GameNetDriver]
+[2024.06.07-18.33.46:799][199]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD, Channels: 54, Time: 2024.06.07-18.33.46
+[2024.06.07-18.33.46:799][199]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD
+[2024.06.07-18.33.46:799][199]LogExit: GameNetDriver IpNetDriver_21 shut down
+[2024.06.07-18.33.46:801][199]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-18.33.46:802][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-18.33.46:802][199]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-18.33.46:811][199]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.33.46:812][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.33.46:813][199]LogNet: World NetDriver shutdown IpNetDriver_20 [GameNetDriver]
+[2024.06.07-18.33.46:813][199]LogNet: DestroyNamedNetDriver IpNetDriver_20 [GameNetDriver]
+[2024.06.07-18.33.46:813][199]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-18.33.46:813][199]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.06.07-18.33.46:813][199]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52288, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD
+[2024.06.07-18.33.46:813][199]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52288, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD, Channels: 54, Time: 2024.06.07-18.33.46
+[2024.06.07-18.33.46:813][199]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-18.33.46:814][199]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.06.07-18.33.46:814][199]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52288, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-05CC159041B6D67D2FDA53BFFF32F1BD
+[2024.06.07-18.33.46:814][199]LogExit: GameNetDriver IpNetDriver_20 shut down
+[2024.06.07-18.33.46:816][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-18.33.46:822][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.33.46:841][199]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-18.33.46:841][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.06.07-18.33.46:841][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.06.07-18.33.46:843][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.06.07-18.33.46:851][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.06.07-18.33.46:852][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.06.07-18.33.46:853][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.06.07-18.33.46:868][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.06.07-18.33.46:943][200]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.06.07-18.33.46:943][200]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.06.07-18.33.50:716][420]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-18.33.50:716][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 0 (Found bundle for host: 0x55b94160630 [serially])
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 7 (Closing connection)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: 0000055C2BFA1E00: libcurl info message cache 13 (Closing connection)
+[2024.06.07-18.40.44:711][764]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-18.40.45:041][765]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.06.07-18.40.47:106][770]Could not fetch the local adapter addresses
+[2024.06.07-18.40.47:106][770]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2024.06.07-18.41.32:127][906]LogHttp: Warning: 0000055C2BFA2800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-18.41.32:127][906]LogHttp: Warning: 0000055C2BFA2800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-18.41.32:127][906]LogHttp: Warning: 0000055C2BFA2800: libcurl info message cache 1 (Closing connection)
+[2024.06.07-18.41.32:127][906]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-18.42.42:805][118]LogHttp: Warning: 0000055C2BFA3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-18.42.42:805][118]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-18.42.42:805][118]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 1 (Closing connection)
+[2024.06.07-18.42.42:805][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-18.43.31:821][265]LogHttp: Warning: 0000055C2BFA4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-18.43.31:822][265]LogHttp: Warning: 0000055C2BFA4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-18.43.31:822][265]LogHttp: Warning: 0000055C2BFA4100: libcurl info message cache 1 (Closing connection)
+[2024.06.07-18.43.31:822][265]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-18.52.20:102][849]LogDerivedDataCache: C:/Users/farag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6130 files in 8252 folders with total size 407 MiB.
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 0 (Found bundle for host: 0x55b94160990 [serially])
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 7 (Closing connection)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 12 (Found bundle for host: 0x55b94160990 [serially])
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 13 (  Trying 34.237.7.15:443...)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 14 (Connected to datarouter.ol.epicgames.com (34.237.7.15) port 443)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 15 (ALPN: curl offers http/1.1)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 16 (SSL reusing session ID)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 27 (Server certificate:)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.07-18.56.15:672][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 29 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 30 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 34 (using HTTP/1.1)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 35 (necessary data rewind wasn't possible)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 36 (Closing connection)
+[2024.06.07-18.56.15:673][556]LogHttp: Warning: 0000055C2BFAAA00: libcurl info message cache 37 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.07-18.56.15:680][556]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 0 (Found bundle for host: 0x55b94160990 [serially])
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 6 (Closing connection)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 9 (  Trying 100.24.162.241:443...)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (100.24.162.241) port 443)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 12 (SSL reusing session ID)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 23 (Server certificate:)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 25 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 26 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 30 (using HTTP/1.1)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 32 (Closing connection)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: 0000055C2BFA6400: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.07-19.09.00:125][849]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 0 (Found bundle for host: 0x55b94160900 [serially])
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 6 (Closing connection)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: 0000055C2BFA3200: libcurl info message cache 10 (Closing connection)
+[2024.06.07-19.11.58:829][385]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-19.12.31:849][484]LogHttp: Warning: 0000055C2BFA6E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.07-19.12.31:849][484]LogHttp: Warning: 0000055C2BFA6E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.07-19.12.31:849][484]LogHttp: Warning: 0000055C2BFA6E00: libcurl info message cache 1 (Closing connection)
+[2024.06.07-19.12.31:849][484]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A0C8DC3-4A87-C059-7188-AD83F8F5A532%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=80edae8d4ea86e3a63831aad5dba4cfb%7C4e7e225ef4c044358f2fa7197316cbdb%7C1636b286-f6fa-4bcf-b33b-da6a26709181&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.07-19.12.37:460][717]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.12.37:485][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.12.37:486][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.12.37:507][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.12.37:507][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.12.37:555][717]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.06.07-19.12.39:107][717]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.06.07-19.12.40:469][732]LogSlate: Window 'WB_Main' being destroyed
+[2024.06.07-19.12.40:546][732]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-19.12.40:546][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.12.40:552][732]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-19.12.40:552][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.12.42:729][904]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.12.42:729][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.12.42:729][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.12.42:742][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.12.42:742][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.17.31:984][849]LogSlate: Took 0.138497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.06.07-19.18.53:251][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.06.07-19.18.53:254][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.049
+[2024.06.07-19.18.53:255][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.06.07-19.18.53:260][951]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.06.07-19.18.53:260][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.06.07-19.18.53:354][951]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto4
+[2024.06.07-19.18.53:354][951]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto46EDD816F43B739E878EA0FA1D54EC214.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto4.uasset'
+[2024.06.07-19.18.53:354][951]LogFileHelpers: Auto-saving content packages took 0.099
+[2024.06.07-19.28.37:030][451]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Images/IMG_ProgressBarFillRed.IMG_ProgressBarFillRed
+[2024.06.07-19.28.37:485][451]LogViewport: Scene viewport resized to 1246x898, mode Windowed.
+[2024.06.07-19.29.34:588][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.29.34:626][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.29.34:644][784]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.29.34:644][784]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main61052BC648A0766C273685A916904C1B.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.29.35:030][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 442 ms (total: 10.9 sec)
+[2024.06.07-19.29.35:033][784]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.29.35:033][784]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.30.42:970][833]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.07-19.31.08:031][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.06.07-19.31.08:036][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.133
+[2024.06.07-19.31.08:036][956]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.06.07-19.31.08:045][956]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.06.07-19.31.08:045][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.06.07-19.31.08:069][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto5
+[2024.06.07-19.31.08:069][956]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto567CE5F904DA89F9E43644D9FFC29E7ED.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto5.uasset'
+[2024.06.07-19.31.08:070][956]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.06.07-19.34.03:804][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.34.03:848][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.34.03:870][433]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.34.03:870][433]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main312B9A634044F2ACD1186DA386B4C525.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.34.03:878][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 10.9 sec)
+[2024.06.07-19.34.03:881][433]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.34.03:881][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.34.18:964][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.34.18:995][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.34.19:014][202]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.34.19:014][202]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainC9F91AF54FE3CD2AC7C51CB1C91B58E4.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.34.19:022][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 11.0 sec)
+[2024.06.07-19.34.19:023][202]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.34.19:023][202]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.35.09:482][340]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.07-19.35.33:541][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.35.33:581][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.35.33:599][ 61]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.35.33:599][ 61]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main50421758426E999769CAACA5616E05B2.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.35.33:606][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 11.0 sec)
+[2024.06.07-19.35.33:608][ 61]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.35.33:608][ 61]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.37.07:942][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.37.07:983][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.37.07:999][226]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.37.08:000][226]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main94299C414B79750583CE68AD1CA6FE5E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.37.08:006][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 11.1 sec)
+[2024.06.07-19.37.08:007][226]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.37.08:007][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.37.18:339][689]LogEditorTransaction: Undo Move Widget
+[2024.06.07-19.38.44:917][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.38.44:942][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.38.44:962][722]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.38.44:963][722]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainD8236E5D4A169E4B9BF6FFB483FA59D9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.38.44:971][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.2 sec)
+[2024.06.07-19.38.44:972][722]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.38.44:972][722]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.39.00:732][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.39.00:762][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.39.00:780][258]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.39.00:781][258]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main277C03FD40870206E80182B3DA805824.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.39.00:787][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 11.2 sec)
+[2024.06.07-19.39.00:798][258]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.39.00:798][258]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.39.03:298][390]LogEditorTransaction: Undo Duplicate selection
+[2024.06.07-19.39.09:380][724]LogEditorTransaction: Undo Duplicate selection
+[2024.06.07-19.39.10:338][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.39.10:373][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.39.10:391][768]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.39.10:392][768]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main416C721849956566E81AFD90948E4850.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.39.10:404][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 11.3 sec)
+[2024.06.07-19.39.10:405][768]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.39.10:405][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.39.27:466][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.39.27:498][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.39.27:517][499]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.39.27:517][499]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main5B0FA5724A065868D6745AAC8623CF2E.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.39.27:524][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 11.3 sec)
+[2024.06.07-19.39.27:525][499]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.39.27:525][499]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.40.03:611][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.40.03:644][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.40.03:662][604]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.40.03:662][604]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main7258A2774A3F2DDDE462DBA0198BFA7C.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.40.03:669][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 11.4 sec)
+[2024.06.07-19.40.03:671][604]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.40.03:671][604]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.40.59:976][137]LogEditorTransaction: Undo Move Widget
+[2024.06.07-19.41.00:499][156]LogEditorTransaction: Undo Move Widget
+[2024.06.07-19.41.00:944][181]LogEditorTransaction: Undo Add Widget
+[2024.06.07-19.41.09:931][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.41.09:964][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.41.09:982][406]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.41.09:982][406]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainEF8674A948E06CC5EAB7708DBAF17A68.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.41.09:988][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 11.5 sec)
+[2024.06.07-19.41.09:990][406]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.41.09:990][406]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.41.18:505][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.41.18:540][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.41.18:558][759]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.41.18:559][759]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_MainB99BB2D34D9D55B94C5D3BA6B88F4772.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.41.18:565][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 11.5 sec)
+[2024.06.07-19.41.18:566][759]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.41.18:566][759]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.42.31:998][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.06.07-19.42.32:000][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Main' took 0.030
+[2024.06.07-19.42.32:001][378]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Main] ([2] browsable assets)...
+[2024.06.07-19.42.32:005][378]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Main.WB_Main]
+[2024.06.07-19.42.32:005][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Main]
+[2024.06.07-19.42.32:021][378]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_Main_Auto6
+[2024.06.07-19.42.32:021][378]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main_Auto6F6322C544526159BC6B45E8A1A14DDC5.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/Autosaves/Game/UI/WB_Main_Auto6.uasset'
+[2024.06.07-19.42.32:022][378]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.06.07-19.46.39:389][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.46.39:417][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.46.39:434][879]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.46.39:434][879]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main0DC747814A5481559C5B58B820A06D07.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.46.39:441][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.6 sec)
+[2024.06.07-19.46.39:444][879]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.46.39:444][879]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.48.13:745][876]LogEditorTransaction: Undo Reset to Default
+[2024.06.07-19.48.17:163][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.48.17:191][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.48.17:211][ 50]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.48.17:212][ 50]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main4A74AE0B4F9DCB56D3A073A4225633A3.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.48.17:223][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 11.6 sec)
+[2024.06.07-19.48.17:224][ 50]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.48.17:224][ 50]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.48.18:765][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.48.18:792][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.48.18:811][134]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.48.18:811][134]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main85F8C75542749629425400839CC86FB5.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.48.18:818][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 11.7 sec)
+[2024.06.07-19.48.18:819][134]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.48.18:819][134]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.48.38:850][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.48.38:889][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.48.38:907][891]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.48.38:907][891]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main624FAE5B4ABDC996EA2C24B0FF698509.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.48.38:913][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 11.7 sec)
+[2024.06.07-19.48.38:915][891]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.48.38:915][891]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.48.54:363][746]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/ICO_Shield.ICO_Shield
+[2024.06.07-19.48.54:464][746]LogViewport: Scene viewport resized to 1246x898, mode Windowed.
+[2024.06.07-19.49.11:639][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.49.11:670][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.49.11:689][719]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.49.11:690][719]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main321DE6534281A4EC9A554EB9168336D8.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.49.11:696][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 11.8 sec)
+[2024.06.07-19.49.11:698][719]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.49.11:698][719]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.49.14:882][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.49.14:910][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.49.14:928][901]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.49.14:928][901]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main3356EBC54A4C3A556FFA47A5C1F6FED0.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.49.14:935][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 11.9 sec)
+[2024.06.07-19.49.14:936][901]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.49.14:936][901]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.49.19:225][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.49.19:265][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.49.19:284][138]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.49.19:284][138]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main31632C9D4CEE46AE3DBAF9A77DD5A1B9.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.49.19:291][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 11.9 sec)
+[2024.06.07-19.49.19:292][138]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.49.19:292][138]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
+[2024.06.07-19.49.38:079][279]BlueprintLog: New page: Compile WB_Main
+[2024.06.07-19.49.38:500][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.06.07-19.49.39:260][313]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.06.07-19.49.39:265][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.07-19.49.39:265][313]PIE: New page: PIE session: MAP_Main (Jun 8, 2024, 1:49:39 AM)
+[2024.06.07-19.49.39:266][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-19.49.39:279][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013750s)
+[2024.06.07-19.49.39:279][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Main.MAP_Main to /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main (0.013783s)
+[2024.06.07-19.49.39:295][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.06.07-19.49.39:298][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.49.39:298][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.49.39:298][313]LogAIModule: Creating AISystem for world MAP_Main
+[2024.06.07-19.49.39:299][313]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2024.06.07-19.49.39:299][313]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-19.49.39:299][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-19.49.39:299][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-19.49.39:299][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-19.49.39:300][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-19.49.39:300][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-19.49.39:302][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-19.49.39:429][313]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-19.49.39:429][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-19.49.39:429][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-19.49.39:429][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-19.49.39:431][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.06.07-19.49.39:431][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.06.07-19.49.39:432][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.06.07-19.49.39:432][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.06.07-19.49.39:432][313]LogInit: FAudioDevice initialized with ID 24.
+[2024.06.07-19.49.39:432][313]LogAudio: Display: Audio Device (ID: 24) registered with world 'MAP_Main'.
+[2024.06.07-19.49.39:432][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.06.07-19.49.39:462][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-19.49.39:462][313]LogLoad: Game class is 'GM_CounterStrike_C'
+[2024.06.07-19.49.39:473][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.06.07-22.49.39
+[2024.06.07-19.49.39:477][313]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.06.07-19.49.39:477][313]LogWorld: Bringing up level for play took: 0.015194
+[2024.06.07-19.49.39:478][313]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.06.07-19.49.39:478][313]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.07-19.49.39:479][313]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.06.07-19.49.39:479][313]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2024.06.07-19.49.39:479][313]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-19.49.39:479][313]LogNet: GameNetDriver IpNetDriver_22 IpNetDriver listening on port 17777
+[2024.06.07-19.49.39:481][313]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-19.49.39:481][313]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-19.49.39:486][313]PIE: Server logged in
+[2024.06.07-19.49.39:489][313]PIE: Play in editor total start time 0.225 seconds.
+[2024.06.07-19.49.39:490][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.49.39:490][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.49.39:491][313]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2024.06.07-19.49.39:491][313]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.07-19.49.39:491][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.07-19.49.39:491][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.07-19.49.39:491][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.07-19.49.39:491][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.07-19.49.39:491][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.07-19.49.39:494][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.07-19.49.39:624][313]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.06.07-19.49.39:624][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.07-19.49.39:624][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.07-19.49.39:624][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.07-19.49.39:626][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.06.07-19.49.39:626][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.06.07-19.49.39:627][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.06.07-19.49.39:627][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.06.07-19.49.39:627][313]LogInit: FAudioDevice initialized with ID 25.
+[2024.06.07-19.49.39:627][313]LogAudio: Display: Audio Device (ID: 25) registered with world 'Untitled'.
+[2024.06.07-19.49.39:627][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.06.07-19.49.39:660][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-19.49.39:660][313]LogNet: Browse: 127.0.0.1:17777/Game/Maps/MAP_Main
+[2024.06.07-19.49.39:660][313]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2024.06.07-19.49.39:660][313]LogNet: Created socket for bind address: 0.0.0.0:0
+[2024.06.07-19.49.39:660][313]LogNet: IpConnection_22 setting maximum channels to: 32767
+[2024.06.07-19.49.39:661][313]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-19.49.39:663][313]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2024.06.07-19.49.39:663][313]LogNet: Game client on port 17777, rate 100000
+[2024.06.07-19.49.39:667][313]PIE: Client logged in
+[2024.06.07-19.49.39:671][313]PIE: Play in editor total start time 0.406 seconds.
+[2024.06.07-19.49.39:693][313]LogViewport: Scene viewport resized to 1084x630, mode Windowed.
+[2024.06.07-19.49.39:786][313]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2024.06.07-19.49.40:683][356]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56202
+[2024.06.07-19.49.40:683][356]LogHandshake: SendConnectChallenge. Timestamp: 1.439980, Cookie: 051214063221254153119079219166097027145241096137240094188014
+[2024.06.07-19.49.40:685][356]LogHandshake: Cached server SessionID: 0
+[2024.06.07-19.49.40:685][356]LogHandshake: SendChallengeResponse. Timestamp: 1.439980, Cookie: 051214063221254153119079219166097027145241096137240094188014
+[2024.06.07-19.49.40:702][357]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56202
+[2024.06.07-19.49.40:702][357]LogHandshake: SendChallengeAck. InCookie: 051214063221254153119079219166097027145241096137240094188014
+[2024.06.07-19.49.40:702][357]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56202
+[2024.06.07-19.49.40:702][357]LogNet: IpConnection_23 setting maximum channels to: 32767
+[2024.06.07-19.49.40:702][357]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.07-19.49.40:703][357]LogNet: NotifyAcceptedConnection: Name: MAP_Main, TimeStamp: 06/07/24 22:49:40, [UNetConnection] RemoteAddr: 127.0.0.1:56202, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-19.49.40:703][357]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56202, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-19.49.40:705][357]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: PendingNetDriver IpNetDriver_23, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.07-19.49.40:722][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:722][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:722][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:723][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:723][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:724][358]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.40:725][358]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.07-19.49.40:725][358]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.07-19.49.40:726][358]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_MAP_Main.MAP_Main: Accepted
+[2024.06.07-19.49.40:726][358]LogNet: Remote platform little endian=1
+[2024.06.07-19.49.40:726][358]LogNet: This platform little endian=1
+[2024.06.07-19.49.40:731][358]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.06.07-19.49.40:753][359]LogNet: Login request: ?Name=DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7 userId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7 platform: NULL
+[2024.06.07-19.49.40:757][359]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_MAP_Main, Game: /Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C)
+[2024.06.07-19.49.40:757][359]LogLoad: LoadMap: 127.0.0.1:17777/Game/Maps/MAP_Main?game=/Game/Blueprints/GM_CounterStrike.GM_CounterStrike_C
+[2024.06.07-19.49.40:757][359]LogWorld: BeginTearingDown for /Temp/Untitled_12
+[2024.06.07-19.49.40:757][359]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-19.49.40:757][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.49.40:814][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-19.49.40:816][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.06.07-19.49.40:832][359]LogAudio: Display: Audio Device (ID: 25) registered with world 'MAP_Main'.
+[2024.06.07-19.49.40:832][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-19.49.40:832][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-19.49.40:832][359]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2024.06.07-19.49.40:838][359]LogWorld: Bringing World /Game/Maps/UEDPIE_1_MAP_Main.MAP_Main up for play (max tick rate 60) at 2024.06.07-22.49.40
+[2024.06.07-19.49.40:839][359]LogWorld: Bringing up level for play took: 0.006451
+[2024.06.07-19.49.40:839][359]LogLoad: Took 0.082371 seconds to LoadMap(/Game/Maps/MAP_Main)
+[2024.06.07-19.49.40:867][360]LogNet: Client netspeed is 100000
+[2024.06.07-19.49.40:867][360]LogNet: Join request: /Game/Maps/MAP_Main?Name=DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7?SplitscreenCount=1
+[2024.06.07-19.49.40:868][360]LogNet: Join succeeded: DESKTOP-Q3OAHUL-E70A
+[2024.06.07-19.49.41:203][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:203][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:203][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:204][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:204][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:204][361]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class AnimBP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_2. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_5. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:495][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_6. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_7. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_8. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_9. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_10. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_11. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_12. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_13. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_14. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_15. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_16. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_18. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_Pistol_C_20. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_AK47_C_17. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:496][363]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_M4A1_C_19. Function SRV_InitializeWeapon will not be processed.
+[2024.06.07-19.49.41:497][363]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.07-19.49.41:497][363]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.07-19.49.45:356][517]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_CounterTerrorist_C_0. Function SRV_SetIsEquippingWeapon will not be processed.
+[2024.06.07-19.49.50:384][719]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor BP_CounterTerrorist_C_0. Function SRV_SetIsEquippingWeapon will not be processed.
+[2024.06.07-19.49.52:946][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-19.49.52:946][815]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_MAP_Main
+[2024.06.07-19.49.52:947][815]LogSlate: Window 'CounterStrike Preview [NetMode: Client 1]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-19.49.52:951][815]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-19.49.52:952][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.49.52:953][815]LogNet: World NetDriver shutdown IpNetDriver_23 [GameNetDriver]
+[2024.06.07-19.49.52:953][815]LogNet: DestroyNamedNetDriver IpNetDriver_23 [GameNetDriver]
+[2024.06.07-19.49.52:953][815]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7, Channels: 54, Time: 2024.06.07-19.49.52
+[2024.06.07-19.49.52:953][815]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: PC_CounterStrike_C_0, Owner: PC_CounterStrike_C_0, UniqueId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7
+[2024.06.07-19.49.52:953][815]LogExit: GameNetDriver IpNetDriver_23 shut down
+[2024.06.07-19.49.52:955][815]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Main
+[2024.06.07-19.49.52:955][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.07-19.49.52:956][815]LogSlate: Window 'CounterStrike Preview [NetMode: Server 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.06.07-19.49.52:960][815]LogWorld: UWorld::CleanupWorld for MAP_Main, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-19.49.52:961][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.49.52:962][815]LogNet: World NetDriver shutdown IpNetDriver_22 [GameNetDriver]
+[2024.06.07-19.49.52:962][815]LogNet: DestroyNamedNetDriver IpNetDriver_22 [GameNetDriver]
+[2024.06.07-19.49.52:962][815]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-19.49.52:962][815]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2024.06.07-19.49.52:962][815]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56202, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7
+[2024.06.07-19.49.52:962][815]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56202, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7, Channels: 54, Time: 2024.06.07-19.49.52
+[2024.06.07-19.49.52:962][815]LogNet: UNetConnection::SendCloseReason:
+[2024.06.07-19.49.52:963][815]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2024.06.07-19.49.52:963][815]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56202, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: PC_CounterStrike_C_1, Owner: PC_CounterStrike_C_1, UniqueId: NULL:DESKTOP-Q3OAHUL-E70A767D4E1EA35EB42A5DB0265B7AE7
+[2024.06.07-19.49.52:963][815]LogExit: GameNetDriver IpNetDriver_22 shut down
+[2024.06.07-19.49.52:965][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.07-19.49.52:972][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-19.49.52:993][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.07-19.49.52:993][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.06.07-19.49.52:993][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.06.07-19.49.52:995][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.06.07-19.49.53:004][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.06.07-19.49.53:004][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.06.07-19.49.53:006][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.06.07-19.49.53:022][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.06.07-19.49.53:110][816]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.06.07-19.49.53:110][816]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.06.07-19.49.55:291][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-19.49.55:335][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Main" FILE="../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset" SILENT=true
+[2024.06.07-19.49.55:356][828]LogSavePackage: Moving output files for package: /Game/UI/WB_Main
+[2024.06.07-19.49.55:356][828]LogSavePackage: Moving '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Saved/WB_Main03E018A64EC966F7C4EDBEAB0E231158.tmp' to '../../../../../../Practicing/Programming/GameDevelopment/First2Games/CounterStrike/Content/UI/WB_Main.uasset'
+[2024.06.07-19.49.55:363][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 12.0 sec)
+[2024.06.07-19.49.55:364][828]AssetCheck: New page: Asset Save: WB_Main
+[2024.06.07-19.49.55:364][828]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_Main.WB_Main
