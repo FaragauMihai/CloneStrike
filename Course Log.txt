@@ -29,3 +29,16 @@ Fixing bug- VErificat Merge!
 11.01 Designing the Health & Armor UI; verificat
 11.02 Applying Damage ; verificat!
 11.03 Player Info Structure; verif!
+11.03 Player Info Structure; verif!
+11.05 Setting the Base Health & Armor; Verif
+
+
+
+
+
+
+
+
+
+
+
