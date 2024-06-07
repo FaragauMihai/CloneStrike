@@ -26,3 +26,4 @@ Fixing bug- VErificat Merge!
 10.26 Bullet Impact VFX & SFX; verificat!
 10.27 Bullet Spread; verificat!
 10.28 Placing the Weapons Correctly; verif!
+11.01 Designing the Health & Armor UI; verificat
