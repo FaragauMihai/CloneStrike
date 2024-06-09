@@ -33,8 +33,8 @@ Fixing bug- VErificat Merge!
 11.05 Setting the Base Health & Armor; Verif
 11.06 Health & Armor UI Functionality; verif
 11.07 Updating the Health & Armor UI; Verif
-
-
+11.09 Dealing Damage to Armor; Verif
+11.10 Preventing Looting Multiple Rifles; verif
 
 
 
