@@ -41,8 +41,8 @@ Fixing bug- VErificat Merge!
 12.02 Drop Weapon When Dead; verif!
 12.03 Respawn; verif!
 12.04 Not Dead RepNotify; verif!
-; verif!
-; verif!
+12.05 Resetting Health on Respawn; verif!
+12.06 Preventing Team Damage; verif!
 ; verif!
 ; verif!
 ; verif!
