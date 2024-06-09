@@ -39,8 +39,8 @@ Fixing bug- VErificat Merge!
 
 12.01 Death; verif!
 12.02 Drop Weapon When Dead; verif!
-; verif!
-; verif!
+12.03 Respawn; verif!
+12.04 Not Dead RepNotify; verif!
 ; verif!
 ; verif!
 ; verif!
