@@ -26,6 +26,7 @@ Fixing bug- VErificat Merge!
 10.26 Bullet Impact VFX & SFX; verificat!
 10.27 Bullet Spread; verificat!
 10.28 Placing the Weapons Correctly; verif!
+
 11.01 Designing the Health & Armor UI; verificat
 11.02 Applying Damage ; verificat!
 11.03 Player Info Structure; verif!
@@ -36,6 +37,17 @@ Fixing bug- VErificat Merge!
 11.09 Dealing Damage to Armor; Verif
 11.10 Preventing Looting Multiple Rifles; verif
 
+12.01 Death; verif!
+12.02 Drop Weapon When Dead; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
 
 
 
