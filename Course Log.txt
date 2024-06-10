@@ -45,7 +45,7 @@ Fixing bug- VErificat Merge!
 12.06 Preventing Team Damage; verif!
 13.01 Designing the Score UI; verif!
 13.04 Keeping Track of Alive Players; verif!
-; verif!
+13.06 Keeping Track of All Spawned Players; verif!
 ; verif!
 ; verif!
 ; verif!
