@@ -44,7 +44,7 @@ Fixing bug- VErificat Merge!
 12.05 Resetting Health on Respawn; verif!
 12.06 Preventing Team Damage; verif!
 13.01 Designing the Score UI; verif!
-; verif!
+13.04 Keeping Track of Alive Players; verif!
 ; verif!
 ; verif!
 ; verif!
