@@ -43,6 +43,13 @@ Fixing bug- VErificat Merge!
 12.04 Not Dead RepNotify; verif!
 12.05 Resetting Health on Respawn; verif!
 12.06 Preventing Team Damage; verif!
+13.01 Designing the Score UI; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
 ; verif!
 ; verif!
 ; verif!
