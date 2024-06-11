@@ -22,4 +22,42 @@ Fixing bug- VErificat Merge!
 10.21 Reload Weapon on Weapon Switching verificat
 10.22 Adding Pistol Shooting; Verificat!
 10.23 Stopping Shoot VFX on Weapon Switching; Verificat!
+10.25 Out of Ammo SFX; Verificat!
+10.26 Bullet Impact VFX & SFX; verificat!
+10.27 Bullet Spread; verificat!
+10.28 Placing the Weapons Correctly; verif!
+
+11.01 Designing the Health & Armor UI; verificat
+11.02 Applying Damage ; verificat!
+11.03 Player Info Structure; verif!
+11.03 Player Info Structure; verif!
+11.05 Setting the Base Health & Armor; Verif
+11.06 Health & Armor UI Functionality; verif
+11.07 Updating the Health & Armor UI; Verif
+11.09 Dealing Damage to Armor; Verif
+11.10 Preventing Looting Multiple Rifles; verif
+
+12.01 Death; verif!
+12.02 Drop Weapon When Dead; verif!
+12.03 Respawn; verif!
+12.04 Not Dead RepNotify; verif!
+12.05 Resetting Health on Respawn; verif!
+12.06 Preventing Team Damage; verif!
+13.01 Designing the Score UI; verif!
+13.04 Keeping Track of Alive Players; verif!
+13.06 Keeping Track of All Spawned Players; verif!
+13.07 Checking the Amount Of Living Players; verif!
+13.08 Team Win Announcement; verif!
+13.09 Adding the Team Score; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+; verif!
+
+
+
+
+
 
