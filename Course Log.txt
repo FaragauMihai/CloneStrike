@@ -47,8 +47,8 @@ Fixing bug- VErificat Merge!
 13.04 Keeping Track of Alive Players; verif!
 13.06 Keeping Track of All Spawned Players; verif!
 13.07 Checking the Amount Of Living Players; verif!
-; verif!
-; verif!
+13.08 Team Win Announcement; verif!
+13.09 Adding the Team Score; verif!
 ; verif!
 ; verif!
 ; verif!
